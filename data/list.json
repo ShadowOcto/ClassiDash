@@ -5,9 +5,101 @@
     "id": "1",
     "creators": "soley",
     "verifier": "soley",
-    "video": "no",
+    "video": "https://www.youtube.com/watch?v=bg4MJuR-i-0",
+    "victors": []
+  },
+  {
+    "name": "Solaris",
+    "place": "2",
+    "id": "7",
+    "creators": "Shadow",
+    "verifier": "soley",
+    "video": "https://www.youtube.com/watch?v=RDWO4XMAUkY",
     "victors": [
       "soley"
     ]
+  },
+  {
+    "name": "Kagayaku",
+    "place": "3",
+    "id": "16",
+    "creators": "Firework",
+    "verifier": "soley",
+    "video": "https://www.youtube.com/watch?v=_TnuMuIPwes",
+    "victors": [
+      "soley"
+    ]
+  },
+  {
+    "name": "Eclipse",
+    "place": "4",
+    "id": "6",
+    "creators": "Shadow",
+    "verifier": "Lodomir",
+    "video": "https://www.youtube.com/watch?v=ALWiohNsfYY",
+    "victors": [
+      "Lodomir"
+    ]
+  },
+  {
+    "name": "Destiny",
+    "place": "5",
+    "id": "5",
+    "creators": "Shadow",
+    "verifier": "soley",
+    "video": "https://www.youtube.com/watch?v=cb9Kj9-VrHw",
+    "victors": [
+      "soley"
+    ]
+  },
+  {
+    "name": "Night",
+    "place": "6",
+    "id": "3",
+    "creators": "Shadow",
+    "verifier": "soley",
+    "video": "https://www.youtube.com/watch?v=3Swp2N-2O2E",
+    "victors": [
+      "soley"
+    ]
+  },
+  {
+    "name": "Faithful",
+    "place": "7",
+    "id": "13",
+    "creators": "Shadow",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=k8-Iiw9O2n8",
+    "victors": [
+      "Shadow",
+      "soley"
+    ]
+  },
+  {
+    "name": "Bliss",
+    "place": "8",
+    "id": "21",
+    "creators": "Shadow",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=H9rqPwspOXo",
+    "victors": []
+  },
+  {
+    "name": "Genesis",
+    "place": "9",
+    "id": "15",
+    "creators": "ice",
+    "verifier": "ice",
+    "video": "https://www.youtube.com/watch?v=7PziEs6u5Is",
+    "victors": []
+  },
+  {
+    "name": "Wet In",
+    "place": "10",
+    "id": "20",
+    "creators": "Shadow",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=zUF0hfFWsYM",
+    "victors": []
   }
 ]
