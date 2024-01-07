@@ -8,97 +8,97 @@
   {
     "player": "soley",
     "level": "Solaris",
-    "place": "2",
-    "points": 208
+    "place": "3",
+    "points": 179
   },
   {
     "player": "soley",
     "level": "Kagayaku",
-    "place": "4",
-    "points": 156
+    "place": "5",
+    "points": 139
   },
   {
     "player": "Lodomir",
     "level": "Eclipse",
-    "place": "6",
-    "points": 125
-  },
-  {
-    "player": "soley",
-    "level": "Destiny",
     "place": "7",
     "points": 114
   },
   {
     "player": "soley",
-    "level": "Night",
+    "level": "Destiny",
     "place": "8",
     "points": 104
   },
   {
+    "player": "soley",
+    "level": "Night",
+    "place": "9",
+    "points": 96
+  },
+  {
     "player": "denis",
     "level": "Night",
-    "place": "8",
-    "points": 104
+    "place": "9",
+    "points": 96
   },
   {
     "player": "Hykre",
     "level": "Night",
-    "place": "8",
-    "points": 104
+    "place": "9",
+    "points": 96
   },
   {
     "player": "Shadow",
     "level": "Faithful",
-    "place": "9",
-    "points": 96
+    "place": "10",
+    "points": 89
   },
   {
     "player": "soley",
     "level": "Faithful",
-    "place": "9",
-    "points": 96
+    "place": "10",
+    "points": 89
   },
   {
     "player": "crasu",
     "level": "Bliss",
-    "place": "10",
-    "points": 89
+    "place": "11",
+    "points": 83
   },
   {
     "player": "Shadow",
     "level": "Bliss",
-    "place": "10",
-    "points": 89
+    "place": "11",
+    "points": 83
   },
   {
     "player": "Shadow",
     "level": "Wet In",
-    "place": "12",
-    "points": 78
+    "place": "13",
+    "points": 74
   },
   {
     "player": "Lodomir",
     "level": "Destruction Of World",
-    "place": "3",
-    "points": 179
+    "place": "4",
+    "points": 156
   },
   {
     "player": "Shadow",
     "level": "Fantasy",
-    "place": "5",
-    "points": 139
+    "place": "6",
+    "points": 125
   },
   {
     "player": "soley",
     "level": "Cry About It",
-    "place": "13",
-    "points": 74
+    "place": "14",
+    "points": 69
   },
   {
     "player": "denis",
     "level": "Cry About It",
-    "place": "13",
-    "points": 74
+    "place": "14",
+    "points": 69
   }
 ]

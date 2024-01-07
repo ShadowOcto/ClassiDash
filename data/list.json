@@ -12,7 +12,7 @@
   },
   {
     "name": "Solaris",
-    "place": "2",
+    "place": "3",
     "id": "7",
     "creators": "Shadow",
     "verifier": "soley",
@@ -23,7 +23,7 @@
   },
   {
     "name": "Kagayaku",
-    "place": "4",
+    "place": "5",
     "id": "16",
     "creators": "Firework",
     "verifier": "soley",
@@ -34,7 +34,7 @@
   },
   {
     "name": "Eclipse",
-    "place": "6",
+    "place": "7",
     "id": "6",
     "creators": "Shadow",
     "verifier": "Lodomir",
@@ -45,7 +45,7 @@
   },
   {
     "name": "Destiny",
-    "place": "7",
+    "place": "8",
     "id": "5",
     "creators": "Shadow",
     "verifier": "soley",
@@ -56,7 +56,7 @@
   },
   {
     "name": "Night",
-    "place": "8",
+    "place": "9",
     "id": "3",
     "creators": "Shadow",
     "verifier": "soley",
@@ -69,7 +69,7 @@
   },
   {
     "name": "Faithful",
-    "place": "9",
+    "place": "10",
     "id": "13",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -81,7 +81,7 @@
   },
   {
     "name": "Bliss",
-    "place": "10",
+    "place": "11",
     "id": "21",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -93,7 +93,7 @@
   },
   {
     "name": "Genesis",
-    "place": "11",
+    "place": "12",
     "id": "15",
     "creators": "ice",
     "verifier": "ice",
@@ -102,7 +102,7 @@
   },
   {
     "name": "Wet In",
-    "place": "12",
+    "place": "13",
     "id": "20",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -113,7 +113,7 @@
   },
   {
     "name": "Destruction Of World",
-    "place": "3",
+    "place": "4",
     "id": "23",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -124,7 +124,7 @@
   },
   {
     "name": "Fantasy",
-    "place": "5",
+    "place": "6",
     "id": "62",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -135,7 +135,7 @@
   },
   {
     "name": "Cry About It",
-    "place": "13",
+    "place": "14",
     "id": "2",
     "creators": "Shadow",
     "verifier": "soley",
@@ -144,5 +144,14 @@
       "soley",
       "denis"
     ]
+  },
+  {
+    "name": "Bludareta",
+    "place": "2",
+    "id": "209",
+    "creators": "soley",
+    "verifier": "soley",
+    "video": "https://www.youtube.com/watch?v=NNUs-tBlbY4",
+    "victors": []
   }
 ]
