@@ -1,6 +1,12 @@
 [
   {
     "player": "soley",
+    "level": "Untamed",
+    "place": "1",
+    "points": 250
+  },
+  {
+    "player": "soley",
     "level": "Solaris",
     "place": "2",
     "points": 208
