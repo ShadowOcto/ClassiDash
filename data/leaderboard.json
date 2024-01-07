@@ -1,26 +1,26 @@
 [
   {
     "player": "soley",
-    "points": 707
+    "points": 678
   },
   {
     "player": "Lodomir",
-    "points": 139
+    "points": 125
   },
   {
     "player": "denis",
-    "points": 114
-  },
-  {
-    "player": "Hykre",
-    "points": 114
-  },
-  {
-    "player": "Shadow",
     "points": 104
   },
   {
-    "player": "crasu",
+    "player": "Hykre",
+    "points": 104
+  },
+  {
+    "player": "Shadow",
     "points": 96
+  },
+  {
+    "player": "crasu",
+    "points": 89
   }
 ]

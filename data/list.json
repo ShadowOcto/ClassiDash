@@ -32,7 +32,7 @@
   },
   {
     "name": "Eclipse",
-    "place": "5",
+    "place": "6",
     "id": "6",
     "creators": "Shadow",
     "verifier": "Lodomir",
@@ -43,7 +43,7 @@
   },
   {
     "name": "Destiny",
-    "place": "6",
+    "place": "7",
     "id": "5",
     "creators": "Shadow",
     "verifier": "soley",
@@ -54,7 +54,7 @@
   },
   {
     "name": "Night",
-    "place": "7",
+    "place": "8",
     "id": "3",
     "creators": "Shadow",
     "verifier": "soley",
@@ -67,7 +67,7 @@
   },
   {
     "name": "Faithful",
-    "place": "8",
+    "place": "9",
     "id": "13",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -79,7 +79,7 @@
   },
   {
     "name": "Bliss",
-    "place": "9",
+    "place": "10",
     "id": "21",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -90,7 +90,7 @@
   },
   {
     "name": "Genesis",
-    "place": "10",
+    "place": "11",
     "id": "15",
     "creators": "ice",
     "verifier": "ice",
@@ -99,7 +99,7 @@
   },
   {
     "name": "Wet In",
-    "place": "11",
+    "place": "12",
     "id": "20",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -113,6 +113,15 @@
     "creators": "Lodomir",
     "verifier": "Lodomir",
     "video": "https://www.youtube.com/watch?v=INFd3bBjGVc",
+    "victors": []
+  },
+  {
+    "name": "Fantasy",
+    "place": "5",
+    "id": "62",
+    "creators": "Shadow",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=oUIHdV9DuWc",
     "victors": []
   }
 ]

@@ -14,49 +14,49 @@
   {
     "player": "Lodomir",
     "level": "Eclipse",
-    "place": "5",
-    "points": 139
-  },
-  {
-    "player": "soley",
-    "level": "Destiny",
     "place": "6",
     "points": 125
   },
   {
     "player": "soley",
-    "level": "Night",
+    "level": "Destiny",
     "place": "7",
     "points": 114
+  },
+  {
+    "player": "soley",
+    "level": "Night",
+    "place": "8",
+    "points": 104
   },
   {
     "player": "denis",
     "level": "Night",
-    "place": "7",
-    "points": 114
+    "place": "8",
+    "points": 104
   },
   {
     "player": "Hykre",
     "level": "Night",
-    "place": "7",
-    "points": 114
+    "place": "8",
+    "points": 104
   },
   {
     "player": "Shadow",
     "level": "Faithful",
-    "place": "8",
-    "points": 104
+    "place": "9",
+    "points": 96
   },
   {
     "player": "soley",
     "level": "Faithful",
-    "place": "8",
-    "points": 104
+    "place": "9",
+    "points": 96
   },
   {
     "player": "crasu",
     "level": "Bliss",
-    "place": "9",
-    "points": 96
+    "place": "10",
+    "points": 89
   }
 ]
