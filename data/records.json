@@ -58,5 +58,23 @@
     "level": "Bliss",
     "place": "10",
     "points": 89
+  },
+  {
+    "player": "Shadow",
+    "level": "Bliss",
+    "place": "10",
+    "points": 89
+  },
+  {
+    "player": "Shadow",
+    "level": "Wet In",
+    "place": "12",
+    "points": 78
+  },
+  {
+    "player": "Shadow",
+    "level": "Fantasy",
+    "place": "5",
+    "points": 139
   }
 ]
