@@ -130,5 +130,14 @@
     "victors": [
       "Shadow"
     ]
+  },
+  {
+    "name": "Cry About It",
+    "place": "13",
+    "id": "2",
+    "creators": "Shadow",
+    "verifier": "soley",
+    "video": "https://www.youtube.com/watch?v=RtLj6ONCkkw",
+    "victors": []
   }
 ]
