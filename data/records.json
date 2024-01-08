@@ -48,6 +48,12 @@
     "points": 96
   },
   {
+    "player": "Lodomir",
+    "level": "Night",
+    "place": "9",
+    "points": 96
+  },
+  {
     "player": "Shadow",
     "level": "Faithful",
     "place": "10",
@@ -55,6 +61,12 @@
   },
   {
     "player": "soley",
+    "level": "Faithful",
+    "place": "10",
+    "points": 89
+  },
+  {
+    "player": "Lodomir",
     "level": "Faithful",
     "place": "10",
     "points": 89
