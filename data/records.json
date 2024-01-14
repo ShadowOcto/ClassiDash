@@ -62,32 +62,32 @@
   {
     "player": "Shadow",
     "level": "Faithful",
-    "place": "10",
-    "points": 89
+    "place": "11",
+    "points": 83
   },
   {
     "player": "soley",
     "level": "Faithful",
-    "place": "10",
-    "points": 89
+    "place": "11",
+    "points": 83
   },
   {
     "player": "Lodomir",
     "level": "Faithful",
-    "place": "10",
-    "points": 89
+    "place": "11",
+    "points": 83
   },
   {
     "player": "crasu",
     "level": "Bliss",
-    "place": "11",
-    "points": 83
+    "place": "10",
+    "points": 89
   },
   {
     "player": "Shadow",
     "level": "Bliss",
-    "place": "11",
-    "points": 83
+    "place": "10",
+    "points": 89
   },
   {
     "player": "ice",
@@ -116,14 +116,14 @@
   {
     "player": "soley",
     "level": "Cry About It",
-    "place": "15",
-    "points": 66
+    "place": "14",
+    "points": 69
   },
   {
     "player": "denis",
     "level": "Cry About It",
-    "place": "15",
-    "points": 66
+    "place": "14",
+    "points": 69
   },
   {
     "player": "soley",
@@ -146,13 +146,13 @@
   {
     "player": "denis",
     "level": "Another Step",
-    "place": "14",
-    "points": 69
+    "place": "15",
+    "points": 66
   },
   {
     "player": "Shadow",
     "level": "Another Step",
-    "place": "14",
-    "points": 69
+    "place": "15",
+    "points": 66
   }
 ]
