@@ -35,7 +35,7 @@
   },
   {
     "name": "Eclipse",
-    "place": "7",
+    "place": "8",
     "id": "6",
     "creators": "Shadow",
     "verifier": "Lodomir",
@@ -46,7 +46,7 @@
   },
   {
     "name": "Destiny",
-    "place": "8",
+    "place": "9",
     "id": "5",
     "creators": "Shadow",
     "verifier": "soley",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Night",
-    "place": "9",
+    "place": "10",
     "id": "3",
     "creators": "Shadow",
     "verifier": "soley",
@@ -71,7 +71,7 @@
   },
   {
     "name": "Faithful",
-    "place": "11",
+    "place": "12",
     "id": "13",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -84,7 +84,7 @@
   },
   {
     "name": "Bliss",
-    "place": "10",
+    "place": "11",
     "id": "21",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -92,17 +92,6 @@
     "victors": [
       "crasu",
       "Shadow"
-    ]
-  },
-  {
-    "name": "Genesis",
-    "place": "12",
-    "id": "15",
-    "creators": "ice",
-    "verifier": "ice",
-    "video": "https://www.youtube.com/watch?v=7PziEs6u5Is",
-    "victors": [
-      "ice"
     ]
   },
   {
@@ -129,7 +118,7 @@
   },
   {
     "name": "Fantasy",
-    "place": "6",
+    "place": "7",
     "id": "62",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -174,5 +163,14 @@
       "denis",
       "Shadow"
     ]
+  },
+  {
+    "name": "Genesis",
+    "place": "6",
+    "id": "15",
+    "creators": "ice",
+    "verifier": "ice",
+    "video": "https://www.youtube.com/watch?v=7PziEs6u5Is",
+    "victors": []
   }
 ]
