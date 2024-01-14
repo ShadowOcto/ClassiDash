@@ -154,5 +154,11 @@
     "level": "Genesis",
     "place": "6",
     "points": 125
+  },
+  {
+    "player": "sacrifice",
+    "level": "Genesis",
+    "place": "6",
+    "points": 125
   }
 ]
