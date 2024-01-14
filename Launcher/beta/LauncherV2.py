@@ -1,58 +1,97 @@
+import curses
 import os
-
+import time
+import webbrowser
 import requests
-from utils import *
-import threading
-import zipfile
 
-timer = 0
-stage = 0
-downloadDir = 'C:\\cdDevelopment'
+import launcher
+from utils import *
+
+console.clear()
 title = 'ClassiDash Launcher v2.0.0'
 if os.name == 'nt': os.system(f"title {title}")
 
-def download():
-    console.log("Started GDPS Download", '')
-    r = requests.get('https://classidash.fun/download', allow_redirects=True)
-    open(f'{downloadDir}/client.zip', 'wb').write(r.content)
-    console.log(f"Completed GDPS Download ({timer}s)", 's')
+print("Loading Launcher...")
 
+menu = ['🚀 Launch', '🚀 Launch Offline', '💻 Dashboard', '📁 Open AppData', '📁 Open GDPS Folder', '📱 Discord', '🚪 Exit']
 
-console.clear()
-console.cPrint(title)
+try: news = requests.get("https://classidash.fun/api/news").text.splitlines()
+except: news = ['Failed to connect to server.', ' ']
 
-if not os.path.isdir(downloadDir): os.mkdir(downloadDir)
+def openFolder(path):
+    os.system(f'start {path}')
+    console.log(f'Attempted to open "{path}"', '')
 
-if not os.path.isfile(f'{downloadDir}/version'): open(f'{downloadDir}/version', 'w+')
-try:
-    verRequest = requests.get('https://classidash.fun/api/version').text
-except:
-    console.log("Failed to connect to server", 'f')
-    console.log("Attempting to launch GDPS offline...", '')
-    os.chdir(f'{downloadDir}\\ClassiDash\\'); os.system(f'.\\ClassiDash.exe')
-    quit(0)
+def buttonAction(button_idx):
+    curses.endwin()
+    if button_idx == 0: launcher.launch(0)
+    if button_idx == 1: launcher.launch(1)
+    if button_idx == 2: console.log("Opened Dashboard", 's'); webbrowser.open('https://classidash.fun')
+    if button_idx == 3: openFolder(f'%localappdata%\\ClassiDash\\')
+    if button_idx == 4: openFolder(f'{launcher.downloadDir}')
+    if button_idx == 5: console.log("Opened Discord", 's'); webbrowser.open('https://classidash.fun/discord')
+    if button_idx == 6: quit(0)
 
-ver = open(f'{downloadDir}/version', 'r').read()
+def print_menu(stdscr, selected_row_idx):
+    stdscr.clear()
+    h, w = stdscr.getmaxyx()
 
-if not ver == verRequest: stage = 1
+    cText = "Launcher developed by ShadowOcto"
 
-# Update GDPS
-if stage == 1:
-    threading.Thread(target=download).start()
-    while threading.activeCount() == 2:
-        console.spinner(1, 'Downloading... (' + str(timer) + "s)")
-        timer = timer + 1
+    x = w // 2
+    y = h // 2
 
-    console.log("Started GDPS Extraction", '')
-    with zipfile.ZipFile(f'{downloadDir}/client.zip', 'r') as zip_ref:
-        zip_ref.extractall(downloadDir)
-    console.log(f"Completed GDPS Extraction", 's')
+    stdscr.addstr(0, 0, title)
+    stdscr.addstr(1, 0, "Use your arrow keys ⬆ ⬇")
+    stdscr.addstr((y * 2) - 1, 0, cText)
+    # stdscr.addstr(0, (x - len(news) // 2) * 2, news)
+    stdscr.addstr((y * 2) - 1, (x * 2) - len("▣ ClassiDash "), "▣ ClassiDash")
 
-    os.remove(f'{downloadDir}/client.zip')
-    console.log("Deleted client.zip", '')
-    open(f'{downloadDir}/version', 'w').write(verRequest)
-    console.log("Updated local version", '')
-    console.log("Update Completed", 's')
+    for idx, row in enumerate(news):
+        nx = (x * 2) - len(row)
+        ny = idx
+        stdscr.addstr(ny, nx, row)
 
-console.log("Launching GDPS...", 's')
-os.chdir(f'{downloadDir}\\ClassiDash\\'); os.system(f'.\\ClassiDash.exe')
+    for idx, row in enumerate(menu):
+        x = 1
+        y = h//2 - len(menu)//2 + idx
+        if idx == selected_row_idx: stdscr.attron(curses.color_pair(1))
+        stdscr.addstr(y, x, row)
+        if idx == selected_row_idx: stdscr.attroff(curses.color_pair(1))
+
+    stdscr.refresh()
+
+def main(stdscr):
+    curses.curs_set(0)
+    # curses.init_pair(1, curses.COLOR_WHITE, curses.COLOR_BLACK)
+    curses.init_pair(1, curses.COLOR_BLACK, curses.COLOR_WHITE)
+
+    current_row_idx = 0
+
+    print_menu(stdscr, current_row_idx)
+
+    while True:
+        key = stdscr.getch()
+        stdscr.clear()
+
+        if key == curses.KEY_F3:
+            curses.endwin()
+            console.progressBar(1, 3, "Displaying Logs... (Press CTRL + C to force quit.)")
+            time.sleep(1)
+            console.progressBar(2, 3, "Displaying Logs... (Press CTRL + C to force quit.)")
+            time.sleep(1)
+            console.progressBar(3, 3, "Displaying Logs... (Press CTRL + C to force quit.)")
+            time.sleep(1)
+
+        if key == curses.KEY_UP and current_row_idx > 0:
+            current_row_idx -= 1
+        elif key == curses.KEY_DOWN and current_row_idx < len(menu) - 1:
+            current_row_idx += 1
+        elif key == curses.KEY_ENTER or key in [10, 13]:
+            stdscr.clear()
+            buttonAction(current_row_idx)
+
+        print_menu(stdscr, current_row_idx)
+        stdscr.refresh()
+
+curses.wrapper(main)
