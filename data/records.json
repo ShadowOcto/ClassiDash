@@ -148,5 +148,11 @@
     "level": "Another Step",
     "place": "15",
     "points": 66
+  },
+  {
+    "player": "ice",
+    "level": "Genesis",
+    "place": "6",
+    "points": 125
   }
 ]
