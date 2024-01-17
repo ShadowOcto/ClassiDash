@@ -6,16 +6,76 @@
     "points": 250
   },
   {
+    "player": "Lodomir",
+    "level": "Destruction",
+    "place": "2",
+    "points": 208
+  },
+  {
+    "player": "sacrifice",
+    "level": "Destruction",
+    "place": "2",
+    "points": 208
+  },
+  {
     "player": "soley",
-    "level": "Solaris",
+    "level": "Bludareta",
+    "place": "3",
+    "points": 179
+  },
+  {
+    "player": "denis",
+    "level": "Bludareta",
+    "place": "3",
+    "points": 179
+  },
+  {
+    "player": "Lodomir",
+    "level": "Bludareta",
     "place": "3",
     "points": 179
   },
   {
     "player": "sacrifice",
-    "level": "Solaris",
+    "level": "Bludareta",
     "place": "3",
     "points": 179
+  },
+  {
+    "player": "sacrifice",
+    "level": "Bludareta",
+    "place": "3",
+    "points": 179
+  },
+  {
+    "player": "soley",
+    "level": "Solaris",
+    "place": "4",
+    "points": 156
+  },
+  {
+    "player": "sacrifice",
+    "level": "Solaris",
+    "place": "4",
+    "points": 156
+  },
+  {
+    "player": "Shadow",
+    "level": "Meowareta",
+    "place": "5",
+    "points": 139
+  },
+  {
+    "player": "Hykre",
+    "level": "Meowareta",
+    "place": "5",
+    "points": 139
+  },
+  {
+    "player": "sacrifice",
+    "level": "Meowareta",
+    "place": "5",
+    "points": 139
   },
   {
     "player": "soley",
@@ -24,6 +84,42 @@
     "points": 125
   },
   {
+    "player": "soley",
+    "level": "Night",
+    "place": "7",
+    "points": 114
+  },
+  {
+    "player": "denis",
+    "level": "Night",
+    "place": "7",
+    "points": 114
+  },
+  {
+    "player": "Hykre",
+    "level": "Night",
+    "place": "7",
+    "points": 114
+  },
+  {
+    "player": "Lodomir",
+    "level": "Night",
+    "place": "7",
+    "points": 114
+  },
+  {
+    "player": "soley",
+    "level": "Destiny",
+    "place": "8",
+    "points": 104
+  },
+  {
+    "player": "Lodomir",
+    "level": "Destiny",
+    "place": "8",
+    "points": 104
+  },
+  {
     "player": "Lodomir",
     "level": "Eclipse",
     "place": "9",
@@ -36,58 +132,28 @@
     "points": 96
   },
   {
-    "player": "soley",
-    "level": "Destiny",
-    "place": "10",
-    "points": 89
-  },
-  {
-    "player": "Lodomir",
-    "level": "Destiny",
-    "place": "10",
-    "points": 89
-  },
-  {
-    "player": "soley",
-    "level": "Night",
-    "place": "11",
-    "points": 83
-  },
-  {
-    "player": "denis",
-    "level": "Night",
-    "place": "11",
-    "points": 83
-  },
-  {
-    "player": "Hykre",
-    "level": "Night",
-    "place": "11",
-    "points": 83
-  },
-  {
-    "player": "Lodomir",
-    "level": "Night",
-    "place": "11",
-    "points": 83
-  },
-  {
     "player": "Shadow",
-    "level": "Faithful",
-    "place": "13",
-    "points": 74
+    "level": "Fantasy",
+    "place": "10",
+    "points": 89
   },
   {
-    "player": "soley",
-    "level": "Faithful",
-    "place": "13",
-    "points": 74
+    "player": "sacrifice",
+    "level": "Fantasy",
+    "place": "10",
+    "points": 89
   },
   {
-    "player": "Lodomir",
-    "level": "Faithful",
-    "place": "13",
-    "points": 74
+    "player": "ice",
+    "level": "Genesis",
+    "place": "11",
+    "points": 83
+  },
+  {
+    "player": "sacrifice",
+    "level": "Genesis",
+    "place": "11",
+    "points": 83
   },
   {
     "player": "crasu",
@@ -103,35 +169,29 @@
   },
   {
     "player": "Shadow",
+    "level": "Faithful",
+    "place": "13",
+    "points": 74
+  },
+  {
+    "player": "soley",
+    "level": "Faithful",
+    "place": "13",
+    "points": 74
+  },
+  {
+    "player": "Lodomir",
+    "level": "Faithful",
+    "place": "13",
+    "points": 74
+  },
+  {
+    "player": "Shadow",
     "level": "Wet In",
     "place": "14",
     "points": 69
   },
   {
-    "player": "Lodomir",
-    "level": "Destruction",
-    "place": "4",
-    "points": 156
-  },
-  {
-    "player": "sacrifice",
-    "level": "Destruction",
-    "place": "4",
-    "points": 156
-  },
-  {
-    "player": "Shadow",
-    "level": "Fantasy",
-    "place": "8",
-    "points": 104
-  },
-  {
-    "player": "sacrifice",
-    "level": "Fantasy",
-    "place": "8",
-    "points": 104
-  },
-  {
     "player": "soley",
     "level": "Cry About It",
     "place": "15",
@@ -142,36 +202,6 @@
     "level": "Cry About It",
     "place": "15",
     "points": 66
-  },
-  {
-    "player": "soley",
-    "level": "Bludareta",
-    "place": "2",
-    "points": 208
-  },
-  {
-    "player": "denis",
-    "level": "Bludareta",
-    "place": "2",
-    "points": 208
-  },
-  {
-    "player": "Lodomir",
-    "level": "Bludareta",
-    "place": "2",
-    "points": 208
-  },
-  {
-    "player": "sacrifice",
-    "level": "Bludareta",
-    "place": "2",
-    "points": 208
-  },
-  {
-    "player": "sacrifice",
-    "level": "Bludareta",
-    "place": "2",
-    "points": 208
   },
   {
     "player": "denis",
@@ -196,35 +226,5 @@
     "level": "Another Step",
     "place": "16",
     "points": 62
-  },
-  {
-    "player": "ice",
-    "level": "Genesis",
-    "place": "7",
-    "points": 114
-  },
-  {
-    "player": "sacrifice",
-    "level": "Genesis",
-    "place": "7",
-    "points": 114
-  },
-  {
-    "player": "Shadow",
-    "level": "Meowareta",
-    "place": "5",
-    "points": 139
-  },
-  {
-    "player": "Hykre",
-    "level": "Meowareta",
-    "place": "5",
-    "points": 139
-  },
-  {
-    "player": "sacrifice",
-    "level": "Meowareta",
-    "place": "5",
-    "points": 139
   }
 ]
