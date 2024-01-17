@@ -135,9 +135,20 @@
       "sacrifice"
     ]
   },
+    {
+    "name": "Wet In",
+    "place": "12",
+    "id": "20",
+    "creators": "Shadow",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=zUF0hfFWsYM",
+    "victors": [
+      "Shadow"
+    ]
+  },
   {
     "name": "Bliss",
-    "place": "12",
+    "place": "13",
     "id": "21",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -149,7 +160,7 @@
   },
   {
     "name": "Faithful",
-    "place": "13",
+    "place": "14",
     "id": "13",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -158,17 +169,6 @@
       "Shadow",
       "soley",
       "Lodomir"
-    ]
-  },
-  {
-    "name": "Wet In",
-    "place": "14",
-    "id": "20",
-    "creators": "Shadow",
-    "verifier": "Shadow",
-    "video": "https://www.youtube.com/watch?v=zUF0hfFWsYM",
-    "victors": [
-      "Shadow"
     ]
   },
   {

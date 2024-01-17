@@ -156,38 +156,38 @@
     "points": 83
   },
   {
-    "player": "crasu",
-    "level": "Bliss",
+    "player": "Shadow",
+    "level": "Wet In",
     "place": "12",
     "points": 78
   },
   {
+    "player": "crasu",
+    "level": "Bliss",
+    "place": "13",
+    "points": 74
+  },
+  {
     "player": "Shadow",
     "level": "Bliss",
-    "place": "12",
-    "points": 78
+    "place": "13",
+    "points": 74
   },
   {
     "player": "Shadow",
     "level": "Faithful",
-    "place": "13",
-    "points": 74
+    "place": "14",
+    "points": 69
   },
   {
     "player": "soley",
     "level": "Faithful",
-    "place": "13",
-    "points": 74
+    "place": "14",
+    "points": 69
   },
   {
     "player": "Lodomir",
     "level": "Faithful",
-    "place": "13",
-    "points": 74
-  },
-  {
-    "player": "Shadow",
-    "level": "Wet In",
     "place": "14",
     "points": 69
   },
