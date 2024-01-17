@@ -10,7 +10,7 @@
       "soley"
     ]
   },
-   {
+  {
     "name": "Destruction",
     "place": "2",
     "id": "23",
@@ -22,7 +22,7 @@
       "sacrifice"
     ]
   },
-   {
+  {
     "name": "Bludareta",
     "place": "3",
     "id": "209",
@@ -48,7 +48,7 @@
       "sacrifice"
     ]
   },
-   {
+  {
     "name": "Meowareta",
     "place": "5",
     "id": "272",
@@ -72,7 +72,7 @@
       "soley"
     ]
   },
-   {
+  {
     "name": "Night",
     "place": "7",
     "id": "3",
@@ -83,10 +83,11 @@
       "soley",
       "denis",
       "Hykre",
-      "Lodomir"
+      "Lodomir",
+      "sacrifice"
     ]
   },
-   {
+  {
     "name": "Destiny",
     "place": "8",
     "id": "5",
@@ -110,7 +111,7 @@
       "sacrifice"
     ]
   },
-   {
+  {
     "name": "Fantasy",
     "place": "10",
     "id": "62",
@@ -122,7 +123,7 @@
       "sacrifice"
     ]
   },
-   {
+  {
     "name": "Genesis",
     "place": "11",
     "id": "15",
@@ -134,7 +135,7 @@
       "sacrifice"
     ]
   },
-   {
+  {
     "name": "Bliss",
     "place": "12",
     "id": "21",
