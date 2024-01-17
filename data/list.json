@@ -36,19 +36,19 @@
       "sacrifice"
     ]
   },
-  {
-    "name": "Solaris",
+    {
+    "name": "Kagayaku",
     "place": "4",
-    "id": "7",
-    "creators": "Shadow",
+    "id": "16",
+    "creators": "Firework",
     "verifier": "soley",
-    "video": "https://www.youtube.com/watch?v=RDWO4XMAUkY",
+    "video": "https://www.youtube.com/watch?v=_TnuMuIPwes",
     "victors": [
       "soley",
       "sacrifice"
     ]
   },
-  {
+    {
     "name": "Meowareta",
     "place": "5",
     "id": "272",
@@ -62,12 +62,12 @@
     ]
   },
   {
-    "name": "Kagayaku",
+    "name": "Solaris",
     "place": "6",
-    "id": "16",
-    "creators": "Firework",
+    "id": "7",
+    "creators": "Shadow",
     "verifier": "soley",
-    "video": "https://www.youtube.com/watch?v=_TnuMuIPwes",
+    "video": "https://www.youtube.com/watch?v=RDWO4XMAUkY",
     "victors": [
       "soley",
       "sacrifice"
