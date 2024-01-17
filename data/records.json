@@ -36,6 +36,12 @@
     "points": 96
   },
   {
+    "player": "Lodomir",
+    "level": "Destiny",
+    "place": "9",
+    "points": 96
+  },
+  {
     "player": "soley",
     "level": "Night",
     "place": "10",
@@ -151,6 +157,18 @@
   },
   {
     "player": "Shadow",
+    "level": "Another Step",
+    "place": "15",
+    "points": 66
+  },
+  {
+    "player": "Space",
+    "level": "Another Step",
+    "place": "15",
+    "points": 66
+  },
+  {
+    "player": "Lodomir",
     "level": "Another Step",
     "place": "15",
     "points": 66
