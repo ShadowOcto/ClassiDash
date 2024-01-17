@@ -30,6 +30,12 @@
     "points": 96
   },
   {
+    "player": "sacrifice",
+    "level": "Eclipse",
+    "place": "9",
+    "points": 96
+  },
+  {
     "player": "soley",
     "level": "Destiny",
     "place": "10",
@@ -162,6 +168,12 @@
     "points": 208
   },
   {
+    "player": "sacrifice",
+    "level": "Bludareta",
+    "place": "2",
+    "points": 208
+  },
+  {
     "player": "denis",
     "level": "Another Step",
     "place": "16",
@@ -205,6 +217,12 @@
   },
   {
     "player": "Hykre",
+    "level": "Meowareta",
+    "place": "5",
+    "points": 139
+  },
+  {
+    "player": "sacrifice",
     "level": "Meowareta",
     "place": "5",
     "points": 139
