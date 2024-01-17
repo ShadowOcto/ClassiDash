@@ -120,6 +120,12 @@
     "points": 104
   },
   {
+    "player": "sacrifice",
+    "level": "Destiny",
+    "place": "8",
+    "points": 104
+  },
+  {
     "player": "Lodomir",
     "level": "Eclipse",
     "place": "9",
@@ -162,6 +168,12 @@
     "points": 78
   },
   {
+    "player": "sacrifice",
+    "level": "Wet In",
+    "place": "12",
+    "points": 78
+  },
+  {
     "player": "crasu",
     "level": "Bliss",
     "place": "13",
@@ -169,6 +181,12 @@
   },
   {
     "player": "Shadow",
+    "level": "Bliss",
+    "place": "13",
+    "points": 74
+  },
+  {
+    "player": "sacrifice",
     "level": "Bliss",
     "place": "13",
     "points": 74
@@ -192,6 +210,12 @@
     "points": 69
   },
   {
+    "player": "sacrifice",
+    "level": "Faithful",
+    "place": "14",
+    "points": 69
+  },
+  {
     "player": "soley",
     "level": "Cry About It",
     "place": "15",
@@ -199,6 +223,12 @@
   },
   {
     "player": "denis",
+    "level": "Cry About It",
+    "place": "15",
+    "points": 66
+  },
+  {
+    "player": "sacrifice",
     "level": "Cry About It",
     "place": "15",
     "points": 66
