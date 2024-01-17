@@ -256,5 +256,11 @@
     "level": "Another Step",
     "place": "16",
     "points": 62
+  },
+  {
+    "player": "sacrifice",
+    "level": "Another Step",
+    "place": "16",
+    "points": 62
   }
 ]
