@@ -108,6 +108,12 @@
     "points": 156
   },
   {
+    "player": "sacrifice",
+    "level": "Destruction",
+    "place": "4",
+    "points": 156
+  },
+  {
     "player": "Shadow",
     "level": "Fantasy",
     "place": "7",
@@ -145,6 +151,12 @@
   },
   {
     "player": "Lodomir",
+    "level": "Bludareta",
+    "place": "2",
+    "points": 208
+  },
+  {
+    "player": "sacrifice",
     "level": "Bludareta",
     "place": "2",
     "points": 208
