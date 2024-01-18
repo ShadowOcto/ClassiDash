@@ -23,6 +23,17 @@
       "sacrifice"
     ]
   },
+   {
+    "name": "wither",
+    "place": "3",
+    "id": "100",
+    "creators": "ice",
+    "verifier": "sacrifice",
+    "video": "https://www.youtube.com/watch?v=d6mOBqHzivI",
+    "victors": [
+      "sacrifice"
+    ]
+  },
   {
     "name": "Bludareta",
     "place": "4",
@@ -130,7 +141,7 @@
   },
   {
     "name": "Genesis",
-    "place": "13",
+    "place": "12",
     "id": "15",
     "creators": "ice",
     "verifier": "ice",
@@ -142,7 +153,7 @@
   },
   {
     "name": "Wet In",
-    "place": "14",
+    "place": "13",
     "id": "20",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -154,7 +165,7 @@
   },
   {
     "name": "Bliss",
-    "place": "15",
+    "place": "14",
     "id": "21",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -162,6 +173,18 @@
     "victors": [
       "crasu",
       "Shadow",
+      "sacrifice"
+    ]
+  },
+    {
+    "name": "EvoCastle",
+    "place": "15",
+    "id": "266",
+    "creators": "mzmr",
+    "verifier": "denis",
+    "video": "https://www.youtube.com/watch?v=VlB2QDfYhhw",
+    "victors": [
+      "denis",
       "sacrifice"
     ]
   },
@@ -204,29 +227,6 @@
       "Shadow",
       "Space",
       "Lodomir",
-      "sacrifice"
-    ]
-  },
-  {
-    "name": "EvoCastle",
-    "place": "12",
-    "id": "266",
-    "creators": "mzmr",
-    "verifier": "denis",
-    "video": "https://www.youtube.com/watch?v=VlB2QDfYhhw",
-    "victors": [
-      "denis",
-      "sacrifice"
-    ]
-  },
-  {
-    "name": "wither",
-    "place": "3",
-    "id": "100",
-    "creators": "ice",
-    "verifier": "sacrifice",
-    "video": "https://www.youtube.com/watch?v=d6mOBqHzivI",
-    "victors": [
       "sacrifice"
     ]
   }

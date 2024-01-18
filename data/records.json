@@ -24,6 +24,12 @@
     "points": 208
   },
   {
+    "player": "sacrifice",
+    "level": "wither",
+    "place": "3",
+    "points": 179
+  },
+  {
     "player": "soley",
     "level": "Bludareta",
     "place": "4",
@@ -176,42 +182,54 @@
   {
     "player": "ice",
     "level": "Genesis",
-    "place": "13",
-    "points": 74
+    "place": "12",
+    "points": 78
   },
   {
     "player": "sacrifice",
     "level": "Genesis",
+    "place": "12",
+    "points": 78
+  },
+  {
+    "player": "Shadow",
+    "level": "Wet In",
     "place": "13",
     "points": 74
   },
   {
-    "player": "Shadow",
-    "level": "Wet In",
-    "place": "14",
-    "points": 69
-  },
-  {
     "player": "sacrifice",
     "level": "Wet In",
-    "place": "14",
-    "points": 69
+    "place": "13",
+    "points": 74
   },
   {
     "player": "crasu",
     "level": "Bliss",
-    "place": "15",
-    "points": 66
+    "place": "14",
+    "points": 69
   },
   {
     "player": "Shadow",
     "level": "Bliss",
+    "place": "14",
+    "points": 69
+  },
+  {
+    "player": "sacrifice",
+    "level": "Bliss",
+    "place": "14",
+    "points": 69
+  },
+  {
+    "player": "denis",
+    "level": "EvoCastle",
     "place": "15",
     "points": 66
   },
   {
     "player": "sacrifice",
-    "level": "Bliss",
+    "level": "EvoCastle",
     "place": "15",
     "points": 66
   },
@@ -286,23 +304,5 @@
     "level": "Another Step",
     "place": "18",
     "points": 57
-  },
-  {
-    "player": "denis",
-    "level": "EvoCastle",
-    "place": "12",
-    "points": 78
-  },
-  {
-    "player": "sacrifice",
-    "level": "EvoCastle",
-    "place": "12",
-    "points": 78
-  },
-  {
-    "player": "sacrifice",
-    "level": "wither",
-    "place": "3",
-    "points": 179
   }
 ]
