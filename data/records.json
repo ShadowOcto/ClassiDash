@@ -72,6 +72,12 @@
     "points": 139
   },
   {
+    "player": "denis",
+    "level": "Meowareta",
+    "place": "5",
+    "points": 139
+  },
+  {
     "player": "soley",
     "level": "Solaris",
     "place": "6",
@@ -158,115 +164,115 @@
   {
     "player": "ice",
     "level": "Genesis",
-    "place": "11",
-    "points": 83
+    "place": "12",
+    "points": 78
   },
   {
     "player": "sacrifice",
     "level": "Genesis",
-    "place": "11",
-    "points": 83
+    "place": "12",
+    "points": 78
   },
   {
     "player": "Shadow",
     "level": "Wet In",
-    "place": "12",
-    "points": 78
+    "place": "13",
+    "points": 74
   },
   {
     "player": "sacrifice",
     "level": "Wet In",
-    "place": "12",
-    "points": 78
+    "place": "13",
+    "points": 74
   },
   {
     "player": "crasu",
     "level": "Bliss",
-    "place": "13",
-    "points": 74
+    "place": "14",
+    "points": 69
   },
   {
     "player": "Shadow",
     "level": "Bliss",
-    "place": "13",
-    "points": 74
+    "place": "14",
+    "points": 69
   },
   {
     "player": "sacrifice",
     "level": "Bliss",
-    "place": "13",
-    "points": 74
+    "place": "14",
+    "points": 69
   },
   {
     "player": "Shadow",
     "level": "Faithful",
-    "place": "14",
-    "points": 69
+    "place": "15",
+    "points": 66
   },
   {
     "player": "soley",
     "level": "Faithful",
-    "place": "14",
-    "points": 69
+    "place": "15",
+    "points": 66
   },
   {
     "player": "Lodomir",
     "level": "Faithful",
-    "place": "14",
-    "points": 69
+    "place": "15",
+    "points": 66
   },
   {
     "player": "sacrifice",
     "level": "Faithful",
-    "place": "14",
-    "points": 69
+    "place": "15",
+    "points": 66
   },
   {
     "player": "soley",
     "level": "Cry About It",
-    "place": "15",
-    "points": 66
+    "place": "16",
+    "points": 62
   },
   {
     "player": "denis",
     "level": "Cry About It",
-    "place": "15",
-    "points": 66
+    "place": "16",
+    "points": 62
   },
   {
     "player": "sacrifice",
     "level": "Cry About It",
-    "place": "15",
-    "points": 66
+    "place": "16",
+    "points": 62
   },
   {
     "player": "denis",
     "level": "Another Step",
-    "place": "16",
-    "points": 62
+    "place": "17",
+    "points": 60
   },
   {
     "player": "Shadow",
     "level": "Another Step",
-    "place": "16",
-    "points": 62
+    "place": "17",
+    "points": 60
   },
   {
     "player": "Space",
     "level": "Another Step",
-    "place": "16",
-    "points": 62
+    "place": "17",
+    "points": 60
   },
   {
     "player": "Lodomir",
     "level": "Another Step",
-    "place": "16",
-    "points": 62
+    "place": "17",
+    "points": 60
   },
   {
     "player": "sacrifice",
     "level": "Another Step",
-    "place": "16",
-    "points": 62
+    "place": "17",
+    "points": 60
   }
 ]

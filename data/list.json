@@ -36,7 +36,7 @@
       "sacrifice"
     ]
   },
-    {
+  {
     "name": "Kagayaku",
     "place": "4",
     "id": "16",
@@ -48,7 +48,7 @@
       "sacrifice"
     ]
   },
-    {
+  {
     "name": "Meowareta",
     "place": "5",
     "id": "272",
@@ -58,7 +58,8 @@
     "victors": [
       "Shadow",
       "Hykre",
-      "sacrifice"
+      "sacrifice",
+      "denis"
     ]
   },
   {
@@ -127,7 +128,7 @@
   },
   {
     "name": "Genesis",
-    "place": "11",
+    "place": "12",
     "id": "15",
     "creators": "ice",
     "verifier": "ice",
@@ -139,7 +140,7 @@
   },
   {
     "name": "Wet In",
-    "place": "12",
+    "place": "13",
     "id": "20",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -151,7 +152,7 @@
   },
   {
     "name": "Bliss",
-    "place": "13",
+    "place": "14",
     "id": "21",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -164,7 +165,7 @@
   },
   {
     "name": "Faithful",
-    "place": "14",
+    "place": "15",
     "id": "13",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -178,7 +179,7 @@
   },
   {
     "name": "Cry About It",
-    "place": "15",
+    "place": "16",
     "id": "2",
     "creators": "Shadow",
     "verifier": "soley",
@@ -191,7 +192,7 @@
   },
   {
     "name": "Another Step",
-    "place": "16",
+    "place": "17",
     "id": "239",
     "creators": "Mzmr",
     "verifier": "denis",
@@ -203,5 +204,14 @@
       "Lodomir",
       "sacrifice"
     ]
+  },
+  {
+    "name": "EvoCastle",
+    "place": "11",
+    "id": "266",
+    "creators": "mzmr",
+    "verifier": "denis",
+    "video": "https://www.youtube.com/watch?v=VlB2QDfYhhw",
+    "victors": []
   }
 ]

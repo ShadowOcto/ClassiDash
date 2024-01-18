@@ -1,23 +1,23 @@
 [
   {
     "player": "sacrifice",
-    "points": 1642
+    "points": 1619
   },
   {
     "player": "soley",
-    "points": 1063
+    "points": 1056
   },
   {
     "player": "Lodomir",
-    "points": 832
-  },
-  {
-    "player": "Shadow",
-    "points": 511
+    "points": 827
   },
   {
     "player": "denis",
-    "points": 421
+    "points": 554
+  },
+  {
+    "player": "Shadow",
+    "points": 497
   },
   {
     "player": "Hykre",
@@ -25,14 +25,14 @@
   },
   {
     "player": "ice",
-    "points": 83
+    "points": 78
   },
   {
     "player": "crasu",
-    "points": 74
+    "points": 69
   },
   {
     "player": "Space",
-    "points": 62
+    "points": 60
   }
 ]
