@@ -23,7 +23,7 @@
       "sacrifice"
     ]
   },
-   {
+  {
     "name": "wither",
     "place": "3",
     "id": "100",
@@ -176,7 +176,7 @@
       "sacrifice"
     ]
   },
-    {
+  {
     "name": "EvoCastle",
     "place": "15",
     "id": "266",
@@ -199,7 +199,8 @@
       "Shadow",
       "soley",
       "Lodomir",
-      "sacrifice"
+      "sacrifice",
+      "denis"
     ]
   },
   {
