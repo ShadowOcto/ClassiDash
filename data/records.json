@@ -6,25 +6,19 @@
     "points": 250
   },
   {
-    "player": "spaceuk",
-    "level": "Untamed",
-    "place": "1",
-    "points": 250
-  },
-  {
     "player": "Lodomir",
     "level": "Destruction",
     "place": "2",
     "points": 208
   },
   {
-    "player": "spaceuk",
+    "player": "sacrifice",
     "level": "Destruction",
     "place": "2",
     "points": 208
   },
   {
-    "player": "spaceuk",
+    "player": "sacrifice",
     "level": "wither",
     "place": "3",
     "points": 179
@@ -48,7 +42,7 @@
     "points": 156
   },
   {
-    "player": "spaceuk",
+    "player": "sacrifice",
     "level": "Bludareta",
     "place": "4",
     "points": 156
@@ -60,7 +54,7 @@
     "points": 139
   },
   {
-    "player": "spaceuk",
+    "player": "sacrifice",
     "level": "Kagayaku",
     "place": "5",
     "points": 139
@@ -78,7 +72,7 @@
     "points": 125
   },
   {
-    "player": "spaceuk",
+    "player": "sacrifice",
     "level": "Meowareta",
     "place": "6",
     "points": 125
@@ -96,7 +90,7 @@
     "points": 114
   },
   {
-    "player": "spaceuk",
+    "player": "sacrifice",
     "level": "Solaris",
     "place": "7",
     "points": 114
@@ -126,7 +120,7 @@
     "points": 104
   },
   {
-    "player": "spaceuk",
+    "player": "sacrifice",
     "level": "Night",
     "place": "8",
     "points": 104
@@ -144,7 +138,7 @@
     "points": 96
   },
   {
-    "player": "spaceuk",
+    "player": "sacrifice",
     "level": "Destiny",
     "place": "9",
     "points": 96
@@ -156,7 +150,7 @@
     "points": 89
   },
   {
-    "player": "spaceuk",
+    "player": "sacrifice",
     "level": "Eclipse",
     "place": "10",
     "points": 89
@@ -174,7 +168,7 @@
     "points": 83
   },
   {
-    "player": "spaceuk",
+    "player": "sacrifice",
     "level": "Fantasy",
     "place": "11",
     "points": 83
@@ -192,7 +186,7 @@
     "points": 78
   },
   {
-    "player": "spaceuk",
+    "player": "sacrifice",
     "level": "Genesis",
     "place": "12",
     "points": 78
@@ -204,7 +198,7 @@
     "points": 74
   },
   {
-    "player": "spaceuk",
+    "player": "sacrifice",
     "level": "Wet In",
     "place": "13",
     "points": 74
@@ -222,7 +216,7 @@
     "points": 69
   },
   {
-    "player": "spaceuk",
+    "player": "sacrifice",
     "level": "Bliss",
     "place": "14",
     "points": 69
@@ -240,7 +234,7 @@
     "points": 66
   },
   {
-    "player": "spaceuk",
+    "player": "sacrifice",
     "level": "EvoCastle",
     "place": "15",
     "points": 66
@@ -264,7 +258,7 @@
     "points": 62
   },
   {
-    "player": "spaceuk",
+    "player": "sacrifice",
     "level": "Faithful",
     "place": "16",
     "points": 62
@@ -294,7 +288,7 @@
     "points": 60
   },
   {
-    "player": "spaceuk",
+    "player": "sacrifice",
     "level": "Cry About It",
     "place": "17",
     "points": 60
@@ -324,7 +318,7 @@
     "points": 57
   },
   {
-    "player": "spaceuk",
+    "player": "sacrifice",
     "level": "Another Step",
     "place": "18",
     "points": 57
