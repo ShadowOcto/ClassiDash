@@ -1,27 +1,21 @@
 [
   {
-    "player": "soley",
-    "level": "Untamed",
+    "player": "Lodomir",
+    "level": "Destruction",
     "place": "1",
     "points": 250
   },
   {
-    "player": "Lodomir",
-    "level": "Destruction",
-    "place": "2",
-    "points": 208
-  },
-  {
     "player": "sacrifice",
     "level": "Destruction",
-    "place": "2",
-    "points": 208
+    "place": "1",
+    "points": 250
   },
   {
     "player": "sacrifice",
     "level": "wither",
-    "place": "3",
-    "points": 179
+    "place": "2",
+    "points": 208
   },
   {
     "player": "soley",
@@ -55,12 +49,6 @@
   },
   {
     "player": "sacrifice",
-    "level": "Kagayaku",
-    "place": "5",
-    "points": 139
-  },
-  {
-    "player": "crasu",
     "level": "Kagayaku",
     "place": "5",
     "points": 139
@@ -264,12 +252,6 @@
     "points": 66
   },
   {
-    "player": "Lodomir",
-    "level": "EvoCastle",
-    "place": "15",
-    "points": 66
-  },
-  {
     "player": "Shadow",
     "level": "Faithful",
     "place": "16",
@@ -352,5 +334,11 @@
     "level": "Another Step",
     "place": "18",
     "points": 57
+  },
+  {
+    "player": "Lodomir",
+    "level": "Dreams",
+    "place": "3",
+    "points": 179
   }
 ]

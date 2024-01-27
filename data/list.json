@@ -1,18 +1,7 @@
 [
   {
-    "name": "Untamed",
-    "place": "1",
-    "id": "1",
-    "creators": "soley",
-    "verifier": "soley",
-    "video": "https://www.youtube.com/watch?v=bg4MJuR-i-0",
-    "victors": [
-      "soley"
-    ]
-  },
-  {
     "name": "Destruction",
-    "place": "2",
+    "place": "1",
     "id": "23",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -24,7 +13,7 @@
   },
   {
     "name": "wither",
-    "place": "3",
+    "place": "2",
     "id": "100",
     "creators": "ice",
     "verifier": "sacrifice",
@@ -56,8 +45,7 @@
     "video": "https://www.youtube.com/watch?v=_TnuMuIPwes",
     "victors": [
       "soley",
-      "sacrifice",
-      "crasu"
+      "sacrifice"
     ]
   },
   {
@@ -190,8 +178,7 @@
     "video": "https://www.youtube.com/watch?v=VlB2QDfYhhw",
     "victors": [
       "denis",
-      "sacrifice",
-      "Lodomir"
+      "sacrifice"
     ]
   },
   {
@@ -236,6 +223,17 @@
       "Space",
       "Lodomir",
       "sacrifice"
+    ]
+  },
+  {
+    "name": "Dreams",
+    "place": "3",
+    "id": "341",
+    "creators": "Lodomir",
+    "verifier": "Lodomir",
+    "video": "https://youtu.be/YGGCzceJJsE",
+    "victors": [
+      "Lodomir"
     ]
   }
 ]
