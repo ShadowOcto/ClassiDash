@@ -1,7 +1,7 @@
 [
   {
     "name": "Destruction",
-    "place": "1",
+    "place": "2",
     "id": "23",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -13,7 +13,7 @@
   },
   {
     "name": "wither",
-    "place": "2",
+    "place": "3",
     "id": "100",
     "creators": "ice",
     "verifier": "sacrifice",
@@ -24,7 +24,7 @@
   },
   {
     "name": "Bludareta",
-    "place": "4",
+    "place": "5",
     "id": "209",
     "creators": "soley",
     "verifier": "denis",
@@ -38,7 +38,7 @@
   },
   {
     "name": "Kagayaku",
-    "place": "5",
+    "place": "6",
     "id": "16",
     "creators": "Firework",
     "verifier": "soley",
@@ -50,7 +50,7 @@
   },
   {
     "name": "Meowareta",
-    "place": "6",
+    "place": "7",
     "id": "272",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -64,7 +64,7 @@
   },
   {
     "name": "Solaris",
-    "place": "7",
+    "place": "8",
     "id": "7",
     "creators": "Shadow",
     "verifier": "soley",
@@ -77,7 +77,7 @@
   },
   {
     "name": "Night",
-    "place": "8",
+    "place": "9",
     "id": "3",
     "creators": "Shadow",
     "verifier": "soley",
@@ -92,7 +92,7 @@
   },
   {
     "name": "Destiny",
-    "place": "9",
+    "place": "10",
     "id": "5",
     "creators": "Shadow",
     "verifier": "soley",
@@ -105,7 +105,7 @@
   },
   {
     "name": "Eclipse",
-    "place": "10",
+    "place": "11",
     "id": "6",
     "creators": "Shadow",
     "verifier": "Lodomir",
@@ -118,7 +118,7 @@
   },
   {
     "name": "Fantasy",
-    "place": "11",
+    "place": "12",
     "id": "62",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -131,7 +131,7 @@
   },
   {
     "name": "Genesis",
-    "place": "12",
+    "place": "13",
     "id": "15",
     "creators": "ice",
     "verifier": "ice",
@@ -143,7 +143,7 @@
   },
   {
     "name": "Wet In",
-    "place": "13",
+    "place": "14",
     "id": "20",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -155,7 +155,7 @@
   },
   {
     "name": "Bliss",
-    "place": "14",
+    "place": "15",
     "id": "21",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -171,7 +171,7 @@
   },
   {
     "name": "EvoCastle",
-    "place": "15",
+    "place": "16",
     "id": "266",
     "creators": "mzmr",
     "verifier": "denis",
@@ -183,7 +183,7 @@
   },
   {
     "name": "Faithful",
-    "place": "16",
+    "place": "17",
     "id": "13",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -199,7 +199,7 @@
   },
   {
     "name": "Cry About It",
-    "place": "17",
+    "place": "18",
     "id": "2",
     "creators": "Shadow",
     "verifier": "soley",
@@ -212,7 +212,7 @@
   },
   {
     "name": "Another Step",
-    "place": "18",
+    "place": "19",
     "id": "239",
     "creators": "Mzmr",
     "verifier": "denis",
@@ -227,13 +227,24 @@
   },
   {
     "name": "Dreams",
-    "place": "3",
+    "place": "4",
     "id": "341",
     "creators": "Lodomir",
     "verifier": "Lodomir",
     "video": "https://youtu.be/YGGCzceJJsE",
     "victors": [
       "Lodomir"
+    ]
+  },
+  {
+    "name": "Untamed",
+    "place": "1",
+    "id": "1",
+    "creators": "soley",
+    "verifier": "soley",
+    "video": "https://www.youtube.com/watch?v=bg4MJuR-i-0",
+    "victors": [
+      "soley"
     ]
   }
 ]
