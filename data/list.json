@@ -33,7 +33,7 @@
       "sacrifice"
     ]
   },
-    {
+  {
     "name": "Dreams",
     "place": "4",
     "id": "341",
@@ -58,7 +58,7 @@
       "sacrifice"
     ]
   },
-    {
+  {
     "name": "Solaris",
     "place": "6",
     "id": "7",
@@ -82,10 +82,11 @@
       "Shadow",
       "Hykre",
       "sacrifice",
-      "denis"
+      "denis",
+      "Lodomir"
     ]
   },
-   {
+  {
     "name": "Kagayaku",
     "place": "8",
     "id": "16",
@@ -247,7 +248,4 @@
       "sacrifice"
     ]
   }
-] 
- 
- 
- 
+]
