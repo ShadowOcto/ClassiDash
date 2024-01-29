@@ -1,5 +1,11 @@
 [
   {
+    "player": "soley",
+    "level": "Untamed",
+    "place": "1",
+    "points": 250
+  },
+  {
     "player": "Lodomir",
     "level": "Destruction",
     "place": "2",
@@ -16,6 +22,12 @@
     "level": "wither",
     "place": "3",
     "points": 179
+  },
+  {
+    "player": "Lodomir",
+    "level": "Dreams",
+    "place": "4",
+    "points": 156
   },
   {
     "player": "soley",
@@ -43,13 +55,19 @@
   },
   {
     "player": "soley",
-    "level": "Kagayaku",
+    "level": "Solaris",
     "place": "6",
     "points": 125
   },
   {
     "player": "sacrifice",
-    "level": "Kagayaku",
+    "level": "Solaris",
+    "place": "6",
+    "points": 125
+  },
+  {
+    "player": "Hykre",
+    "level": "Solaris",
     "place": "6",
     "points": 125
   },
@@ -79,19 +97,13 @@
   },
   {
     "player": "soley",
-    "level": "Solaris",
+    "level": "Kagayaku",
     "place": "8",
     "points": 104
   },
   {
     "player": "sacrifice",
-    "level": "Solaris",
-    "place": "8",
-    "points": 104
-  },
-  {
-    "player": "Hykre",
-    "level": "Solaris",
+    "level": "Kagayaku",
     "place": "8",
     "points": 104
   },
@@ -334,17 +346,5 @@
     "level": "Another Step",
     "place": "19",
     "points": 54
-  },
-  {
-    "player": "Lodomir",
-    "level": "Dreams",
-    "place": "4",
-    "points": 156
-  },
-  {
-    "player": "soley",
-    "level": "Untamed",
-    "place": "1",
-    "points": 250
   }
 ]

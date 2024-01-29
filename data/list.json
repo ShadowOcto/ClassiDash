@@ -1,5 +1,16 @@
 [
   {
+    "name": "Untamed",
+    "place": "1",
+    "id": "1",
+    "creators": "soley",
+    "verifier": "soley",
+    "video": "https://www.youtube.com/watch?v=bg4MJuR-i-0",
+    "victors": [
+      "soley"
+    ]
+  },
+  {
     "name": "Destruction",
     "place": "2",
     "id": "23",
@@ -22,6 +33,17 @@
       "sacrifice"
     ]
   },
+    {
+    "name": "Dreams",
+    "place": "4",
+    "id": "341",
+    "creators": "Lodomir",
+    "verifier": "Lodomir",
+    "video": "https://youtu.be/YGGCzceJJsE",
+    "victors": [
+      "Lodomir"
+    ]
+  },
   {
     "name": "Bludareta",
     "place": "5",
@@ -36,16 +58,17 @@
       "sacrifice"
     ]
   },
-  {
-    "name": "Kagayaku",
+    {
+    "name": "Solaris",
     "place": "6",
-    "id": "16",
-    "creators": "Firework",
+    "id": "7",
+    "creators": "Shadow",
     "verifier": "soley",
-    "video": "https://www.youtube.com/watch?v=_TnuMuIPwes",
+    "video": "https://www.youtube.com/watch?v=RDWO4XMAUkY",
     "victors": [
       "soley",
-      "sacrifice"
+      "sacrifice",
+      "Hykre"
     ]
   },
   {
@@ -62,17 +85,16 @@
       "denis"
     ]
   },
-  {
-    "name": "Solaris",
+   {
+    "name": "Kagayaku",
     "place": "8",
-    "id": "7",
-    "creators": "Shadow",
+    "id": "16",
+    "creators": "Firework",
     "verifier": "soley",
-    "video": "https://www.youtube.com/watch?v=RDWO4XMAUkY",
+    "video": "https://www.youtube.com/watch?v=_TnuMuIPwes",
     "victors": [
       "soley",
-      "sacrifice",
-      "Hykre"
+      "sacrifice"
     ]
   },
   {
@@ -224,27 +246,8 @@
       "Lodomir",
       "sacrifice"
     ]
-  },
-  {
-    "name": "Dreams",
-    "place": "4",
-    "id": "341",
-    "creators": "Lodomir",
-    "verifier": "Lodomir",
-    "video": "https://youtu.be/YGGCzceJJsE",
-    "victors": [
-      "Lodomir"
-    ]
-  },
-  {
-    "name": "Untamed",
-    "place": "1",
-    "id": "1",
-    "creators": "soley",
-    "verifier": "soley",
-    "video": "https://www.youtube.com/watch?v=bg4MJuR-i-0",
-    "victors": [
-      "soley"
-    ]
   }
-]
+] 
+ 
+ 
+ 
