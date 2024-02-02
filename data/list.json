@@ -21,21 +21,9 @@
       "denis"
     ]
   },
-  {
-    "name": "Destruction",
-    "place": "3",
-    "id": "23",
-    "creators": "Lodomir",
-    "verifier": "Lodomir",
-    "video": "https://www.youtube.com/watch?v=INFd3bBjGVc",
-    "victors": [
-      "Lodomir",
-      "sacrifice"
-    ]
-  },
-  {
+    {
     "name": "wither",
-    "place": "4",
+    "place": "3",
     "id": "100",
     "creators": "ice",
     "verifier": "sacrifice",
@@ -45,8 +33,34 @@
     ]
   },
   {
-    "name": "Dreams",
+    "name": "Destruction",
+    "place": "4",
+    "id": "23",
+    "creators": "Lodomir",
+    "verifier": "Lodomir",
+    "video": "https://www.youtube.com/watch?v=INFd3bBjGVc",
+    "victors": [
+      "Lodomir",
+      "sacrifice"
+    ]
+  },
+    {
+    "name": "Solaris",
     "place": "5",
+    "id": "7",
+    "creators": "Shadow",
+    "verifier": "soley",
+    "video": "https://www.youtube.com/watch?v=RDWO4XMAUkY",
+    "victors": [
+      "soley",
+      "sacrifice",
+      "Hykre",
+      "Lodomir"
+    ]
+  },
+  {
+    "name": "Dreams",
+    "place": "6",
     "id": "341",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -59,7 +73,7 @@
   },
   {
     "name": "Bludareta",
-    "place": "6",
+    "place": "7",
     "id": "209",
     "creators": "soley",
     "verifier": "denis",
@@ -69,20 +83,6 @@
       "denis",
       "Lodomir",
       "sacrifice"
-    ]
-  },
-  {
-    "name": "Solaris",
-    "place": "7",
-    "id": "7",
-    "creators": "Shadow",
-    "verifier": "soley",
-    "video": "https://www.youtube.com/watch?v=RDWO4XMAUkY",
-    "victors": [
-      "soley",
-      "sacrifice",
-      "Hykre",
-      "Lodomir"
     ]
   },
   {

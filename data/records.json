@@ -12,86 +12,86 @@
     "points": 208
   },
   {
-    "player": "Lodomir",
-    "level": "Destruction",
-    "place": "3",
-    "points": 179
-  },
-  {
-    "player": "sacrifice",
-    "level": "Destruction",
-    "place": "3",
-    "points": 179
-  },
-  {
     "player": "sacrifice",
     "level": "wither",
+    "place": "3",
+    "points": 179
+  },
+  {
+    "player": "Lodomir",
+    "level": "Destruction",
     "place": "4",
     "points": 156
   },
   {
-    "player": "Lodomir",
-    "level": "Dreams",
+    "player": "sacrifice",
+    "level": "Destruction",
+    "place": "4",
+    "points": 156
+  },
+  {
+    "player": "soley",
+    "level": "Solaris",
     "place": "5",
     "points": 139
+  },
+  {
+    "player": "sacrifice",
+    "level": "Solaris",
+    "place": "5",
+    "points": 139
+  },
+  {
+    "player": "Hykre",
+    "level": "Solaris",
+    "place": "5",
+    "points": 139
+  },
+  {
+    "player": "Lodomir",
+    "level": "Solaris",
+    "place": "5",
+    "points": 139
+  },
+  {
+    "player": "Lodomir",
+    "level": "Dreams",
+    "place": "6",
+    "points": 125
   },
   {
     "player": "Shadow",
     "level": "Dreams",
-    "place": "5",
-    "points": 139
+    "place": "6",
+    "points": 125
   },
   {
     "player": "Hykre",
     "level": "Dreams",
-    "place": "5",
-    "points": 139
+    "place": "6",
+    "points": 125
   },
   {
     "player": "soley",
     "level": "Bludareta",
-    "place": "6",
-    "points": 125
+    "place": "7",
+    "points": 114
   },
   {
     "player": "denis",
     "level": "Bludareta",
-    "place": "6",
-    "points": 125
-  },
-  {
-    "player": "Lodomir",
-    "level": "Bludareta",
-    "place": "6",
-    "points": 125
-  },
-  {
-    "player": "sacrifice",
-    "level": "Bludareta",
-    "place": "6",
-    "points": 125
-  },
-  {
-    "player": "soley",
-    "level": "Solaris",
-    "place": "7",
-    "points": 114
-  },
-  {
-    "player": "sacrifice",
-    "level": "Solaris",
-    "place": "7",
-    "points": 114
-  },
-  {
-    "player": "Hykre",
-    "level": "Solaris",
     "place": "7",
     "points": 114
   },
   {
     "player": "Lodomir",
-    "level": "Solaris",
+    "level": "Bludareta",
+    "place": "7",
+    "points": 114
+  },
+  {
+    "player": "sacrifice",
+    "level": "Bludareta",
     "place": "7",
     "points": 114
   },
