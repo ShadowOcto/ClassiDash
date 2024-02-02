@@ -12,7 +12,19 @@
     "points": 208
   },
   {
+    "player": "soley",
+    "level": "no chance",
+    "place": "2",
+    "points": 208
+  },
+  {
     "player": "sacrifice",
+    "level": "wither",
+    "place": "3",
+    "points": 179
+  },
+  {
+    "player": "soley",
     "level": "wither",
     "place": "3",
     "points": 179
@@ -25,6 +37,12 @@
   },
   {
     "player": "sacrifice",
+    "level": "Destruction",
+    "place": "4",
+    "points": 156
+  },
+  {
+    "player": "soley",
     "level": "Destruction",
     "place": "4",
     "points": 156
@@ -67,6 +85,12 @@
   },
   {
     "player": "Hykre",
+    "level": "Dreams",
+    "place": "6",
+    "points": 125
+  },
+  {
+    "player": "soley",
     "level": "Dreams",
     "place": "6",
     "points": 125
@@ -157,6 +181,12 @@
   },
   {
     "player": "Lodomir",
+    "level": "Meowareta",
+    "place": "9",
+    "points": 96
+  },
+  {
+    "player": "soley",
     "level": "Meowareta",
     "place": "9",
     "points": 96
@@ -252,6 +282,12 @@
     "points": 78
   },
   {
+    "player": "soley",
+    "level": "Eclipse",
+    "place": "12",
+    "points": 78
+  },
+  {
     "player": "Shadow",
     "level": "Fantasy",
     "place": "13",
@@ -276,6 +312,12 @@
     "points": 74
   },
   {
+    "player": "soley",
+    "level": "Fantasy",
+    "place": "13",
+    "points": 74
+  },
+  {
     "player": "ice",
     "level": "Genesis",
     "place": "14",
@@ -294,6 +336,12 @@
     "points": 69
   },
   {
+    "player": "soley",
+    "level": "Genesis",
+    "place": "14",
+    "points": 69
+  },
+  {
     "player": "Shadow",
     "level": "Wet In",
     "place": "15",
@@ -307,6 +355,12 @@
   },
   {
     "player": "Lodomir",
+    "level": "Wet In",
+    "place": "15",
+    "points": 66
+  },
+  {
+    "player": "soley",
     "level": "Wet In",
     "place": "15",
     "points": 66
@@ -348,6 +402,12 @@
     "points": 62
   },
   {
+    "player": "soley",
+    "level": "Bliss",
+    "place": "16",
+    "points": 62
+  },
+  {
     "player": "denis",
     "level": "EvoCastle",
     "place": "17",
@@ -367,6 +427,12 @@
   },
   {
     "player": "Shadow",
+    "level": "EvoCastle",
+    "place": "17",
+    "points": 60
+  },
+  {
+    "player": "soley",
     "level": "EvoCastle",
     "place": "17",
     "points": 60
@@ -469,6 +535,12 @@
   },
   {
     "player": "brie",
+    "level": "Another Step",
+    "place": "20",
+    "points": 52
+  },
+  {
+    "player": "soley",
     "level": "Another Step",
     "place": "20",
     "points": 52

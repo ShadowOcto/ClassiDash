@@ -10,7 +10,7 @@
       "soley"
     ]
   },
-    {
+  {
     "name": "no chance",
     "place": "2",
     "id": "302",
@@ -18,10 +18,11 @@
     "verifier": "denis",
     "video": "https://youtu.be/f6q_uE3zV3M",
     "victors": [
-      "denis"
+      "denis",
+      "soley"
     ]
   },
-    {
+  {
     "name": "wither",
     "place": "3",
     "id": "100",
@@ -29,7 +30,8 @@
     "verifier": "sacrifice",
     "video": "https://www.youtube.com/watch?v=d6mOBqHzivI",
     "victors": [
-      "sacrifice"
+      "sacrifice",
+      "soley"
     ]
   },
   {
@@ -41,10 +43,11 @@
     "video": "https://www.youtube.com/watch?v=INFd3bBjGVc",
     "victors": [
       "Lodomir",
-      "sacrifice"
+      "sacrifice",
+      "soley"
     ]
   },
-    {
+  {
     "name": "Solaris",
     "place": "5",
     "id": "7",
@@ -68,7 +71,8 @@
     "victors": [
       "Lodomir",
       "Shadow",
-      "Hykre"
+      "Hykre",
+      "soley"
     ]
   },
   {
@@ -113,7 +117,8 @@
       "Hykre",
       "sacrifice",
       "denis",
-      "Lodomir"
+      "Lodomir",
+      "soley"
     ]
   },
   {
@@ -158,7 +163,8 @@
     "victors": [
       "Lodomir",
       "sacrifice",
-      "denis"
+      "denis",
+      "soley"
     ]
   },
   {
@@ -172,7 +178,8 @@
       "Shadow",
       "sacrifice",
       "denis",
-      "Lodomir"
+      "Lodomir",
+      "soley"
     ]
   },
   {
@@ -185,7 +192,8 @@
     "victors": [
       "ice",
       "sacrifice",
-      "Lodomir"
+      "Lodomir",
+      "soley"
     ]
   },
   {
@@ -198,7 +206,8 @@
     "victors": [
       "Shadow",
       "sacrifice",
-      "Lodomir"
+      "Lodomir",
+      "soley"
     ]
   },
   {
@@ -214,7 +223,8 @@
       "sacrifice",
       "denis",
       "Hykre",
-      "Lodomir"
+      "Lodomir",
+      "soley"
     ]
   },
   {
@@ -228,7 +238,8 @@
       "denis",
       "sacrifice",
       "Lodomir",
-      "Shadow"
+      "Shadow",
+      "soley"
     ]
   },
   {
@@ -275,7 +286,8 @@
       "Space",
       "Lodomir",
       "sacrifice",
-      "brie"
+      "brie",
+      "soley"
     ]
   }
-] 
+]
