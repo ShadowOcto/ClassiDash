@@ -1,13 +1,24 @@
 [
   {
     "name": "Untamed",
-    "place": "2",
+    "place": "1",
     "id": "1",
     "creators": "soley",
     "verifier": "soley",
     "video": "https://www.youtube.com/watch?v=bg4MJuR-i-0",
     "victors": [
       "soley"
+    ]
+  },
+    {
+    "name": "no chance",
+    "place": "2",
+    "id": "302",
+    "creators": "denis",
+    "verifier": "denis",
+    "video": "https://youtu.be/f6q_uE3zV3M",
+    "victors": [
+      "denis"
     ]
   },
   {
@@ -266,16 +277,5 @@
       "sacrifice",
       "brie"
     ]
-  },
-  {
-    "name": "no chance",
-    "place": "1",
-    "id": "302",
-    "creators": "denis",
-    "verifier": "denis",
-    "video": "https://youtu.be/f6q_uE3zV3M",
-    "victors": [
-      "denis"
-    ]
   }
-]
+] 

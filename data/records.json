@@ -2,6 +2,12 @@
   {
     "player": "soley",
     "level": "Untamed",
+    "place": "1",
+    "points": 250
+  },
+  {
+    "player": "denis",
+    "level": "no chance",
     "place": "2",
     "points": 208
   },
@@ -466,11 +472,5 @@
     "level": "Another Step",
     "place": "20",
     "points": 52
-  },
-  {
-    "player": "denis",
-    "level": "no chance",
-    "place": "1",
-    "points": 250
   }
 ]
