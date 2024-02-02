@@ -36,6 +36,12 @@
     "points": 156
   },
   {
+    "player": "Hykre",
+    "level": "Dreams",
+    "place": "4",
+    "points": 156
+  },
+  {
     "player": "soley",
     "level": "Bludareta",
     "place": "5",
@@ -138,6 +144,18 @@
     "points": 104
   },
   {
+    "player": "Shadow",
+    "level": "Kagayaku",
+    "place": "8",
+    "points": 104
+  },
+  {
+    "player": "Hykre",
+    "level": "Kagayaku",
+    "place": "8",
+    "points": 104
+  },
+  {
     "player": "soley",
     "level": "Night",
     "place": "9",
@@ -180,6 +198,12 @@
     "points": 96
   },
   {
+    "player": "Shadow",
+    "level": "Night",
+    "place": "9",
+    "points": 96
+  },
+  {
     "player": "soley",
     "level": "Destiny",
     "place": "10",
@@ -193,6 +217,12 @@
   },
   {
     "player": "sacrifice",
+    "level": "Destiny",
+    "place": "10",
+    "points": 89
+  },
+  {
+    "player": "Shadow",
     "level": "Destiny",
     "place": "10",
     "points": 89
@@ -252,6 +282,12 @@
     "points": 74
   },
   {
+    "player": "Lodomir",
+    "level": "Genesis",
+    "place": "13",
+    "points": 74
+  },
+  {
     "player": "Shadow",
     "level": "Wet In",
     "place": "14",
@@ -325,6 +361,12 @@
   },
   {
     "player": "Shadow",
+    "level": "EvoCastle",
+    "place": "16",
+    "points": 62
+  },
+  {
+    "player": "Shadow",
     "level": "Faithful",
     "place": "17",
     "points": 60
@@ -379,6 +421,12 @@
   },
   {
     "player": "Lodomir",
+    "level": "Cry About It",
+    "place": "18",
+    "points": 57
+  },
+  {
+    "player": "Shadow",
     "level": "Cry About It",
     "place": "18",
     "points": 57
