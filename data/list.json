@@ -74,24 +74,9 @@
       "Lodomir"
     ]
   },
-  {
-    "name": "Meowareta",
-    "place": "7",
-    "id": "272",
-    "creators": "Shadow",
-    "verifier": "Shadow",
-    "video": "https://www.youtube.com/watch?v=UY_4QvhiIE8",
-    "victors": [
-      "Shadow",
-      "Hykre",
-      "sacrifice",
-      "denis",
-      "Lodomir"
-    ]
-  },
-  {
+    {
     "name": "Kagayaku",
-    "place": "8",
+    "place": "7",
     "id": "16",
     "creators": "Firework",
     "verifier": "soley",
@@ -106,8 +91,37 @@
     ]
   },
   {
-    "name": "Night",
+    "name": "Meowareta",
+    "place": "8",
+    "id": "272",
+    "creators": "Shadow",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=UY_4QvhiIE8",
+    "victors": [
+      "Shadow",
+      "Hykre",
+      "sacrifice",
+      "denis",
+      "Lodomir"
+    ]
+  },
+    {
+    "name": "Destiny",
     "place": "9",
+    "id": "5",
+    "creators": "Shadow",
+    "verifier": "soley",
+    "video": "https://www.youtube.com/watch?v=cb9Kj9-VrHw",
+    "victors": [
+      "soley",
+      "Lodomir",
+      "sacrifice",
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Night",
+    "place": "10",
     "id": "3",
     "creators": "Shadow",
     "verifier": "soley",
@@ -120,20 +134,6 @@
       "sacrifice",
       "cubepilot",
       "crasu",
-      "Shadow"
-    ]
-  },
-  {
-    "name": "Destiny",
-    "place": "10",
-    "id": "5",
-    "creators": "Shadow",
-    "verifier": "soley",
-    "video": "https://www.youtube.com/watch?v=cb9Kj9-VrHw",
-    "victors": [
-      "soley",
-      "Lodomir",
-      "sacrifice",
       "Shadow"
     ]
   },
