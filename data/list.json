@@ -32,7 +32,6 @@
     "verifier": "sacrifice",
     "video": "https://www.youtube.com/watch?v=d6mOBqHzivI",
     "victors": [
-      "sacrifice",
       "soley"
     ]
   },
@@ -45,7 +44,6 @@
     "video": "https://www.youtube.com/watch?v=INFd3bBjGVc",
     "victors": [
       "Lodomir",
-      "sacrifice",
       "soley"
     ]
   },
@@ -58,7 +56,6 @@
     "video": "https://www.youtube.com/watch?v=RDWO4XMAUkY",
     "victors": [
       "soley",
-      "sacrifice",
       "Hykre",
       "Lodomir"
     ]
@@ -87,8 +84,7 @@
     "victors": [
       "soley",
       "denis",
-      "Lodomir",
-      "sacrifice"
+      "Lodomir"
     ]
   },
   {
@@ -100,7 +96,6 @@
     "video": "https://www.youtube.com/watch?v=_TnuMuIPwes",
     "victors": [
       "soley",
-      "sacrifice",
       "crasu",
       "Lodomir",
       "Shadow",
@@ -117,7 +112,6 @@
     "victors": [
       "Shadow",
       "Hykre",
-      "sacrifice",
       "denis",
       "Lodomir",
       "soley"
@@ -133,7 +127,6 @@
     "victors": [
       "soley",
       "Lodomir",
-      "sacrifice",
       "Shadow"
     ]
   },
@@ -149,7 +142,6 @@
       "denis",
       "Hykre",
       "Lodomir",
-      "sacrifice",
       "cubepilot",
       "crasu",
       "Shadow"
@@ -178,7 +170,6 @@
     "video": "https://www.youtube.com/watch?v=oUIHdV9DuWc",
     "victors": [
       "Shadow",
-      "sacrifice",
       "denis",
       "Lodomir",
       "soley"
@@ -193,7 +184,6 @@
     "video": "https://www.youtube.com/watch?v=7PziEs6u5Is",
     "victors": [
       "ice",
-      "sacrifice",
       "Lodomir",
       "soley"
     ]
@@ -207,7 +197,6 @@
     "video": "https://www.youtube.com/watch?v=Rqq2q3FJLrw",
     "victors": [
       "Shadow",
-      "sacrifice",
       "Lodomir",
       "soley"
     ]
@@ -222,7 +211,6 @@
     "victors": [
       "crasu",
       "Shadow",
-      "sacrifice",
       "denis",
       "Hykre",
       "Lodomir",
@@ -238,7 +226,6 @@
     "video": "https://www.youtube.com/watch?v=VlB2QDfYhhw",
     "victors": [
       "denis",
-      "sacrifice",
       "Lodomir",
       "Shadow",
       "soley"
@@ -255,7 +242,6 @@
       "Shadow",
       "soley",
       "Lodomir",
-      "sacrifice",
       "denis",
       "crasu"
     ]
@@ -270,7 +256,6 @@
     "victors": [
       "soley",
       "denis",
-      "sacrifice",
       "Lodomir",
       "Shadow"
     ]
@@ -287,7 +272,6 @@
       "Shadow",
       "Space",
       "Lodomir",
-      "sacrifice",
       "brie",
       "soley"
     ]
@@ -303,4 +287,5 @@
       "denis"
     ]
   }
-]
+] 
+ 
