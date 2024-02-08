@@ -30,6 +30,12 @@
     "points": 208
   },
   {
+    "player": "Hykre",
+    "level": "no chance",
+    "place": "2",
+    "points": 208
+  },
+  {
     "player": "soley",
     "level": "wither",
     "place": "3",
@@ -505,6 +511,12 @@
   },
   {
     "player": "geodom",
+    "level": "Resonating",
+    "place": "10",
+    "points": 89
+  },
+  {
+    "player": "Hykre",
     "level": "Resonating",
     "place": "10",
     "points": 89
