@@ -57,7 +57,8 @@
     "victors": [
       "soley",
       "Hykre",
-      "Lodomir"
+      "Lodomir",
+      "geodom"
     ]
   },
   {
@@ -71,7 +72,8 @@
       "Lodomir",
       "Shadow",
       "Hykre",
-      "soley"
+      "soley",
+      "geodom"
     ]
   },
   {
@@ -144,7 +146,8 @@
       "Lodomir",
       "cubepilot",
       "crasu",
-      "Shadow"
+      "Shadow",
+      "geodom"
     ]
   },
   {
@@ -171,7 +174,8 @@
       "Shadow",
       "denis",
       "Lodomir",
-      "soley"
+      "soley",
+      "geodom"
     ]
   },
   {
@@ -197,7 +201,8 @@
     "victors": [
       "Shadow",
       "Lodomir",
-      "soley"
+      "soley",
+      "geodom"
     ]
   },
   {
@@ -256,7 +261,8 @@
       "soley",
       "denis",
       "Lodomir",
-      "Shadow"
+      "Shadow",
+      "geodom"
     ]
   },
   {
@@ -272,7 +278,8 @@
       "Space",
       "Lodomir",
       "brie",
-      "soley"
+      "soley",
+      "geodom"
     ]
   },
   {
@@ -283,8 +290,8 @@
     "verifier": "denis",
     "video": "https://www.youtube.com/watch?v=KEuWiqv10Ek",
     "victors": [
-      "denis"
+      "denis",
+      "geodom"
     ]
   }
-] 
- 
+]

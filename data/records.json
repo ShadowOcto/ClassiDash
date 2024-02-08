@@ -66,6 +66,12 @@
     "points": 139
   },
   {
+    "player": "geodom",
+    "level": "Solaris",
+    "place": "5",
+    "points": 139
+  },
+  {
     "player": "Lodomir",
     "level": "Dreams",
     "place": "6",
@@ -85,6 +91,12 @@
   },
   {
     "player": "soley",
+    "level": "Dreams",
+    "place": "6",
+    "points": 125
+  },
+  {
+    "player": "geodom",
     "level": "Dreams",
     "place": "6",
     "points": 125
@@ -228,6 +240,12 @@
     "points": 78
   },
   {
+    "player": "geodom",
+    "level": "Night",
+    "place": "12",
+    "points": 78
+  },
+  {
     "player": "Lodomir",
     "level": "Eclipse",
     "place": "13",
@@ -265,6 +283,12 @@
   },
   {
     "player": "soley",
+    "level": "Fantasy",
+    "place": "14",
+    "points": 69
+  },
+  {
+    "player": "geodom",
     "level": "Fantasy",
     "place": "14",
     "points": 69
@@ -301,6 +325,12 @@
   },
   {
     "player": "soley",
+    "level": "Wet In",
+    "place": "16",
+    "points": 62
+  },
+  {
+    "player": "geodom",
     "level": "Wet In",
     "place": "16",
     "points": 62
@@ -420,6 +450,12 @@
     "points": 52
   },
   {
+    "player": "geodom",
+    "level": "Cry About It",
+    "place": "20",
+    "points": 52
+  },
+  {
     "player": "denis",
     "level": "Another Step",
     "place": "21",
@@ -456,7 +492,19 @@
     "points": 50
   },
   {
+    "player": "geodom",
+    "level": "Another Step",
+    "place": "21",
+    "points": 50
+  },
+  {
     "player": "denis",
+    "level": "Resonating",
+    "place": "10",
+    "points": 89
+  },
+  {
+    "player": "geodom",
     "level": "Resonating",
     "place": "10",
     "points": 89
