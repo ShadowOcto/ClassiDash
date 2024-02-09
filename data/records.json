@@ -36,6 +36,12 @@
     "points": 208
   },
   {
+    "player": "geodom",
+    "level": "no chance",
+    "place": "2",
+    "points": 208
+  },
+  {
     "player": "soley",
     "level": "wither",
     "place": "3",
@@ -270,6 +276,12 @@
     "points": 74
   },
   {
+    "player": "geodom",
+    "level": "Eclipse",
+    "place": "13",
+    "points": 74
+  },
+  {
     "player": "Shadow",
     "level": "Fantasy",
     "place": "14",
@@ -378,6 +390,12 @@
     "points": 60
   },
   {
+    "player": "geodom",
+    "level": "Bliss",
+    "place": "17",
+    "points": 60
+  },
+  {
     "player": "denis",
     "level": "EvoCastle",
     "place": "18",
@@ -397,6 +415,12 @@
   },
   {
     "player": "soley",
+    "level": "EvoCastle",
+    "place": "18",
+    "points": 57
+  },
+  {
+    "player": "geodom",
     "level": "EvoCastle",
     "place": "18",
     "points": 57
@@ -427,6 +451,12 @@
   },
   {
     "player": "crasu",
+    "level": "Faithful",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "geodom",
     "level": "Faithful",
     "place": "19",
     "points": 54
@@ -510,13 +540,13 @@
     "points": 89
   },
   {
-    "player": "geodom",
+    "player": "Hykre",
     "level": "Resonating",
     "place": "10",
     "points": 89
   },
   {
-    "player": "Hykre",
+    "player": "geodom",
     "level": "Resonating",
     "place": "10",
     "points": 89
