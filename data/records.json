@@ -84,6 +84,12 @@
     "points": 125
   },
   {
+    "player": "Syrcx",
+    "level": "Solaris",
+    "place": "6",
+    "points": 125
+  },
+  {
     "player": "Lodomir",
     "level": "Dreams",
     "place": "7",
@@ -114,6 +120,12 @@
     "points": 114
   },
   {
+    "player": "Syrcx",
+    "level": "Dreams",
+    "place": "7",
+    "points": 114
+  },
+  {
     "player": "soley",
     "level": "Bludareta",
     "place": "8",
@@ -127,6 +139,12 @@
   },
   {
     "player": "Lodomir",
+    "level": "Bludareta",
+    "place": "8",
+    "points": 104
+  },
+  {
+    "player": "Syrcx",
     "level": "Bludareta",
     "place": "8",
     "points": 104
@@ -162,6 +180,12 @@
     "points": 96
   },
   {
+    "player": "Syrcx",
+    "level": "Kagayaku",
+    "place": "9",
+    "points": 96
+  },
+  {
     "player": "Shadow",
     "level": "Meowareta",
     "place": "10",
@@ -192,6 +216,12 @@
     "points": 89
   },
   {
+    "player": "Syrcx",
+    "level": "Meowareta",
+    "place": "10",
+    "points": 89
+  },
+  {
     "player": "soley",
     "level": "Destiny",
     "place": "12",
@@ -205,6 +235,12 @@
   },
   {
     "player": "Shadow",
+    "level": "Destiny",
+    "place": "12",
+    "points": 78
+  },
+  {
+    "player": "Syrcx",
     "level": "Destiny",
     "place": "12",
     "points": 78
@@ -258,6 +294,12 @@
     "points": 74
   },
   {
+    "player": "Syrcx",
+    "level": "Night",
+    "place": "13",
+    "points": 74
+  },
+  {
     "player": "Lodomir",
     "level": "Eclipse",
     "place": "14",
@@ -277,6 +319,12 @@
   },
   {
     "player": "geodom",
+    "level": "Eclipse",
+    "place": "14",
+    "points": 69
+  },
+  {
+    "player": "Syrcx",
     "level": "Eclipse",
     "place": "14",
     "points": 69
@@ -307,6 +355,12 @@
   },
   {
     "player": "geodom",
+    "level": "Fantasy",
+    "place": "15",
+    "points": 66
+  },
+  {
+    "player": "Syrcx",
     "level": "Fantasy",
     "place": "15",
     "points": 66
@@ -330,6 +384,12 @@
     "points": 62
   },
   {
+    "player": "Syrcx",
+    "level": "Genesis",
+    "place": "16",
+    "points": 62
+  },
+  {
     "player": "Shadow",
     "level": "Wet In",
     "place": "17",
@@ -349,6 +409,12 @@
   },
   {
     "player": "geodom",
+    "level": "Wet In",
+    "place": "17",
+    "points": 60
+  },
+  {
+    "player": "Syrcx",
     "level": "Wet In",
     "place": "17",
     "points": 60
@@ -396,6 +462,12 @@
     "points": 57
   },
   {
+    "player": "Syrcx",
+    "level": "Bliss",
+    "place": "18",
+    "points": 57
+  },
+  {
     "player": "denis",
     "level": "EvoCastle",
     "place": "19",
@@ -421,6 +493,12 @@
   },
   {
     "player": "geodom",
+    "level": "EvoCastle",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "Syrcx",
     "level": "EvoCastle",
     "place": "19",
     "points": 54
@@ -462,6 +540,12 @@
     "points": 52
   },
   {
+    "player": "Syrcx",
+    "level": "Faithful",
+    "place": "20",
+    "points": 52
+  },
+  {
     "player": "soley",
     "level": "Cry About It",
     "place": "21",
@@ -487,6 +571,12 @@
   },
   {
     "player": "geodom",
+    "level": "Cry About It",
+    "place": "21",
+    "points": 50
+  },
+  {
+    "player": "Syrcx",
     "level": "Cry About It",
     "place": "21",
     "points": 50
@@ -534,6 +624,12 @@
     "points": 48
   },
   {
+    "player": "Syrcx",
+    "level": "Another Step",
+    "place": "22",
+    "points": 48
+  },
+  {
     "player": "denis",
     "level": "Resonating",
     "place": "11",
@@ -552,7 +648,19 @@
     "points": 83
   },
   {
+    "player": "Syrcx",
+    "level": "Resonating",
+    "place": "11",
+    "points": 83
+  },
+  {
     "player": "Shadow",
+    "level": "Green Machine",
+    "place": "5",
+    "points": 139
+  },
+  {
+    "player": "Syrcx",
     "level": "Green Machine",
     "place": "5",
     "points": 139
