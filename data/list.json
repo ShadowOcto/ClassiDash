@@ -51,7 +51,7 @@
   },
   {
     "name": "Solaris",
-    "place": "5",
+    "place": "6",
     "id": "7",
     "creators": "Shadow",
     "verifier": "soley",
@@ -65,7 +65,7 @@
   },
   {
     "name": "Dreams",
-    "place": "6",
+    "place": "7",
     "id": "341",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -80,7 +80,7 @@
   },
   {
     "name": "Bludareta",
-    "place": "7",
+    "place": "8",
     "id": "209",
     "creators": "soley",
     "verifier": "denis",
@@ -93,7 +93,7 @@
   },
   {
     "name": "Kagayaku",
-    "place": "8",
+    "place": "9",
     "id": "16",
     "creators": "Firework",
     "verifier": "soley",
@@ -108,7 +108,7 @@
   },
   {
     "name": "Meowareta",
-    "place": "9",
+    "place": "10",
     "id": "272",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -123,7 +123,7 @@
   },
   {
     "name": "Destiny",
-    "place": "11",
+    "place": "12",
     "id": "5",
     "creators": "Shadow",
     "verifier": "soley",
@@ -136,7 +136,7 @@
   },
   {
     "name": "Night",
-    "place": "12",
+    "place": "13",
     "id": "3",
     "creators": "Shadow",
     "verifier": "soley",
@@ -154,7 +154,7 @@
   },
   {
     "name": "Eclipse",
-    "place": "13",
+    "place": "14",
     "id": "6",
     "creators": "Shadow",
     "verifier": "Lodomir",
@@ -168,7 +168,7 @@
   },
   {
     "name": "Fantasy",
-    "place": "14",
+    "place": "15",
     "id": "62",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -183,7 +183,7 @@
   },
   {
     "name": "Genesis",
-    "place": "15",
+    "place": "16",
     "id": "15",
     "creators": "ice",
     "verifier": "ice",
@@ -196,7 +196,7 @@
   },
   {
     "name": "Wet In",
-    "place": "16",
+    "place": "17",
     "id": "20",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -210,7 +210,7 @@
   },
   {
     "name": "Bliss",
-    "place": "17",
+    "place": "18",
     "id": "21",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -227,7 +227,7 @@
   },
   {
     "name": "EvoCastle",
-    "place": "18",
+    "place": "19",
     "id": "266",
     "creators": "mzmr",
     "verifier": "denis",
@@ -242,7 +242,7 @@
   },
   {
     "name": "Faithful",
-    "place": "19",
+    "place": "20",
     "id": "13",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -258,7 +258,7 @@
   },
   {
     "name": "Cry About It",
-    "place": "20",
+    "place": "21",
     "id": "2",
     "creators": "Shadow",
     "verifier": "soley",
@@ -273,7 +273,7 @@
   },
   {
     "name": "Another Step",
-    "place": "21",
+    "place": "22",
     "id": "239",
     "creators": "Mzmr",
     "verifier": "denis",
@@ -290,7 +290,7 @@
   },
   {
     "name": "Resonating",
-    "place": "10",
+    "place": "11",
     "id": "379",
     "creators": "denis",
     "verifier": "denis",
@@ -299,6 +299,17 @@
       "denis",
       "Hykre",
       "geodom"
+    ]
+  },
+  {
+    "name": "Green Machine",
+    "place": "5",
+    "id": "5",
+    "creators": "Shadow",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=ClnJng8_H1U",
+    "victors": [
+      "Shadow"
     ]
   }
 ]
