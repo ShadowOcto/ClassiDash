@@ -206,7 +206,7 @@
   },
   {
     "name": "Wet In",
-    "place": "17",
+    "place": "18",
     "id": "20",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -221,7 +221,7 @@
   },
   {
     "name": "Bliss",
-    "place": "18",
+    "place": "19",
     "id": "21",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -239,7 +239,7 @@
   },
   {
     "name": "EvoCastle",
-    "place": "19",
+    "place": "20",
     "id": "266",
     "creators": "mzmr",
     "verifier": "denis",
@@ -255,7 +255,7 @@
   },
   {
     "name": "Faithful",
-    "place": "20",
+    "place": "21",
     "id": "13",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -272,7 +272,7 @@
   },
   {
     "name": "Cry About It",
-    "place": "21",
+    "place": "22",
     "id": "2",
     "creators": "Shadow",
     "verifier": "soley",
@@ -288,7 +288,7 @@
   },
   {
     "name": "Another Step",
-    "place": "22",
+    "place": "23",
     "id": "239",
     "creators": "Mzmr",
     "verifier": "denis",
@@ -328,6 +328,19 @@
     "victors": [
       "Shadow",
       "Syrcx"
+    ]
+  },
+  {
+    "name": "New Home",
+    "place": "17",
+    "id": "484",
+    "creators": "Lodomir",
+    "verifier": "Lodomir",
+    "video": "https://www.youtube.com/watch?v=lr3QhlIWLNo",
+    "victors": [
+      "Lodomir",
+      "Shadow",
+      "Hykre"
     ]
   }
 ]
