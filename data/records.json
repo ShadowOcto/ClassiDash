@@ -12,44 +12,44 @@
     "points": 250
   },
   {
-    "player": "denis",
-    "level": "no chance",
-    "place": "2",
-    "points": 208
-  },
-  {
     "player": "soley",
-    "level": "no chance",
+    "level": "wither",
     "place": "2",
     "points": 208
   },
   {
     "player": "Lodomir",
-    "level": "no chance",
+    "level": "wither",
     "place": "2",
     "points": 208
   },
   {
-    "player": "Hykre",
+    "player": "denis",
     "level": "no chance",
-    "place": "2",
-    "points": 208
-  },
-  {
-    "player": "geodom",
-    "level": "no chance",
-    "place": "2",
-    "points": 208
+    "place": "3",
+    "points": 179
   },
   {
     "player": "soley",
-    "level": "wither",
+    "level": "no chance",
     "place": "3",
     "points": 179
   },
   {
     "player": "Lodomir",
-    "level": "wither",
+    "level": "no chance",
+    "place": "3",
+    "points": 179
+  },
+  {
+    "player": "Hykre",
+    "level": "no chance",
+    "place": "3",
+    "points": 179
+  },
+  {
+    "player": "geodom",
+    "level": "no chance",
     "place": "3",
     "points": 179
   },

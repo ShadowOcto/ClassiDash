@@ -11,9 +11,21 @@
       "Lodomir"
     ]
   },
+    {
+    "name": "wither",
+    "place": "2",
+    "id": "100",
+    "creators": "ice",
+    "verifier": "soley",
+    "video": "https://youtu.be/CpVTfG_4nA0?si=c74gEEV_xCefKfRD&t=694",
+    "victors": [
+      "soley",
+      "Lodomir"
+    ]
+  },
   {
     "name": "no chance",
-    "place": "2",
+    "place": "3",
     "id": "302",
     "creators": "denis",
     "verifier": "denis",
@@ -24,18 +36,6 @@
       "Lodomir",
       "Hykre",
       "geodom"
-    ]
-  },
-  {
-    "name": "wither",
-    "place": "3",
-    "id": "100",
-    "creators": "ice",
-    "verifier": "soley",
-    "video": "https://youtu.be/CpVTfG_4nA0?si=c74gEEV_xCefKfRD&t=694",
-    "victors": [
-      "soley",
-      "Lodomir"
     ]
   },
   {
