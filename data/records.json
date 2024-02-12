@@ -49,6 +49,12 @@
   },
   {
     "player": "Lodomir",
+    "level": "wither",
+    "place": "3",
+    "points": 179
+  },
+  {
+    "player": "Lodomir",
     "level": "Destruction",
     "place": "4",
     "points": 156
@@ -546,6 +552,12 @@
     "points": 50
   },
   {
+    "player": "Hykre",
+    "level": "Faithful",
+    "place": "21",
+    "points": 50
+  },
+  {
     "player": "soley",
     "level": "Cry About It",
     "place": "22",
@@ -649,6 +661,12 @@
   },
   {
     "player": "Syrcx",
+    "level": "Resonating",
+    "place": "11",
+    "points": 83
+  },
+  {
+    "player": "Lodomir",
     "level": "Resonating",
     "place": "11",
     "points": 83
