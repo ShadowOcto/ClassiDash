@@ -242,7 +242,7 @@
   },
   {
     "name": "EvoCastle",
-    "place": "20",
+    "place": "22",
     "id": "266",
     "creators": "mzmr",
     "verifier": "denis",
@@ -258,7 +258,7 @@
   },
   {
     "name": "Faithful",
-    "place": "21",
+    "place": "20",
     "id": "13",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -276,7 +276,7 @@
   },
   {
     "name": "Cry About It",
-    "place": "22",
+    "place": "23",
     "id": "2",
     "creators": "Shadow",
     "verifier": "soley",
@@ -292,7 +292,7 @@
   },
   {
     "name": "Another Step",
-    "place": "24",
+    "place": "25",
     "id": "239",
     "creators": "Mzmr",
     "verifier": "denis",
@@ -352,7 +352,7 @@
   },
   {
     "name": "Bound",
-    "place": "23",
+    "place": "24",
     "id": "510",
     "creators": "Zoink",
     "verifier": "Shadow",
@@ -360,6 +360,17 @@
     "victors": [
       "Shadow",
       "denis"
+    ]
+  },
+  {
+    "name": "Inferno Step",
+    "place": "21",
+    "id": "437",
+    "creators": "MolloPro",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=HOWpUcQOdVM",
+    "victors": [
+      "Shadow"
     ]
   }
 ]

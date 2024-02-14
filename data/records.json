@@ -488,164 +488,164 @@
   {
     "player": "denis",
     "level": "EvoCastle",
-    "place": "20",
-    "points": 52
+    "place": "22",
+    "points": 48
   },
   {
     "player": "Lodomir",
     "level": "EvoCastle",
-    "place": "20",
-    "points": 52
+    "place": "22",
+    "points": 48
   },
   {
     "player": "Shadow",
     "level": "EvoCastle",
-    "place": "20",
-    "points": 52
+    "place": "22",
+    "points": 48
   },
   {
     "player": "soley",
     "level": "EvoCastle",
-    "place": "20",
-    "points": 52
+    "place": "22",
+    "points": 48
   },
   {
     "player": "geodom",
     "level": "EvoCastle",
-    "place": "20",
-    "points": 52
+    "place": "22",
+    "points": 48
   },
   {
     "player": "Syrcx",
     "level": "EvoCastle",
-    "place": "20",
-    "points": 52
+    "place": "22",
+    "points": 48
   },
   {
     "player": "Shadow",
     "level": "Faithful",
-    "place": "21",
-    "points": 50
+    "place": "20",
+    "points": 52
   },
   {
     "player": "soley",
     "level": "Faithful",
-    "place": "21",
-    "points": 50
+    "place": "20",
+    "points": 52
   },
   {
     "player": "Lodomir",
     "level": "Faithful",
-    "place": "21",
-    "points": 50
+    "place": "20",
+    "points": 52
   },
   {
     "player": "denis",
     "level": "Faithful",
-    "place": "21",
-    "points": 50
+    "place": "20",
+    "points": 52
   },
   {
     "player": "crasu",
     "level": "Faithful",
-    "place": "21",
-    "points": 50
+    "place": "20",
+    "points": 52
   },
   {
     "player": "geodom",
     "level": "Faithful",
-    "place": "21",
-    "points": 50
+    "place": "20",
+    "points": 52
   },
   {
     "player": "Syrcx",
     "level": "Faithful",
-    "place": "21",
-    "points": 50
+    "place": "20",
+    "points": 52
   },
   {
     "player": "Hykre",
     "level": "Faithful",
-    "place": "21",
-    "points": 50
+    "place": "20",
+    "points": 52
   },
   {
     "player": "soley",
     "level": "Cry About It",
-    "place": "22",
-    "points": 48
+    "place": "23",
+    "points": 46
   },
   {
     "player": "denis",
     "level": "Cry About It",
-    "place": "22",
-    "points": 48
+    "place": "23",
+    "points": 46
   },
   {
     "player": "Lodomir",
     "level": "Cry About It",
-    "place": "22",
-    "points": 48
+    "place": "23",
+    "points": 46
   },
   {
     "player": "Shadow",
     "level": "Cry About It",
-    "place": "22",
-    "points": 48
+    "place": "23",
+    "points": 46
   },
   {
     "player": "geodom",
     "level": "Cry About It",
-    "place": "22",
-    "points": 48
+    "place": "23",
+    "points": 46
   },
   {
     "player": "Syrcx",
     "level": "Cry About It",
-    "place": "22",
-    "points": 48
+    "place": "23",
+    "points": 46
   },
   {
     "player": "denis",
     "level": "Another Step",
-    "place": "24",
-    "points": 45
+    "place": "25",
+    "points": 43
   },
   {
     "player": "Shadow",
     "level": "Another Step",
-    "place": "24",
-    "points": 45
+    "place": "25",
+    "points": 43
   },
   {
     "player": "Lodomir",
     "level": "Another Step",
-    "place": "24",
-    "points": 45
+    "place": "25",
+    "points": 43
   },
   {
     "player": "brie",
     "level": "Another Step",
-    "place": "24",
-    "points": 45
+    "place": "25",
+    "points": 43
   },
   {
     "player": "soley",
     "level": "Another Step",
-    "place": "24",
-    "points": 45
+    "place": "25",
+    "points": 43
   },
   {
     "player": "geodom",
     "level": "Another Step",
-    "place": "24",
-    "points": 45
+    "place": "25",
+    "points": 43
   },
   {
     "player": "Syrcx",
     "level": "Another Step",
-    "place": "24",
-    "points": 45
+    "place": "25",
+    "points": 43
   },
   {
     "player": "denis",
@@ -728,13 +728,19 @@
   {
     "player": "Shadow",
     "level": "Bound",
-    "place": "23",
-    "points": 46
+    "place": "24",
+    "points": 45
   },
   {
     "player": "denis",
     "level": "Bound",
-    "place": "23",
-    "points": 46
+    "place": "24",
+    "points": 45
+  },
+  {
+    "player": "Shadow",
+    "level": "Inferno Step",
+    "place": "21",
+    "points": 50
   }
 ]
