@@ -349,5 +349,16 @@
       "Shadow",
       "Hykre"
     ]
+  },
+  {
+    "name": "Bound",
+    "place": "24",
+    "id": "510",
+    "creators": "Zoink",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=87Toi2h9WNs",
+    "victors": [
+      "Shadow"
+    ]
   }
 ]

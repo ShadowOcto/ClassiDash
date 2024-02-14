@@ -724,5 +724,11 @@
     "level": "New Home",
     "place": "17",
     "points": 60
+  },
+  {
+    "player": "Shadow",
+    "level": "Bound",
+    "place": "24",
+    "points": 45
   }
 ]
