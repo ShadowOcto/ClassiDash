@@ -78,6 +78,12 @@
     "points": 156
   },
   {
+    "player": "Hykre",
+    "level": "Destruction",
+    "place": "4",
+    "points": 156
+  },
+  {
     "player": "soley",
     "level": "Solaris",
     "place": "6",
@@ -745,6 +751,18 @@
   },
   {
     "player": "denis",
+    "level": "Inferno Step",
+    "place": "21",
+    "points": 50
+  },
+  {
+    "player": "Lodomir",
+    "level": "Inferno Step",
+    "place": "21",
+    "points": 50
+  },
+  {
+    "player": "soley",
     "level": "Inferno Step",
     "place": "21",
     "points": 50
