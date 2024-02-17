@@ -1,0 +1,381 @@
+[
+  {
+    "name": "Untamed",
+    "place": "1",
+    "id": "1",
+    "creators": "soley",
+    "verifier": "soley",
+    "video": "https://www.youtube.com/watch?v=bg4MJuR-i-0",
+    "victors": [
+      "soley",
+      "Lodomir",
+      "Hykre"
+    ]
+  },
+  {
+    "name": "wither",
+    "place": "2",
+    "id": "100",
+    "creators": "ice",
+    "verifier": "soley",
+    "video": "https://www.youtube.com/watch?v=x5V7g6fOrng",
+    "victors": [
+      "soley",
+      "Lodomir"
+    ]
+  },
+  {
+    "name": "no chance",
+    "place": "3",
+    "id": "302",
+    "creators": "denis",
+    "verifier": "denis",
+    "video": "https://youtu.be/f6q_uE3zV3M",
+    "victors": [
+      "denis",
+      "soley",
+      "Lodomir",
+      "Hykre",
+      "geodom"
+    ]
+  },
+  {
+    "name": "Destruction",
+    "place": "4",
+    "id": "23",
+    "creators": "Lodomir",
+    "verifier": "Lodomir",
+    "video": "https://www.youtube.com/watch?v=INFd3bBjGVc",
+    "victors": [
+      "Lodomir",
+      "soley",
+      "Hykre",
+      "Syrcx"
+    ]
+  },
+  {
+    "name": "Solaris",
+    "place": "6",
+    "id": "7",
+    "creators": "Shadow",
+    "verifier": "soley",
+    "video": "https://www.youtube.com/watch?v=RDWO4XMAUkY",
+    "victors": [
+      "soley",
+      "Hykre",
+      "Lodomir",
+      "geodom",
+      "Syrcx"
+    ]
+  },
+  {
+    "name": "Dreams",
+    "place": "7",
+    "id": "341",
+    "creators": "Lodomir",
+    "verifier": "Lodomir",
+    "video": "https://youtu.be/YGGCzceJJsE",
+    "victors": [
+      "Lodomir",
+      "Shadow",
+      "Hykre",
+      "soley",
+      "geodom",
+      "Syrcx"
+    ]
+  },
+  {
+    "name": "Bludareta",
+    "place": "8",
+    "id": "209",
+    "creators": "soley",
+    "verifier": "denis",
+    "video": "https://www.youtube.com/watch?v=lM-_g3ZLG6U",
+    "victors": [
+      "soley",
+      "denis",
+      "Lodomir",
+      "Syrcx"
+    ]
+  },
+  {
+    "name": "Kagayaku",
+    "place": "9",
+    "id": "16",
+    "creators": "Firework",
+    "verifier": "soley",
+    "video": "https://www.youtube.com/watch?v=_TnuMuIPwes",
+    "victors": [
+      "soley",
+      "crasu",
+      "Lodomir",
+      "Shadow",
+      "Hykre",
+      "Syrcx"
+    ]
+  },
+  {
+    "name": "Meowareta",
+    "place": "10",
+    "id": "272",
+    "creators": "Shadow",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=UY_4QvhiIE8",
+    "victors": [
+      "Shadow",
+      "Hykre",
+      "denis",
+      "Lodomir",
+      "soley",
+      "Syrcx"
+    ]
+  },
+  {
+    "name": "Destiny",
+    "place": "12",
+    "id": "5",
+    "creators": "Shadow",
+    "verifier": "soley",
+    "video": "https://www.youtube.com/watch?v=cb9Kj9-VrHw",
+    "victors": [
+      "soley",
+      "Lodomir",
+      "Shadow",
+      "Syrcx"
+    ]
+  },
+  {
+    "name": "Night",
+    "place": "13",
+    "id": "3",
+    "creators": "Shadow",
+    "verifier": "soley",
+    "video": "https://www.youtube.com/watch?v=3Swp2N-2O2E",
+    "victors": [
+      "soley",
+      "denis",
+      "Hykre",
+      "Lodomir",
+      "cubepilot",
+      "crasu",
+      "Shadow",
+      "geodom",
+      "Syrcx"
+    ]
+  },
+  {
+    "name": "Eclipse",
+    "place": "14",
+    "id": "6",
+    "creators": "Shadow",
+    "verifier": "Lodomir",
+    "video": "https://www.youtube.com/watch?v=ALWiohNsfYY",
+    "victors": [
+      "Lodomir",
+      "denis",
+      "soley",
+      "geodom",
+      "Syrcx"
+    ]
+  },
+  {
+    "name": "Fantasy",
+    "place": "15",
+    "id": "62",
+    "creators": "Shadow",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=oUIHdV9DuWc",
+    "victors": [
+      "Shadow",
+      "denis",
+      "Lodomir",
+      "soley",
+      "geodom",
+      "Syrcx"
+    ]
+  },
+  {
+    "name": "Genesis",
+    "place": "16",
+    "id": "15",
+    "creators": "ice",
+    "verifier": "ice",
+    "video": "https://www.youtube.com/watch?v=7PziEs6u5Is",
+    "victors": [
+      "ice",
+      "Lodomir",
+      "soley",
+      "Syrcx"
+    ]
+  },
+  {
+    "name": "Wet In",
+    "place": "17",
+    "id": "20",
+    "creators": "Shadow",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=Rqq2q3FJLrw",
+    "victors": [
+      "Shadow",
+      "Lodomir",
+      "soley",
+      "geodom",
+      "Syrcx"
+    ]
+  },
+  {
+    "name": "Bliss",
+    "place": "19",
+    "id": "21",
+    "creators": "Shadow",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=H9rqPwspOXo",
+    "victors": [
+      "crasu",
+      "Shadow",
+      "denis",
+      "Hykre",
+      "Lodomir",
+      "soley",
+      "geodom",
+      "Syrcx"
+    ]
+  },
+  {
+    "name": "EvoCastle",
+    "place": "22",
+    "id": "266",
+    "creators": "mzmr",
+    "verifier": "denis",
+    "video": "https://www.youtube.com/watch?v=VlB2QDfYhhw",
+    "victors": [
+      "denis",
+      "Lodomir",
+      "Shadow",
+      "soley",
+      "geodom",
+      "Syrcx"
+    ]
+  },
+  {
+    "name": "Faithful",
+    "place": "20",
+    "id": "13",
+    "creators": "Shadow",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=k8-Iiw9O2n8",
+    "victors": [
+      "Shadow",
+      "soley",
+      "Lodomir",
+      "denis",
+      "crasu",
+      "geodom",
+      "Syrcx",
+      "Hykre"
+    ]
+  },
+  {
+    "name": "Cry About It",
+    "place": "23",
+    "id": "2",
+    "creators": "Shadow",
+    "verifier": "soley",
+    "video": "https://www.youtube.com/watch?v=RtLj6ONCkkw",
+    "victors": [
+      "soley",
+      "denis",
+      "Lodomir",
+      "Shadow",
+      "geodom",
+      "Syrcx"
+    ]
+  },
+  {
+    "name": "Another Step",
+    "place": "25",
+    "id": "239",
+    "creators": "Mzmr",
+    "verifier": "denis",
+    "video": "https://youtu.be/FdJBYWDcCD8",
+    "victors": [
+      "denis",
+      "Shadow",
+      "Lodomir",
+      "brie",
+      "soley",
+      "geodom",
+      "Syrcx"
+    ]
+  },
+  {
+    "name": "Resonating",
+    "place": "11",
+    "id": "379",
+    "creators": "denis",
+    "verifier": "denis",
+    "video": "https://www.youtube.com/watch?v=KEuWiqv10Ek",
+    "victors": [
+      "denis",
+      "Hykre",
+      "geodom",
+      "Syrcx",
+      "Lodomir",
+      "soley"
+    ]
+  },
+  {
+    "name": "Green Machine",
+    "place": "5",
+    "id": "479",
+    "creators": "Shadow",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=ClnJng8_H1U",
+    "victors": [
+      "Shadow",
+      "Syrcx",
+      "Hykre",
+      "Lodomir"
+    ]
+  },
+  {
+    "name": "New Home",
+    "place": "18",
+    "id": "484",
+    "creators": "Lodomir",
+    "verifier": "Lodomir",
+    "video": "https://www.youtube.com/watch?v=lr3QhlIWLNo",
+    "victors": [
+      "Lodomir",
+      "Shadow",
+      "Hykre",
+      "denis"
+    ]
+  },
+  {
+    "name": "Bound",
+    "place": "24",
+    "id": "510",
+    "creators": "Zoink",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=87Toi2h9WNs",
+    "victors": [
+      "Shadow",
+      "denis"
+    ]
+  },
+  {
+    "name": "Inferno Step",
+    "place": "21",
+    "id": "437",
+    "creators": "MolloPro",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=HOWpUcQOdVM",
+    "victors": [
+      "Shadow",
+      "denis",
+      "Lodomir",
+      "soley"
+    ]
+  }
+] 
