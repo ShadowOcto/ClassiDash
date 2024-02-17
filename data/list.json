@@ -379,12 +379,14 @@
     ]
   },
   {
-    "name": "Test",
+    "name": "DIOPSY",
     "place": "1",
-    "id": "1",
-    "creators": "Test",
-    "verifier": "Test",
-    "video": "https://www.youtube.com/watch?v=Y2CRe4z0P4I",
-    "victors": []
+    "id": "390",
+    "creators": "Shadow",
+    "verifier": "Lodomir",
+    "video": "https://www.youtube.com/watch?v=51ELMfZ5qj0",
+    "victors": [
+      "Lodomir"
+    ]
   }
-]
+] 
