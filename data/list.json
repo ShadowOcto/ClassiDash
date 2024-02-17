@@ -1,7 +1,7 @@
 [
   {
     "name": "Untamed",
-    "place": "1",
+    "place": "2",
     "id": "1",
     "creators": "soley",
     "verifier": "soley",
@@ -14,7 +14,7 @@
   },
   {
     "name": "wither",
-    "place": "2",
+    "place": "3",
     "id": "100",
     "creators": "ice",
     "verifier": "soley",
@@ -26,7 +26,7 @@
   },
   {
     "name": "no chance",
-    "place": "3",
+    "place": "4",
     "id": "302",
     "creators": "denis",
     "verifier": "denis",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Destruction",
-    "place": "4",
+    "place": "5",
     "id": "23",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -55,7 +55,7 @@
   },
   {
     "name": "Solaris",
-    "place": "6",
+    "place": "7",
     "id": "7",
     "creators": "Shadow",
     "verifier": "soley",
@@ -70,7 +70,7 @@
   },
   {
     "name": "Dreams",
-    "place": "7",
+    "place": "8",
     "id": "341",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -86,7 +86,7 @@
   },
   {
     "name": "Bludareta",
-    "place": "8",
+    "place": "9",
     "id": "209",
     "creators": "soley",
     "verifier": "denis",
@@ -100,7 +100,7 @@
   },
   {
     "name": "Kagayaku",
-    "place": "9",
+    "place": "10",
     "id": "16",
     "creators": "Firework",
     "verifier": "soley",
@@ -116,7 +116,7 @@
   },
   {
     "name": "Meowareta",
-    "place": "10",
+    "place": "11",
     "id": "272",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -132,7 +132,7 @@
   },
   {
     "name": "Destiny",
-    "place": "12",
+    "place": "13",
     "id": "5",
     "creators": "Shadow",
     "verifier": "soley",
@@ -146,7 +146,7 @@
   },
   {
     "name": "Night",
-    "place": "13",
+    "place": "14",
     "id": "3",
     "creators": "Shadow",
     "verifier": "soley",
@@ -165,7 +165,7 @@
   },
   {
     "name": "Eclipse",
-    "place": "14",
+    "place": "15",
     "id": "6",
     "creators": "Shadow",
     "verifier": "Lodomir",
@@ -180,7 +180,7 @@
   },
   {
     "name": "Fantasy",
-    "place": "15",
+    "place": "16",
     "id": "62",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -196,7 +196,7 @@
   },
   {
     "name": "Genesis",
-    "place": "16",
+    "place": "17",
     "id": "15",
     "creators": "ice",
     "verifier": "ice",
@@ -210,7 +210,7 @@
   },
   {
     "name": "Wet In",
-    "place": "17",
+    "place": "18",
     "id": "20",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -225,7 +225,7 @@
   },
   {
     "name": "Bliss",
-    "place": "19",
+    "place": "20",
     "id": "21",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -243,7 +243,7 @@
   },
   {
     "name": "EvoCastle",
-    "place": "22",
+    "place": "23",
     "id": "266",
     "creators": "mzmr",
     "verifier": "denis",
@@ -259,7 +259,7 @@
   },
   {
     "name": "Faithful",
-    "place": "20",
+    "place": "21",
     "id": "13",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -277,7 +277,7 @@
   },
   {
     "name": "Cry About It",
-    "place": "23",
+    "place": "24",
     "id": "2",
     "creators": "Shadow",
     "verifier": "soley",
@@ -293,7 +293,7 @@
   },
   {
     "name": "Another Step",
-    "place": "25",
+    "place": "26",
     "id": "239",
     "creators": "Mzmr",
     "verifier": "denis",
@@ -310,7 +310,7 @@
   },
   {
     "name": "Resonating",
-    "place": "11",
+    "place": "12",
     "id": "379",
     "creators": "denis",
     "verifier": "denis",
@@ -326,7 +326,7 @@
   },
   {
     "name": "Green Machine",
-    "place": "5",
+    "place": "6",
     "id": "479",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -340,7 +340,7 @@
   },
   {
     "name": "New Home",
-    "place": "18",
+    "place": "19",
     "id": "484",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -354,7 +354,7 @@
   },
   {
     "name": "Bound",
-    "place": "24",
+    "place": "25",
     "id": "510",
     "creators": "Zoink",
     "verifier": "Shadow",
@@ -366,7 +366,7 @@
   },
   {
     "name": "Inferno Step",
-    "place": "21",
+    "place": "22",
     "id": "437",
     "creators": "MolloPro",
     "verifier": "Shadow",
@@ -377,5 +377,14 @@
       "Lodomir",
       "soley"
     ]
+  },
+  {
+    "name": "Test",
+    "place": "1",
+    "id": "1",
+    "creators": "Test",
+    "verifier": "Test",
+    "video": "Test",
+    "victors": []
   }
-] 
+]
