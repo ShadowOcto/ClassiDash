@@ -1,35 +1,39 @@
 [
   {
     "player": "Lodomir",
-    "points": 2389
+    "points": 2369
   },
   {
     "player": "soley",
-    "points": 1917
+    "points": 1900
   },
   {
     "player": "Syrcx",
-    "points": 1451
+    "points": 1436
   },
   {
     "player": "Hykre",
-    "points": 1321
+    "points": 1315
   },
   {
     "player": "Shadow",
-    "points": 1043
+    "points": 1026
   },
   {
     "player": "denis",
-    "points": 990
+    "points": 976
   },
   {
     "player": "geodom",
-    "points": 941
+    "points": 929
   },
   {
     "player": "crasu",
-    "points": 260
+    "points": 256
+  },
+  {
+    "player": "ice",
+    "points": 117
   },
   {
     "player": "Wowa",
@@ -40,19 +44,15 @@
     "points": 69
   },
   {
-    "player": "ice",
-    "points": 60
-  },
-  {
     "player": "zradiant",
-    "points": 43
+    "points": 42
   },
   {
     "player": "brie",
-    "points": 42
+    "points": 40
   },
   {
     "player": "ced",
-    "points": 42
+    "points": 40
   }
 ]

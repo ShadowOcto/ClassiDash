@@ -197,7 +197,7 @@
   },
   {
     "name": "Genesis",
-    "place": "17",
+    "place": "18",
     "id": "15",
     "creators": "ice",
     "verifier": "ice",
@@ -211,7 +211,7 @@
   },
   {
     "name": "Wet In",
-    "place": "18",
+    "place": "19",
     "id": "20",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -226,7 +226,7 @@
   },
   {
     "name": "Bliss",
-    "place": "20",
+    "place": "21",
     "id": "21",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -244,7 +244,7 @@
   },
   {
     "name": "EvoCastle",
-    "place": "23",
+    "place": "24",
     "id": "266",
     "creators": "mzmr",
     "verifier": "denis",
@@ -260,7 +260,7 @@
   },
   {
     "name": "Faithful",
-    "place": "21",
+    "place": "22",
     "id": "13",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -278,7 +278,7 @@
   },
   {
     "name": "Cry About It",
-    "place": "24",
+    "place": "25",
     "id": "2",
     "creators": "Shadow",
     "verifier": "soley",
@@ -294,7 +294,7 @@
   },
   {
     "name": "Another Step",
-    "place": "26",
+    "place": "27",
     "id": "239",
     "creators": "Mzmr",
     "verifier": "denis",
@@ -342,7 +342,7 @@
   },
   {
     "name": "New Home",
-    "place": "19",
+    "place": "20",
     "id": "484",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -356,7 +356,7 @@
   },
   {
     "name": "Bound",
-    "place": "25",
+    "place": "26",
     "id": "510",
     "creators": "Zoink",
     "verifier": "Shadow",
@@ -370,7 +370,7 @@
   },
   {
     "name": "Inferno Step",
-    "place": "22",
+    "place": "23",
     "id": "437",
     "creators": "MolloPro",
     "verifier": "Shadow",
@@ -391,6 +391,17 @@
     "video": "https://www.youtube.com/watch?v=51ELMfZ5qj0",
     "victors": [
       "Lodomir"
+    ]
+  },
+  {
+    "name": "clubcastle",
+    "place": "17",
+    "id": "297",
+    "creators": "ice",
+    "verifier": "ice",
+    "video": "https://www.youtube.com/watch?v=E2T78o37b9E",
+    "victors": [
+      "ice"
     ]
   }
 ]
