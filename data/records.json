@@ -398,26 +398,26 @@
   {
     "player": "ice",
     "level": "Genesis",
-    "place": "18",
-    "points": 57
+    "place": "17",
+    "points": 60
   },
   {
     "player": "Lodomir",
     "level": "Genesis",
-    "place": "18",
-    "points": 57
+    "place": "17",
+    "points": 60
   },
   {
     "player": "soley",
     "level": "Genesis",
-    "place": "18",
-    "points": 57
+    "place": "17",
+    "points": 60
   },
   {
     "player": "Syrcx",
     "level": "Genesis",
-    "place": "18",
-    "points": 57
+    "place": "17",
+    "points": 60
   },
   {
     "player": "Shadow",
@@ -806,7 +806,7 @@
   {
     "player": "ice",
     "level": "clubcastle",
-    "place": "17",
-    "points": 60
+    "place": "18",
+    "points": 57
   }
 ]
