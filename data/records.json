@@ -150,6 +150,12 @@
     "points": 104
   },
   {
+    "player": "TCaleb",
+    "level": "Dreams",
+    "place": "8",
+    "points": 104
+  },
+  {
     "player": "soley",
     "level": "Bludareta",
     "place": "9",
@@ -582,40 +588,52 @@
     "points": 48
   },
   {
+    "player": "TCaleb",
+    "level": "Faithful",
+    "place": "22",
+    "points": 48
+  },
+  {
+    "player": "ced",
+    "level": "Faithful",
+    "place": "22",
+    "points": 48
+  },
+  {
     "player": "soley",
     "level": "Cry About It",
-    "place": "25",
-    "points": 43
+    "place": "23",
+    "points": 46
   },
   {
     "player": "denis",
     "level": "Cry About It",
-    "place": "25",
-    "points": 43
+    "place": "23",
+    "points": 46
   },
   {
     "player": "Lodomir",
     "level": "Cry About It",
-    "place": "25",
-    "points": 43
+    "place": "23",
+    "points": 46
   },
   {
     "player": "Shadow",
     "level": "Cry About It",
-    "place": "25",
-    "points": 43
+    "place": "23",
+    "points": 46
   },
   {
     "player": "geodom",
     "level": "Cry About It",
-    "place": "25",
-    "points": 43
+    "place": "23",
+    "points": 46
   },
   {
     "player": "Syrcx",
     "level": "Cry About It",
-    "place": "25",
-    "points": 43
+    "place": "23",
+    "points": 46
   },
   {
     "player": "denis",
@@ -655,6 +673,12 @@
   },
   {
     "player": "Syrcx",
+    "level": "Another Step",
+    "place": "27",
+    "points": 40
+  },
+  {
+    "player": "ced",
     "level": "Another Step",
     "place": "27",
     "points": 40
@@ -750,6 +774,18 @@
     "points": 52
   },
   {
+    "player": "TCaleb",
+    "level": "New Home",
+    "place": "20",
+    "points": 52
+  },
+  {
+    "player": "ced",
+    "level": "New Home",
+    "place": "20",
+    "points": 52
+  },
+  {
     "player": "Shadow",
     "level": "Bound",
     "place": "26",
@@ -774,28 +810,46 @@
     "points": 42
   },
   {
+    "player": "Silver",
+    "level": "Bound",
+    "place": "26",
+    "points": 42
+  },
+  {
+    "player": "ced",
+    "level": "Bound",
+    "place": "26",
+    "points": 42
+  },
+  {
     "player": "Shadow",
     "level": "Inferno Step",
-    "place": "23",
-    "points": 46
+    "place": "25",
+    "points": 43
   },
   {
     "player": "denis",
     "level": "Inferno Step",
-    "place": "23",
-    "points": 46
+    "place": "25",
+    "points": 43
   },
   {
     "player": "Lodomir",
     "level": "Inferno Step",
-    "place": "23",
-    "points": 46
+    "place": "25",
+    "points": 43
   },
   {
     "player": "soley",
     "level": "Inferno Step",
-    "place": "23",
-    "points": 46
+    "place": "25",
+    "points": 43
+  },
+  {
+    "player": "ced",
+    "level": "Inferno Step",
+    "place": "25",
+    "points": 43
   },
   {
     "player": "Lodomir",

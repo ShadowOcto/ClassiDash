@@ -81,7 +81,8 @@
       "Hykre",
       "soley",
       "geodom",
-      "Syrcx"
+      "Syrcx",
+      "TCaleb"
     ]
   },
   {
@@ -273,12 +274,14 @@
       "crasu",
       "geodom",
       "Syrcx",
-      "Hykre"
+      "Hykre",
+      "TCaleb",
+      "ced"
     ]
   },
   {
     "name": "Cry About It",
-    "place": "25",
+    "place": "23",
     "id": "2",
     "creators": "Shadow",
     "verifier": "soley",
@@ -307,6 +310,7 @@
       "soley",
       "geodom",
       "Syrcx",
+      "ced",
       "ced"
     ]
   },
@@ -351,7 +355,9 @@
       "Lodomir",
       "Shadow",
       "Hykre",
-      "denis"
+      "denis",
+      "TCaleb",
+      "ced"
     ]
   },
   {
@@ -365,12 +371,14 @@
       "Shadow",
       "denis",
       "Lodomir",
-      "zradiant"
+      "zradiant",
+      "Silver",
+      "ced"
     ]
   },
   {
     "name": "Inferno Step",
-    "place": "23",
+    "place": "25",
     "id": "437",
     "creators": "MolloPro",
     "verifier": "Shadow",
@@ -379,7 +387,8 @@
       "Shadow",
       "denis",
       "Lodomir",
-      "soley"
+      "soley",
+      "ced"
     ]
   },
   {
