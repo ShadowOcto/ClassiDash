@@ -133,7 +133,7 @@
   },
   {
     "name": "Destiny",
-    "place": "13",
+    "place": "14",
     "id": "5",
     "creators": "Shadow",
     "verifier": "soley",
@@ -147,7 +147,7 @@
   },
   {
     "name": "Night",
-    "place": "14",
+    "place": "13",
     "id": "3",
     "creators": "Shadow",
     "verifier": "soley",
@@ -404,4 +404,4 @@
       "ice"
     ]
   }
-]
+] 
