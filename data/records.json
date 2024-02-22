@@ -504,6 +504,12 @@
     "points": 50
   },
   {
+    "player": "ced",
+    "level": "Bliss",
+    "place": "21",
+    "points": 50
+  },
+  {
     "player": "denis",
     "level": "EvoCastle",
     "place": "24",
@@ -535,6 +541,12 @@
   },
   {
     "player": "Syrcx",
+    "level": "EvoCastle",
+    "place": "24",
+    "points": 45
+  },
+  {
+    "player": "ced",
     "level": "EvoCastle",
     "place": "24",
     "points": 45
@@ -847,6 +859,12 @@
   },
   {
     "player": "ced",
+    "level": "Inferno Step",
+    "place": "25",
+    "points": 43
+  },
+  {
+    "player": "Krillz",
     "level": "Inferno Step",
     "place": "25",
     "points": 43
