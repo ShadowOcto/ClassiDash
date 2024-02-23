@@ -1,5 +1,11 @@
 [
   {
+    "player": "Lodomir",
+    "level": "DIOPSY",
+    "place": "1",
+    "points": 250
+  },
+  {
     "player": "soley",
     "level": "Untamed",
     "place": "2",
@@ -82,6 +88,30 @@
     "level": "Destruction",
     "place": "5",
     "points": 139
+  },
+  {
+    "player": "Shadow",
+    "level": "Green Machine",
+    "place": "6",
+    "points": 125
+  },
+  {
+    "player": "Syrcx",
+    "level": "Green Machine",
+    "place": "6",
+    "points": 125
+  },
+  {
+    "player": "Hykre",
+    "level": "Green Machine",
+    "place": "6",
+    "points": 125
+  },
+  {
+    "player": "Lodomir",
+    "level": "Green Machine",
+    "place": "6",
+    "points": 125
   },
   {
     "player": "soley",
@@ -258,28 +288,40 @@
     "points": 83
   },
   {
-    "player": "soley",
-    "level": "Destiny",
-    "place": "14",
-    "points": 69
+    "player": "denis",
+    "level": "Resonating",
+    "place": "12",
+    "points": 78
   },
   {
-    "player": "Lodomir",
-    "level": "Destiny",
-    "place": "14",
-    "points": 69
+    "player": "Hykre",
+    "level": "Resonating",
+    "place": "12",
+    "points": 78
   },
   {
-    "player": "Shadow",
-    "level": "Destiny",
-    "place": "14",
-    "points": 69
+    "player": "geodom",
+    "level": "Resonating",
+    "place": "12",
+    "points": 78
   },
   {
     "player": "Syrcx",
-    "level": "Destiny",
-    "place": "14",
-    "points": 69
+    "level": "Resonating",
+    "place": "12",
+    "points": 78
+  },
+  {
+    "player": "Lodomir",
+    "level": "Resonating",
+    "place": "12",
+    "points": 78
+  },
+  {
+    "player": "soley",
+    "level": "Resonating",
+    "place": "12",
+    "points": 78
   },
   {
     "player": "soley",
@@ -336,6 +378,30 @@
     "points": 74
   },
   {
+    "player": "soley",
+    "level": "Destiny",
+    "place": "14",
+    "points": 69
+  },
+  {
+    "player": "Lodomir",
+    "level": "Destiny",
+    "place": "14",
+    "points": 69
+  },
+  {
+    "player": "Shadow",
+    "level": "Destiny",
+    "place": "14",
+    "points": 69
+  },
+  {
+    "player": "Syrcx",
+    "level": "Destiny",
+    "place": "14",
+    "points": 69
+  },
+  {
     "player": "Lodomir",
     "level": "Eclipse",
     "place": "15",
@@ -426,6 +492,24 @@
     "points": 60
   },
   {
+    "player": "ice",
+    "level": "clubcastle",
+    "place": "18",
+    "points": 57
+  },
+  {
+    "player": "soley",
+    "level": "clubcastle",
+    "place": "18",
+    "points": 57
+  },
+  {
+    "player": "Lodomir",
+    "level": "clubcastle",
+    "place": "18",
+    "points": 57
+  },
+  {
     "player": "Shadow",
     "level": "Wet In",
     "place": "19",
@@ -454,6 +538,42 @@
     "level": "Wet In",
     "place": "19",
     "points": 54
+  },
+  {
+    "player": "Lodomir",
+    "level": "New Home",
+    "place": "20",
+    "points": 52
+  },
+  {
+    "player": "Shadow",
+    "level": "New Home",
+    "place": "20",
+    "points": 52
+  },
+  {
+    "player": "Hykre",
+    "level": "New Home",
+    "place": "20",
+    "points": 52
+  },
+  {
+    "player": "denis",
+    "level": "New Home",
+    "place": "20",
+    "points": 52
+  },
+  {
+    "player": "TCaleb",
+    "level": "New Home",
+    "place": "20",
+    "points": 52
+  },
+  {
+    "player": "ced",
+    "level": "New Home",
+    "place": "20",
+    "points": 52
   },
   {
     "player": "crasu",
@@ -508,48 +628,6 @@
     "level": "Bliss",
     "place": "21",
     "points": 50
-  },
-  {
-    "player": "denis",
-    "level": "EvoCastle",
-    "place": "24",
-    "points": 45
-  },
-  {
-    "player": "Lodomir",
-    "level": "EvoCastle",
-    "place": "24",
-    "points": 45
-  },
-  {
-    "player": "Shadow",
-    "level": "EvoCastle",
-    "place": "24",
-    "points": 45
-  },
-  {
-    "player": "soley",
-    "level": "EvoCastle",
-    "place": "24",
-    "points": 45
-  },
-  {
-    "player": "geodom",
-    "level": "EvoCastle",
-    "place": "24",
-    "points": 45
-  },
-  {
-    "player": "Syrcx",
-    "level": "EvoCastle",
-    "place": "24",
-    "points": 45
-  },
-  {
-    "player": "ced",
-    "level": "EvoCastle",
-    "place": "24",
-    "points": 45
   },
   {
     "player": "Shadow",
@@ -649,248 +727,170 @@
   },
   {
     "player": "denis",
-    "level": "Another Step",
-    "place": "27",
-    "points": 40
-  },
-  {
-    "player": "Shadow",
-    "level": "Another Step",
-    "place": "27",
-    "points": 40
+    "level": "EvoCastle",
+    "place": "25",
+    "points": 43
   },
   {
     "player": "Lodomir",
-    "level": "Another Step",
-    "place": "27",
-    "points": 40
+    "level": "EvoCastle",
+    "place": "25",
+    "points": 43
   },
   {
-    "player": "brie",
-    "level": "Another Step",
-    "place": "27",
-    "points": 40
+    "player": "Shadow",
+    "level": "EvoCastle",
+    "place": "25",
+    "points": 43
   },
   {
     "player": "soley",
-    "level": "Another Step",
-    "place": "27",
-    "points": 40
+    "level": "EvoCastle",
+    "place": "25",
+    "points": 43
   },
   {
     "player": "geodom",
-    "level": "Another Step",
-    "place": "27",
-    "points": 40
-  },
-  {
-    "player": "Syrcx",
-    "level": "Another Step",
-    "place": "27",
-    "points": 40
-  },
-  {
-    "player": "ced",
-    "level": "Another Step",
-    "place": "27",
-    "points": 40
-  },
-  {
-    "player": "ced",
-    "level": "Another Step",
-    "place": "27",
-    "points": 40
-  },
-  {
-    "player": "denis",
-    "level": "Resonating",
-    "place": "12",
-    "points": 78
-  },
-  {
-    "player": "Hykre",
-    "level": "Resonating",
-    "place": "12",
-    "points": 78
-  },
-  {
-    "player": "geodom",
-    "level": "Resonating",
-    "place": "12",
-    "points": 78
-  },
-  {
-    "player": "Syrcx",
-    "level": "Resonating",
-    "place": "12",
-    "points": 78
-  },
-  {
-    "player": "Lodomir",
-    "level": "Resonating",
-    "place": "12",
-    "points": 78
-  },
-  {
-    "player": "soley",
-    "level": "Resonating",
-    "place": "12",
-    "points": 78
-  },
-  {
-    "player": "Shadow",
-    "level": "Green Machine",
-    "place": "6",
-    "points": 125
-  },
-  {
-    "player": "Syrcx",
-    "level": "Green Machine",
-    "place": "6",
-    "points": 125
-  },
-  {
-    "player": "Hykre",
-    "level": "Green Machine",
-    "place": "6",
-    "points": 125
-  },
-  {
-    "player": "Lodomir",
-    "level": "Green Machine",
-    "place": "6",
-    "points": 125
-  },
-  {
-    "player": "Lodomir",
-    "level": "New Home",
-    "place": "20",
-    "points": 52
-  },
-  {
-    "player": "Shadow",
-    "level": "New Home",
-    "place": "20",
-    "points": 52
-  },
-  {
-    "player": "Hykre",
-    "level": "New Home",
-    "place": "20",
-    "points": 52
-  },
-  {
-    "player": "denis",
-    "level": "New Home",
-    "place": "20",
-    "points": 52
-  },
-  {
-    "player": "TCaleb",
-    "level": "New Home",
-    "place": "20",
-    "points": 52
-  },
-  {
-    "player": "ced",
-    "level": "New Home",
-    "place": "20",
-    "points": 52
-  },
-  {
-    "player": "Shadow",
-    "level": "Bound",
-    "place": "26",
-    "points": 42
-  },
-  {
-    "player": "denis",
-    "level": "Bound",
-    "place": "26",
-    "points": 42
-  },
-  {
-    "player": "Lodomir",
-    "level": "Bound",
-    "place": "26",
-    "points": 42
-  },
-  {
-    "player": "zradiant",
-    "level": "Bound",
-    "place": "26",
-    "points": 42
-  },
-  {
-    "player": "Silver",
-    "level": "Bound",
-    "place": "26",
-    "points": 42
-  },
-  {
-    "player": "ced",
-    "level": "Bound",
-    "place": "26",
-    "points": 42
-  },
-  {
-    "player": "Shadow",
-    "level": "Inferno Step",
+    "level": "EvoCastle",
     "place": "25",
     "points": 43
   },
   {
-    "player": "denis",
-    "level": "Inferno Step",
+    "player": "Syrcx",
+    "level": "EvoCastle",
     "place": "25",
     "points": 43
   },
   {
-    "player": "Lodomir",
-    "level": "Inferno Step",
+    "player": "ced",
+    "level": "EvoCastle",
     "place": "25",
     "points": 43
+  },
+  {
+    "player": "Shadow",
+    "level": "Inferno Step",
+    "place": "26",
+    "points": 42
+  },
+  {
+    "player": "denis",
+    "level": "Inferno Step",
+    "place": "26",
+    "points": 42
+  },
+  {
+    "player": "Lodomir",
+    "level": "Inferno Step",
+    "place": "26",
+    "points": 42
   },
   {
     "player": "soley",
     "level": "Inferno Step",
-    "place": "25",
-    "points": 43
+    "place": "26",
+    "points": 42
   },
   {
     "player": "ced",
     "level": "Inferno Step",
-    "place": "25",
-    "points": 43
+    "place": "26",
+    "points": 42
   },
   {
     "player": "Krillz",
     "level": "Inferno Step",
-    "place": "25",
-    "points": 43
+    "place": "26",
+    "points": 42
+  },
+  {
+    "player": "Shadow",
+    "level": "Bound",
+    "place": "27",
+    "points": 40
+  },
+  {
+    "player": "denis",
+    "level": "Bound",
+    "place": "27",
+    "points": 40
   },
   {
     "player": "Lodomir",
-    "level": "DIOPSY",
-    "place": "1",
-    "points": 250
+    "level": "Bound",
+    "place": "27",
+    "points": 40
   },
   {
-    "player": "ice",
-    "level": "clubcastle",
-    "place": "18",
-    "points": 57
+    "player": "zradiant",
+    "level": "Bound",
+    "place": "27",
+    "points": 40
+  },
+  {
+    "player": "Silver",
+    "level": "Bound",
+    "place": "27",
+    "points": 40
+  },
+  {
+    "player": "ced",
+    "level": "Bound",
+    "place": "27",
+    "points": 40
+  },
+  {
+    "player": "denis",
+    "level": "Another Step",
+    "place": "28",
+    "points": 39
+  },
+  {
+    "player": "Shadow",
+    "level": "Another Step",
+    "place": "28",
+    "points": 39
+  },
+  {
+    "player": "Lodomir",
+    "level": "Another Step",
+    "place": "28",
+    "points": 39
+  },
+  {
+    "player": "brie",
+    "level": "Another Step",
+    "place": "28",
+    "points": 39
   },
   {
     "player": "soley",
-    "level": "clubcastle",
-    "place": "18",
-    "points": 57
+    "level": "Another Step",
+    "place": "28",
+    "points": 39
   },
   {
-    "player": "Lodomir",
-    "level": "clubcastle",
-    "place": "18",
-    "points": 57
+    "player": "geodom",
+    "level": "Another Step",
+    "place": "28",
+    "points": 39
+  },
+  {
+    "player": "Syrcx",
+    "level": "Another Step",
+    "place": "28",
+    "points": 39
+  },
+  {
+    "player": "ced",
+    "level": "Another Step",
+    "place": "28",
+    "points": 39
+  },
+  {
+    "player": "ced",
+    "level": "Another Step",
+    "place": "28",
+    "points": 39
   }
 ]
