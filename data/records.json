@@ -1,31 +1,25 @@
 [
   {
-    "player": "Lodomir",
-    "level": "DIOPSY",
+    "player": "soley",
+    "level": "Untamed",
     "place": "1",
     "points": 250
   },
   {
-    "player": "soley",
-    "level": "Untamed",
-    "place": "2",
-    "points": 208
-  },
-  {
     "player": "Lodomir",
     "level": "Untamed",
-    "place": "2",
-    "points": 208
+    "place": "1",
+    "points": 250
   },
   {
     "player": "Hykre",
     "level": "Untamed",
-    "place": "2",
-    "points": 208
+    "place": "1",
+    "points": 250
   },
   {
-    "player": "denis",
-    "level": "Untamed",
+    "player": "Lodomir",
+    "level": "DIOPSY",
     "place": "2",
     "points": 208
   },
