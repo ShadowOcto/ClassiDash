@@ -1,7 +1,18 @@
 [
   {
-    "name": "Untamed",
+    "name": "DIOPSY",
     "place": "1",
+    "id": "390",
+    "creators": "Shadow",
+    "verifier": "Lodomir",
+    "video": "https://www.youtube.com/watch?v=51ELMfZ5qj0",
+    "victors": [
+      "Lodomir"
+    ]
+  },
+  {
+    "name": "Untamed",
+    "place": "2",
     "id": "1",
     "creators": "soley",
     "verifier": "soley",
@@ -10,17 +21,6 @@
       "soley",
       "Lodomir",
       "Hykre"
-    ]
-  },
-  {
-    "name": "DIOPSY",
-    "place": "2",
-    "id": "390",
-    "creators": "Shadow",
-    "verifier": "Lodomir",
-    "video": "https://www.youtube.com/watch?v=51ELMfZ5qj0",
-    "victors": [
-      "Lodomir"
     ]
   },
   {
