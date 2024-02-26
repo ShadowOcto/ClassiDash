@@ -93,7 +93,7 @@
       "Syrcx"
     ]
   },
-    {
+  {
     "name": "Bludareta",
     "place": "8",
     "id": "209",
@@ -274,7 +274,7 @@
     "victors": [
       "ced",
       "Shadow",
-	  "Lodomir"
+      "Lodomir"
     ]
   },
   {
@@ -305,7 +305,8 @@
       "Hykre",
       "denis",
       "TCaleb",
-      "ced"
+      "ced",
+      "neppo"
     ]
   },
   {
@@ -372,7 +373,7 @@
     "video": "https://www.youtube.com/watch?v=Lvuyb5LG0FU",
     "victors": [
       "ced",
-	  "Lodomir",
+      "Lodomir",
       "Shadow"
     ]
   },
@@ -444,4 +445,4 @@
       "ced"
     ]
   }
-] 
+]
