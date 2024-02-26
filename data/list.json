@@ -1,7 +1,7 @@
 [
   {
     "name": "DIOPSY",
-    "place": "2",
+    "place": "1",
     "id": "390",
     "creators": "Shadow",
     "verifier": "Lodomir",
@@ -12,7 +12,7 @@
   },
   {
     "name": "Untamed",
-    "place": "3",
+    "place": "2",
     "id": "1",
     "creators": "soley",
     "verifier": "soley",
@@ -25,7 +25,7 @@
   },
   {
     "name": "wither",
-    "place": "4",
+    "place": "3",
     "id": "100",
     "creators": "ice",
     "verifier": "soley",
@@ -37,7 +37,7 @@
   },
   {
     "name": "no chance",
-    "place": "5",
+    "place": "4",
     "id": "302",
     "creators": "denis",
     "verifier": "denis",
@@ -52,7 +52,7 @@
   },
   {
     "name": "Destruction",
-    "place": "6",
+    "place": "5",
     "id": "23",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -66,7 +66,7 @@
   },
   {
     "name": "Green Machine",
-    "place": "7",
+    "place": "6",
     "id": "479",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -80,7 +80,7 @@
   },
   {
     "name": "Solaris",
-    "place": "8",
+    "place": "7",
     "id": "7",
     "creators": "Shadow",
     "verifier": "soley",
@@ -93,7 +93,7 @@
       "Syrcx"
     ]
   },
-  {
+    {
     "name": "Bludareta",
     "place": "8",
     "id": "209",
@@ -274,7 +274,7 @@
     "victors": [
       "ced",
       "Shadow",
-      "Lodomir"
+	  "Lodomir"
     ]
   },
   {
@@ -372,7 +372,7 @@
     "video": "https://www.youtube.com/watch?v=Lvuyb5LG0FU",
     "victors": [
       "ced",
-      "Lodomir",
+	  "Lodomir",
       "Shadow"
     ]
   },
@@ -444,4 +444,4 @@
       "ced"
     ]
   }
-]
+] 
