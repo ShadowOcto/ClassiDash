@@ -1,7 +1,7 @@
 [
   {
     "name": "DIOPSY",
-    "place": "1",
+    "place": "2",
     "id": "390",
     "creators": "Shadow",
     "verifier": "Lodomir",
@@ -12,7 +12,7 @@
   },
   {
     "name": "Untamed",
-    "place": "2",
+    "place": "3",
     "id": "1",
     "creators": "soley",
     "verifier": "soley",
@@ -25,7 +25,7 @@
   },
   {
     "name": "wither",
-    "place": "3",
+    "place": "4",
     "id": "100",
     "creators": "ice",
     "verifier": "soley",
@@ -37,7 +37,7 @@
   },
   {
     "name": "no chance",
-    "place": "4",
+    "place": "5",
     "id": "302",
     "creators": "denis",
     "verifier": "denis",
@@ -52,7 +52,7 @@
   },
   {
     "name": "Destruction",
-    "place": "5",
+    "place": "6",
     "id": "23",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -66,7 +66,7 @@
   },
   {
     "name": "Green Machine",
-    "place": "6",
+    "place": "7",
     "id": "479",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -80,7 +80,7 @@
   },
   {
     "name": "Solaris",
-    "place": "7",
+    "place": "8",
     "id": "7",
     "creators": "Shadow",
     "verifier": "soley",
@@ -94,8 +94,22 @@
     ]
   },
   {
-    "name": "Dreams",
+    "name": "Bludareta",
     "place": "8",
+    "id": "209",
+    "creators": "soley",
+    "verifier": "denis",
+    "video": "https://www.youtube.com/watch?v=lM-_g3ZLG6U",
+    "victors": [
+      "soley",
+      "denis",
+      "Lodomir",
+      "Syrcx"
+    ]
+  },
+  {
+    "name": "Dreams",
+    "place": "9",
     "id": "341",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -108,20 +122,6 @@
       "geodom",
       "Syrcx",
       "TCaleb"
-    ]
-  },
-  {
-    "name": "Bludareta",
-    "place": "9",
-    "id": "209",
-    "creators": "soley",
-    "verifier": "denis",
-    "video": "https://www.youtube.com/watch?v=lM-_g3ZLG6U",
-    "victors": [
-      "soley",
-      "denis",
-      "Lodomir",
-      "Syrcx"
     ]
   },
   {
@@ -274,7 +274,7 @@
     "victors": [
       "ced",
       "Shadow",
-	  "Lodomir"
+      "Lodomir"
     ]
   },
   {
@@ -372,7 +372,7 @@
     "video": "https://www.youtube.com/watch?v=Lvuyb5LG0FU",
     "victors": [
       "ced",
-	  "Lodomir",
+      "Lodomir",
       "Shadow"
     ]
   },
@@ -444,4 +444,4 @@
       "ced"
     ]
   }
-] 
+]
