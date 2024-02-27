@@ -114,6 +114,12 @@
     "points": 125
   },
   {
+    "player": "Twister21",
+    "level": "Green Machine",
+    "place": "6",
+    "points": 125
+  },
+  {
     "player": "soley",
     "level": "Solaris",
     "place": "7",
@@ -241,6 +247,12 @@
   },
   {
     "player": "Syrcx",
+    "level": "Kagayaku",
+    "place": "10",
+    "points": 89
+  },
+  {
+    "player": "Twister21",
     "level": "Kagayaku",
     "place": "10",
     "points": 89
@@ -528,6 +540,12 @@
     "points": 54
   },
   {
+    "player": "crasu",
+    "level": "Yellow",
+    "place": "19",
+    "points": 54
+  },
+  {
     "player": "Shadow",
     "level": "Wet In",
     "place": "20",
@@ -601,6 +619,12 @@
   },
   {
     "player": "crasu",
+    "level": "New Home",
+    "place": "21",
+    "points": 50
+  },
+  {
+    "player": "crasu",
     "level": "Bliss",
     "place": "22",
     "points": 48
@@ -649,6 +673,12 @@
   },
   {
     "player": "ced",
+    "level": "Bliss",
+    "place": "22",
+    "points": 48
+  },
+  {
+    "player": "Twister21",
     "level": "Bliss",
     "place": "22",
     "points": 48
@@ -750,6 +780,12 @@
     "points": 45
   },
   {
+    "player": "Twister21",
+    "level": "Cry About It",
+    "place": "24",
+    "points": 45
+  },
+  {
     "player": "ced",
     "level": "DccJaasFdHHdvvteeeKs",
     "place": "25",
@@ -763,6 +799,12 @@
   },
   {
     "player": "Shadow",
+    "level": "DccJaasFdHHdvvteeeKs",
+    "place": "25",
+    "points": 43
+  },
+  {
+    "player": "Twister21",
     "level": "DccJaasFdHHdvvteeeKs",
     "place": "25",
     "points": 43
@@ -810,6 +852,12 @@
     "points": 42
   },
   {
+    "player": "Twister21",
+    "level": "EvoCastle",
+    "place": "26",
+    "points": 42
+  },
+  {
     "player": "Shadow",
     "level": "Inferno Step",
     "place": "27",
@@ -846,6 +894,18 @@
     "points": 40
   },
   {
+    "player": "crasu",
+    "level": "Inferno Step",
+    "place": "27",
+    "points": 40
+  },
+  {
+    "player": "Twister21",
+    "level": "Inferno Step",
+    "place": "27",
+    "points": 40
+  },
+  {
     "player": "Shadow",
     "level": "Bound",
     "place": "28",
@@ -877,6 +937,18 @@
   },
   {
     "player": "ced",
+    "level": "Bound",
+    "place": "28",
+    "points": 39
+  },
+  {
+    "player": "crasu",
+    "level": "Bound",
+    "place": "28",
+    "points": 39
+  },
+  {
+    "player": "Twister21",
     "level": "Bound",
     "place": "28",
     "points": 39
@@ -931,6 +1003,18 @@
   },
   {
     "player": "ced",
+    "level": "Another Step",
+    "place": "29",
+    "points": 38
+  },
+  {
+    "player": "crasu",
+    "level": "Another Step",
+    "place": "29",
+    "points": 38
+  },
+  {
+    "player": "Twister21",
     "level": "Another Step",
     "place": "29",
     "points": 38
