@@ -24,12 +24,6 @@
     "points": 208
   },
   {
-    "player": "denis",
-    "level": "Untamed",
-    "place": "2",
-    "points": 208
-  },
-  {
     "player": "soley",
     "level": "wither",
     "place": "3",
@@ -781,128 +775,92 @@
   },
   {
     "player": "Shadow",
-    "level": "Inferno Step",
+    "level": "Bound",
     "place": "26",
     "points": 42
   },
   {
     "player": "denis",
-    "level": "Inferno Step",
+    "level": "Bound",
     "place": "26",
     "points": 42
   },
   {
     "player": "Lodomir",
-    "level": "Inferno Step",
-    "place": "26",
-    "points": 42
-  },
-  {
-    "player": "soley",
-    "level": "Inferno Step",
-    "place": "26",
-    "points": 42
-  },
-  {
-    "player": "ced",
-    "level": "Inferno Step",
-    "place": "26",
-    "points": 42
-  },
-  {
-    "player": "Krillz",
-    "level": "Inferno Step",
-    "place": "26",
-    "points": 42
-  },
-  {
-    "player": "Shadow",
     "level": "Bound",
-    "place": "27",
-    "points": 40
-  },
-  {
-    "player": "denis",
-    "level": "Bound",
-    "place": "27",
-    "points": 40
-  },
-  {
-    "player": "Lodomir",
-    "level": "Bound",
-    "place": "27",
-    "points": 40
+    "place": "26",
+    "points": 42
   },
   {
     "player": "zradiant",
     "level": "Bound",
-    "place": "27",
-    "points": 40
+    "place": "26",
+    "points": 42
   },
   {
     "player": "Silver",
     "level": "Bound",
-    "place": "27",
-    "points": 40
+    "place": "26",
+    "points": 42
   },
   {
     "player": "ced",
     "level": "Bound",
-    "place": "27",
-    "points": 40
+    "place": "26",
+    "points": 42
   },
   {
     "player": "denis",
     "level": "Another Step",
-    "place": "28",
-    "points": 39
+    "place": "27",
+    "points": 40
   },
   {
     "player": "Shadow",
     "level": "Another Step",
-    "place": "28",
-    "points": 39
+    "place": "27",
+    "points": 40
   },
   {
     "player": "Lodomir",
     "level": "Another Step",
-    "place": "28",
-    "points": 39
+    "place": "27",
+    "points": 40
   },
   {
     "player": "brie",
     "level": "Another Step",
-    "place": "28",
-    "points": 39
+    "place": "27",
+    "points": 40
   },
   {
     "player": "soley",
     "level": "Another Step",
-    "place": "28",
-    "points": 39
+    "place": "27",
+    "points": 40
   },
   {
     "player": "geodom",
     "level": "Another Step",
-    "place": "28",
-    "points": 39
+    "place": "27",
+    "points": 40
   },
   {
     "player": "Syrcx",
     "level": "Another Step",
-    "place": "28",
-    "points": 39
+    "place": "27",
+    "points": 40
   },
   {
     "player": "ced",
     "level": "Another Step",
-    "place": "28",
-    "points": 39
+    "place": "27",
+    "points": 40
   },
   {
     "player": "ced",
     "level": "Another Step",
-    "place": "28",
-    "points": 39
+    "place": "27",
+    "points": 40
   }
 ]

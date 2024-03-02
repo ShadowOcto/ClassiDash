@@ -379,24 +379,8 @@
     ]
   },
   {
-    "name": "Inferno Step",
-    "place": "26",
-    "id": "437",
-    "creators": "MolloPro",
-    "verifier": "Shadow",
-    "video": "https://www.youtube.com/watch?v=HOWpUcQOdVM",
-    "victors": [
-      "Shadow",
-      "denis",
-      "Lodomir",
-      "soley",
-      "ced",
-      "Krillz"
-    ]
-  },
-  {
     "name": "Bound",
-    "place": "27",
+    "place": "26",
     "id": "510",
     "creators": "Zoink",
     "verifier": "Shadow",
@@ -412,7 +396,7 @@
   },
   {
     "name": "Another Step",
-    "place": "28",
+    "place": "27",
     "id": "239",
     "creators": "Mzmr",
     "verifier": "denis",
@@ -430,3 +414,5 @@
     ]
   }
 ] 
+ 
+ 
