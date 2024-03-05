@@ -480,6 +480,12 @@
     "points": 62
   },
   {
+    "player": "ced",
+    "level": "Fantasy",
+    "place": "16",
+    "points": 62
+  },
+  {
     "player": "ice",
     "level": "Genesis",
     "place": "17",
@@ -541,6 +547,12 @@
   },
   {
     "player": "crasu",
+    "level": "Yellow",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "PsyTroN47k",
     "level": "Yellow",
     "place": "19",
     "points": 54
@@ -739,6 +751,12 @@
   },
   {
     "player": "ced",
+    "level": "Faithful",
+    "place": "23",
+    "points": 46
+  },
+  {
+    "player": "PsyTroN47k",
     "level": "Faithful",
     "place": "23",
     "points": 46
@@ -960,6 +978,18 @@
     "points": 38
   },
   {
+    "player": "PsyTroN47k",
+    "level": "Bound",
+    "place": "29",
+    "points": 38
+  },
+  {
+    "player": "undead",
+    "level": "Bound",
+    "place": "29",
+    "points": 38
+  },
+  {
     "player": "denis",
     "level": "Another Step",
     "place": "30",
@@ -997,12 +1027,6 @@
   },
   {
     "player": "Syrcx",
-    "level": "Another Step",
-    "place": "30",
-    "points": 37
-  },
-  {
-    "player": "ced",
     "level": "Another Step",
     "place": "30",
     "points": 37

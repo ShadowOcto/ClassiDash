@@ -236,7 +236,8 @@
       "Lodomir",
       "soley",
       "geodom",
-      "Syrcx"
+      "Syrcx",
+      "ced"
     ]
   },
   {
@@ -277,7 +278,8 @@
       "ced",
       "Shadow",
       "Lodomir",
-      "crasu"
+      "crasu",
+      "PsyTroN47k"
     ]
   },
   {
@@ -350,7 +352,8 @@
       "Syrcx",
       "Hykre",
       "TCaleb",
-      "ced"
+      "ced",
+      "PsyTroN47k"
     ]
   },
   {
@@ -413,7 +416,7 @@
       "Shadow"
     ]
   },
-    {
+  {
     "name": "Inferno Step",
     "place": "28",
     "id": "437",
@@ -446,7 +449,9 @@
       "Silver",
       "ced",
       "crasu",
-      "Twister21"
+      "Twister21",
+      "PsyTroN47k",
+      "undead"
     ]
   },
   {
@@ -465,9 +470,8 @@
       "geodom",
       "Syrcx",
       "ced",
-      "ced",
       "crasu",
       "Twister21"
     ]
   }
-] 
+]
