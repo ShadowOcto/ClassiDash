@@ -6,6 +6,12 @@
     "points": 250
   },
   {
+    "player": "Lucky",
+    "level": "DIOPSY",
+    "place": "1",
+    "points": 250
+  },
+  {
     "player": "soley",
     "level": "Untamed",
     "place": "2",
@@ -19,6 +25,12 @@
   },
   {
     "player": "Hykre",
+    "level": "Untamed",
+    "place": "2",
+    "points": 208
+  },
+  {
+    "player": "Lucky",
     "level": "Untamed",
     "place": "2",
     "points": 208
@@ -180,6 +192,12 @@
     "points": 104
   },
   {
+    "player": "Lucky",
+    "level": "Bludareta",
+    "place": "8",
+    "points": 104
+  },
+  {
     "player": "Lodomir",
     "level": "Dreams",
     "place": "9",
@@ -217,6 +235,12 @@
   },
   {
     "player": "TCaleb",
+    "level": "Dreams",
+    "place": "9",
+    "points": 96
+  },
+  {
+    "player": "Lucky",
     "level": "Dreams",
     "place": "9",
     "points": 96
@@ -276,6 +300,12 @@
     "points": 83
   },
   {
+    "player": "Oblivionus",
+    "level": "Hellish World",
+    "place": "11",
+    "points": 83
+  },
+  {
     "player": "Shadow",
     "level": "Meowareta",
     "place": "12",
@@ -319,6 +349,12 @@
   },
   {
     "player": "caddydaddy123",
+    "level": "Meowareta",
+    "place": "12",
+    "points": 78
+  },
+  {
+    "player": "Lucky",
     "level": "Meowareta",
     "place": "12",
     "points": 78
@@ -420,6 +456,18 @@
     "points": 69
   },
   {
+    "player": "Innardss",
+    "level": "Night",
+    "place": "14",
+    "points": 69
+  },
+  {
+    "player": "Lucky",
+    "level": "Night",
+    "place": "14",
+    "points": 69
+  },
+  {
     "player": "soley",
     "level": "Destiny",
     "place": "15",
@@ -439,6 +487,12 @@
   },
   {
     "player": "Syrcx",
+    "level": "Destiny",
+    "place": "15",
+    "points": 66
+  },
+  {
+    "player": "Lucky",
     "level": "Destiny",
     "place": "15",
     "points": 66
