@@ -162,8 +162,19 @@
     ]
   },
   {
-    "name": "Meowareta",
+    "name": "Worse Than Jeongi",
     "place": "12",
+    "id": "780",
+    "creators": "HomeFish",
+    "verifier": "Hykre",
+    "video": "https://youtu.be/vnVAj7cGcEA",
+    "victors": [
+      "Hykre"
+    ]
+  },
+  {
+    "name": "Meowareta",
+    "place": "13",
     "id": "272",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -182,7 +193,7 @@
   },
   {
     "name": "Resonating",
-    "place": "13",
+    "place": "14",
     "id": "379",
     "creators": "denis",
     "verifier": "denis",
@@ -198,7 +209,7 @@
   },
   {
     "name": "Night",
-    "place": "14",
+    "place": "15",
     "id": "3",
     "creators": "Shadow",
     "verifier": "soley",
@@ -220,7 +231,7 @@
   },
   {
     "name": "Destiny",
-    "place": "15",
+    "place": "16",
     "id": "5",
     "creators": "Shadow",
     "verifier": "soley",
@@ -235,7 +246,7 @@
   },
   {
     "name": "Eclipse",
-    "place": "16",
+    "place": "17",
     "id": "6",
     "creators": "Shadow",
     "verifier": "Lodomir",
@@ -250,7 +261,7 @@
   },
   {
     "name": "Fantasy",
-    "place": "17",
+    "place": "18",
     "id": "62",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -267,7 +278,7 @@
   },
   {
     "name": "Genesis",
-    "place": "18",
+    "place": "19",
     "id": "15",
     "creators": "ice",
     "verifier": "ice",
@@ -281,7 +292,7 @@
   },
   {
     "name": "clubcastle",
-    "place": "19",
+    "place": "20",
     "id": "297",
     "creators": "ice",
     "verifier": "ice",
@@ -294,7 +305,7 @@
   },
   {
     "name": "Yellow",
-    "place": "20",
+    "place": "21",
     "id": "627",
     "creators": "ced",
     "verifier": "ced",
@@ -309,7 +320,7 @@
   },
   {
     "name": "Wet In",
-    "place": "21",
+    "place": "22",
     "id": "20",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -324,7 +335,7 @@
   },
   {
     "name": "New Home",
-    "place": "22",
+    "place": "23",
     "id": "484",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -343,7 +354,7 @@
   },
   {
     "name": "Bliss",
-    "place": "23",
+    "place": "24",
     "id": "21",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -363,7 +374,7 @@
   },
   {
     "name": "Faithful",
-    "place": "24",
+    "place": "25",
     "id": "13",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -385,7 +396,7 @@
   },
   {
     "name": "Cry About It",
-    "place": "25",
+    "place": "26",
     "id": "2",
     "creators": "Shadow",
     "verifier": "soley",
@@ -402,7 +413,7 @@
   },
   {
     "name": "DccJaasFdHHdvvteeeKs",
-    "place": "26",
+    "place": "27",
     "id": "549",
     "creators": "ced",
     "verifier": "ced",
@@ -418,7 +429,7 @@
   },
   {
     "name": "EvoCastle",
-    "place": "27",
+    "place": "28",
     "id": "266",
     "creators": "mzmr",
     "verifier": "denis",
@@ -437,7 +448,7 @@
   },
   {
     "name": "Hellish Land",
-    "place": "28",
+    "place": "29",
     "id": "647",
     "creators": "clubstep",
     "verifier": "Shadow",
@@ -453,7 +464,7 @@
   },
   {
     "name": "Inferno Step",
-    "place": "29",
+    "place": "30",
     "id": "437",
     "creators": "MolloPro",
     "verifier": "Shadow",
@@ -473,7 +484,7 @@
   },
   {
     "name": "Bound",
-    "place": "30",
+    "place": "31",
     "id": "510",
     "creators": "Zoink",
     "verifier": "Shadow",
@@ -495,7 +506,7 @@
   },
   {
     "name": "Another Step",
-    "place": "31",
+    "place": "32",
     "id": "239",
     "creators": "Mzmr",
     "verifier": "denis",
