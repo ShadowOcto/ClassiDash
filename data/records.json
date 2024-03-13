@@ -654,6 +654,12 @@
     "points": 50
   },
   {
+    "player": "sScape",
+    "level": "Yellow",
+    "place": "21",
+    "points": 50
+  },
+  {
     "player": "Shadow",
     "level": "Wet In",
     "place": "22",
@@ -1243,6 +1249,12 @@
   },
   {
     "player": "caddydaddy123",
+    "level": "Another Step",
+    "place": "32",
+    "points": 35
+  },
+  {
+    "player": "sScape",
     "level": "Another Step",
     "place": "32",
     "points": 35
