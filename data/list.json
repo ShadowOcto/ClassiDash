@@ -162,19 +162,8 @@
     ]
   },
   {
-    "name": "Worse Than Jeongi",
-    "place": "12",
-    "id": "780",
-    "creators": "HomeFish",
-    "verifier": "Hykre",
-    "video": "https://youtu.be/vnVAj7cGcEA",
-    "victors": [
-      "Hykre"
-    ]
-  },
-  {
     "name": "Meowareta",
-    "place": "13",
+    "place": "12",
     "id": "272",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -193,7 +182,7 @@
   },
   {
     "name": "Resonating",
-    "place": "14",
+    "place": "13",
     "id": "379",
     "creators": "denis",
     "verifier": "denis",
@@ -209,7 +198,7 @@
   },
   {
     "name": "Night",
-    "place": "15",
+    "place": "14",
     "id": "3",
     "creators": "Shadow",
     "verifier": "soley",
@@ -227,6 +216,17 @@
       "Oblivionus",
       "Innardss",
       "Lucky"
+    ]
+  },
+    {
+    "name": "Worse Than Jeongi",
+    "place": "15",
+    "id": "780",
+    "creators": "HomeFish",
+    "verifier": "Hykre",
+    "video": "https://youtu.be/vnVAj7cGcEA",
+    "victors": [
+      "Hykre"
     ]
   },
   {
@@ -529,4 +529,4 @@
       "sScape"
     ]
   }
-]
+] 
