@@ -5,7 +5,8 @@
     "badges": [
       "Top1",
       "2kPts",
-      "1kPts"
+      "1kPts",
+      "Top5"
     ]
   },
   {
@@ -14,34 +15,40 @@
     "badges": [
       "Top1",
       "2kPts",
-      "1kPts"
+      "1kPts",
+      "Top5"
     ]
   },
   {
     "player": "Hykre",
     "points": 1526,
     "badges": [
-      "1kPts"
+      "1kPts",
+      "Top5"
     ]
   },
   {
     "player": "Syrcx",
     "points": 1354,
     "badges": [
-      "1kPts"
+      "1kPts",
+      "Top5"
     ]
   },
   {
     "player": "Shadow",
     "points": 1120,
     "badges": [
-      "1kPts"
+      "1kPts",
+      "Top5"
     ]
   },
   {
     "player": "denis",
     "points": 905,
-    "badges": []
+    "badges": [
+      "Top5"
+    ]
   },
   {
     "player": "Lucky",
@@ -51,7 +58,9 @@
   {
     "player": "geodom",
     "points": 863,
-    "badges": []
+    "badges": [
+      "Top5"
+    ]
   },
   {
     "player": "Twister21",
