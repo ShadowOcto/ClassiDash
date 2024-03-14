@@ -475,788 +475,800 @@
   },
   {
     "player": "Hykre",
-    "level": "Worse Than Jeongi",
+    "level": "Better Than Jesse",
     "place": "15",
     "points": 66
   },
   {
-    "player": "soley",
-    "level": "Destiny",
+    "player": "Shadow",
+    "level": "Better Than Jesse",
+    "place": "15",
+    "points": 66
+  },
+  {
+    "player": "Hykre",
+    "level": "Worse Than Jeongi",
     "place": "16",
     "points": 62
+  },
+  {
+    "player": "soley",
+    "level": "Destiny",
+    "place": "17",
+    "points": 60
   },
   {
     "player": "Lodomir",
     "level": "Destiny",
-    "place": "16",
-    "points": 62
+    "place": "17",
+    "points": 60
   },
   {
     "player": "Shadow",
     "level": "Destiny",
-    "place": "16",
-    "points": 62
+    "place": "17",
+    "points": 60
   },
   {
     "player": "Syrcx",
     "level": "Destiny",
-    "place": "16",
-    "points": 62
+    "place": "17",
+    "points": 60
   },
   {
     "player": "Lucky",
     "level": "Destiny",
-    "place": "16",
-    "points": 62
+    "place": "17",
+    "points": 60
   },
   {
     "player": "Lodomir",
     "level": "Eclipse",
-    "place": "17",
-    "points": 60
-  },
-  {
-    "player": "denis",
-    "level": "Eclipse",
-    "place": "17",
-    "points": 60
-  },
-  {
-    "player": "soley",
-    "level": "Eclipse",
-    "place": "17",
-    "points": 60
-  },
-  {
-    "player": "geodom",
-    "level": "Eclipse",
-    "place": "17",
-    "points": 60
-  },
-  {
-    "player": "Syrcx",
-    "level": "Eclipse",
-    "place": "17",
-    "points": 60
-  },
-  {
-    "player": "Shadow",
-    "level": "Fantasy",
     "place": "18",
     "points": 57
   },
   {
     "player": "denis",
-    "level": "Fantasy",
-    "place": "18",
-    "points": 57
-  },
-  {
-    "player": "Lodomir",
-    "level": "Fantasy",
+    "level": "Eclipse",
     "place": "18",
     "points": 57
   },
   {
     "player": "soley",
-    "level": "Fantasy",
+    "level": "Eclipse",
     "place": "18",
     "points": 57
   },
   {
     "player": "geodom",
-    "level": "Fantasy",
+    "level": "Eclipse",
     "place": "18",
     "points": 57
   },
   {
     "player": "Syrcx",
-    "level": "Fantasy",
+    "level": "Eclipse",
     "place": "18",
     "points": 57
+  },
+  {
+    "player": "Shadow",
+    "level": "Fantasy",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "denis",
+    "level": "Fantasy",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "Lodomir",
+    "level": "Fantasy",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "soley",
+    "level": "Fantasy",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "geodom",
+    "level": "Fantasy",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "Syrcx",
+    "level": "Fantasy",
+    "place": "19",
+    "points": 54
   },
   {
     "player": "ced",
     "level": "Fantasy",
-    "place": "18",
-    "points": 57
+    "place": "19",
+    "points": 54
   },
   {
     "player": "ice",
     "level": "Genesis",
-    "place": "19",
-    "points": 54
+    "place": "20",
+    "points": 52
   },
   {
     "player": "Lodomir",
     "level": "Genesis",
-    "place": "19",
-    "points": 54
+    "place": "20",
+    "points": 52
   },
   {
     "player": "soley",
     "level": "Genesis",
-    "place": "19",
-    "points": 54
+    "place": "20",
+    "points": 52
   },
   {
     "player": "Syrcx",
     "level": "Genesis",
-    "place": "19",
-    "points": 54
+    "place": "20",
+    "points": 52
   },
   {
     "player": "ice",
     "level": "clubcastle",
-    "place": "20",
-    "points": 52
+    "place": "21",
+    "points": 50
   },
   {
     "player": "soley",
     "level": "clubcastle",
-    "place": "20",
-    "points": 52
+    "place": "21",
+    "points": 50
   },
   {
     "player": "Lodomir",
     "level": "clubcastle",
-    "place": "20",
-    "points": 52
+    "place": "21",
+    "points": 50
   },
   {
     "player": "ced",
     "level": "Yellow",
-    "place": "21",
-    "points": 50
+    "place": "22",
+    "points": 48
   },
   {
     "player": "Shadow",
     "level": "Yellow",
-    "place": "21",
-    "points": 50
+    "place": "22",
+    "points": 48
   },
   {
     "player": "Lodomir",
     "level": "Yellow",
-    "place": "21",
-    "points": 50
+    "place": "22",
+    "points": 48
   },
   {
     "player": "crasu",
     "level": "Yellow",
-    "place": "21",
-    "points": 50
+    "place": "22",
+    "points": 48
   },
   {
     "player": "PsyTroN47k",
     "level": "Yellow",
-    "place": "21",
-    "points": 50
+    "place": "22",
+    "points": 48
   },
   {
     "player": "sScape",
     "level": "Yellow",
-    "place": "21",
-    "points": 50
+    "place": "22",
+    "points": 48
   },
   {
     "player": "Shadow",
     "level": "Wet In",
-    "place": "22",
-    "points": 48
+    "place": "23",
+    "points": 46
   },
   {
     "player": "Lodomir",
     "level": "Wet In",
-    "place": "22",
-    "points": 48
+    "place": "23",
+    "points": 46
   },
   {
     "player": "soley",
     "level": "Wet In",
-    "place": "22",
-    "points": 48
+    "place": "23",
+    "points": 46
   },
   {
     "player": "geodom",
     "level": "Wet In",
-    "place": "22",
-    "points": 48
+    "place": "23",
+    "points": 46
   },
   {
     "player": "Syrcx",
     "level": "Wet In",
-    "place": "22",
-    "points": 48
+    "place": "23",
+    "points": 46
   },
   {
     "player": "Lodomir",
     "level": "New Home",
-    "place": "23",
-    "points": 46
+    "place": "24",
+    "points": 45
   },
   {
     "player": "Shadow",
     "level": "New Home",
-    "place": "23",
-    "points": 46
+    "place": "24",
+    "points": 45
   },
   {
     "player": "Hykre",
     "level": "New Home",
-    "place": "23",
-    "points": 46
+    "place": "24",
+    "points": 45
   },
   {
     "player": "denis",
     "level": "New Home",
-    "place": "23",
-    "points": 46
+    "place": "24",
+    "points": 45
   },
   {
     "player": "TCaleb",
     "level": "New Home",
-    "place": "23",
-    "points": 46
+    "place": "24",
+    "points": 45
   },
   {
     "player": "ced",
     "level": "New Home",
-    "place": "23",
-    "points": 46
+    "place": "24",
+    "points": 45
   },
   {
     "player": "neppo",
     "level": "New Home",
-    "place": "23",
-    "points": 46
+    "place": "24",
+    "points": 45
   },
   {
     "player": "crasu",
     "level": "New Home",
-    "place": "23",
-    "points": 46
+    "place": "24",
+    "points": 45
   },
   {
     "player": "Oblivionus",
     "level": "New Home",
-    "place": "23",
-    "points": 46
+    "place": "24",
+    "points": 45
   },
   {
     "player": "crasu",
     "level": "Bliss",
-    "place": "24",
-    "points": 45
+    "place": "25",
+    "points": 43
   },
   {
     "player": "Shadow",
     "level": "Bliss",
-    "place": "24",
-    "points": 45
+    "place": "25",
+    "points": 43
   },
   {
     "player": "denis",
     "level": "Bliss",
-    "place": "24",
-    "points": 45
+    "place": "25",
+    "points": 43
   },
   {
     "player": "Hykre",
     "level": "Bliss",
-    "place": "24",
-    "points": 45
+    "place": "25",
+    "points": 43
   },
   {
     "player": "Lodomir",
     "level": "Bliss",
-    "place": "24",
-    "points": 45
+    "place": "25",
+    "points": 43
   },
   {
     "player": "soley",
     "level": "Bliss",
-    "place": "24",
-    "points": 45
+    "place": "25",
+    "points": 43
   },
   {
     "player": "geodom",
     "level": "Bliss",
-    "place": "24",
-    "points": 45
+    "place": "25",
+    "points": 43
   },
   {
     "player": "Syrcx",
     "level": "Bliss",
-    "place": "24",
-    "points": 45
+    "place": "25",
+    "points": 43
   },
   {
     "player": "ced",
     "level": "Bliss",
-    "place": "24",
-    "points": 45
+    "place": "25",
+    "points": 43
   },
   {
     "player": "Twister21",
     "level": "Bliss",
-    "place": "24",
-    "points": 45
+    "place": "25",
+    "points": 43
   },
   {
     "player": "Shadow",
     "level": "Faithful",
-    "place": "25",
-    "points": 43
+    "place": "26",
+    "points": 42
   },
   {
     "player": "soley",
     "level": "Faithful",
-    "place": "25",
-    "points": 43
+    "place": "26",
+    "points": 42
   },
   {
     "player": "Lodomir",
     "level": "Faithful",
-    "place": "25",
-    "points": 43
+    "place": "26",
+    "points": 42
   },
   {
     "player": "denis",
     "level": "Faithful",
-    "place": "25",
-    "points": 43
+    "place": "26",
+    "points": 42
   },
   {
     "player": "crasu",
     "level": "Faithful",
-    "place": "25",
-    "points": 43
+    "place": "26",
+    "points": 42
   },
   {
     "player": "geodom",
     "level": "Faithful",
-    "place": "25",
-    "points": 43
+    "place": "26",
+    "points": 42
   },
   {
     "player": "Syrcx",
     "level": "Faithful",
-    "place": "25",
-    "points": 43
+    "place": "26",
+    "points": 42
   },
   {
     "player": "Hykre",
     "level": "Faithful",
-    "place": "25",
-    "points": 43
+    "place": "26",
+    "points": 42
   },
   {
     "player": "TCaleb",
     "level": "Faithful",
-    "place": "25",
-    "points": 43
+    "place": "26",
+    "points": 42
   },
   {
     "player": "ced",
     "level": "Faithful",
-    "place": "25",
-    "points": 43
+    "place": "26",
+    "points": 42
   },
   {
     "player": "PsyTroN47k",
     "level": "Faithful",
-    "place": "25",
-    "points": 43
+    "place": "26",
+    "points": 42
   },
   {
     "player": "Innardss",
     "level": "Faithful",
-    "place": "25",
-    "points": 43
+    "place": "26",
+    "points": 42
   },
   {
     "player": "soley",
     "level": "Cry About It",
-    "place": "26",
-    "points": 42
+    "place": "27",
+    "points": 40
   },
   {
     "player": "denis",
     "level": "Cry About It",
-    "place": "26",
-    "points": 42
+    "place": "27",
+    "points": 40
   },
   {
     "player": "Lodomir",
     "level": "Cry About It",
-    "place": "26",
-    "points": 42
+    "place": "27",
+    "points": 40
   },
   {
     "player": "Shadow",
     "level": "Cry About It",
-    "place": "26",
-    "points": 42
+    "place": "27",
+    "points": 40
   },
   {
     "player": "geodom",
     "level": "Cry About It",
-    "place": "26",
-    "points": 42
+    "place": "27",
+    "points": 40
   },
   {
     "player": "Syrcx",
     "level": "Cry About It",
-    "place": "26",
-    "points": 42
+    "place": "27",
+    "points": 40
   },
   {
     "player": "Twister21",
     "level": "Cry About It",
-    "place": "26",
-    "points": 42
+    "place": "27",
+    "points": 40
   },
   {
     "player": "ced",
     "level": "DccJaasFdHHdvvteeeKs",
-    "place": "27",
-    "points": 40
+    "place": "28",
+    "points": 39
   },
   {
     "player": "Lodomir",
     "level": "DccJaasFdHHdvvteeeKs",
-    "place": "27",
-    "points": 40
+    "place": "28",
+    "points": 39
   },
   {
     "player": "Shadow",
     "level": "DccJaasFdHHdvvteeeKs",
-    "place": "27",
-    "points": 40
+    "place": "28",
+    "points": 39
   },
   {
     "player": "Twister21",
     "level": "DccJaasFdHHdvvteeeKs",
-    "place": "27",
-    "points": 40
+    "place": "28",
+    "points": 39
   },
   {
     "player": "Innardss",
     "level": "DccJaasFdHHdvvteeeKs",
-    "place": "27",
-    "points": 40
+    "place": "28",
+    "points": 39
   },
   {
     "player": "caddydaddy123",
     "level": "DccJaasFdHHdvvteeeKs",
-    "place": "27",
-    "points": 40
+    "place": "28",
+    "points": 39
   },
   {
     "player": "denis",
     "level": "EvoCastle",
-    "place": "28",
-    "points": 39
+    "place": "29",
+    "points": 38
   },
   {
     "player": "Lodomir",
     "level": "EvoCastle",
-    "place": "28",
-    "points": 39
+    "place": "29",
+    "points": 38
   },
   {
     "player": "Shadow",
     "level": "EvoCastle",
-    "place": "28",
-    "points": 39
+    "place": "29",
+    "points": 38
   },
   {
     "player": "soley",
     "level": "EvoCastle",
-    "place": "28",
-    "points": 39
+    "place": "29",
+    "points": 38
   },
   {
     "player": "geodom",
     "level": "EvoCastle",
-    "place": "28",
-    "points": 39
+    "place": "29",
+    "points": 38
   },
   {
     "player": "Syrcx",
     "level": "EvoCastle",
-    "place": "28",
-    "points": 39
+    "place": "29",
+    "points": 38
   },
   {
     "player": "ced",
     "level": "EvoCastle",
-    "place": "28",
-    "points": 39
+    "place": "29",
+    "points": 38
   },
   {
     "player": "Twister21",
     "level": "EvoCastle",
-    "place": "28",
-    "points": 39
+    "place": "29",
+    "points": 38
   },
   {
     "player": "caddydaddy123",
     "level": "EvoCastle",
-    "place": "28",
-    "points": 39
+    "place": "29",
+    "points": 38
   },
   {
     "player": "Shadow",
     "level": "Hellish Land",
-    "place": "29",
-    "points": 38
+    "place": "30",
+    "points": 37
   },
   {
     "player": "Lodomir",
     "level": "Hellish Land",
-    "place": "29",
-    "points": 38
+    "place": "30",
+    "points": 37
   },
   {
     "player": "ced",
     "level": "Hellish Land",
-    "place": "29",
-    "points": 38
+    "place": "30",
+    "points": 37
   },
   {
     "player": "femboyuk",
     "level": "Hellish Land",
-    "place": "29",
-    "points": 38
+    "place": "30",
+    "points": 37
   },
   {
     "player": "caddydaddy123",
     "level": "Hellish Land",
-    "place": "29",
-    "points": 38
+    "place": "30",
+    "points": 37
   },
   {
     "player": "Hykre",
     "level": "Hellish Land",
-    "place": "29",
-    "points": 38
+    "place": "30",
+    "points": 37
   },
   {
     "player": "Shadow",
     "level": "Inferno Step",
-    "place": "30",
-    "points": 37
+    "place": "31",
+    "points": 36
   },
   {
     "player": "denis",
     "level": "Inferno Step",
-    "place": "30",
-    "points": 37
+    "place": "31",
+    "points": 36
   },
   {
     "player": "Lodomir",
     "level": "Inferno Step",
-    "place": "30",
-    "points": 37
+    "place": "31",
+    "points": 36
   },
   {
     "player": "soley",
     "level": "Inferno Step",
-    "place": "30",
-    "points": 37
+    "place": "31",
+    "points": 36
   },
   {
     "player": "ced",
     "level": "Inferno Step",
-    "place": "30",
-    "points": 37
+    "place": "31",
+    "points": 36
   },
   {
     "player": "Krillz",
     "level": "Inferno Step",
-    "place": "30",
-    "points": 37
+    "place": "31",
+    "points": 36
   },
   {
     "player": "crasu",
     "level": "Inferno Step",
-    "place": "30",
-    "points": 37
+    "place": "31",
+    "points": 36
   },
   {
     "player": "Twister21",
     "level": "Inferno Step",
-    "place": "30",
-    "points": 37
+    "place": "31",
+    "points": 36
   },
   {
     "player": "femboyuk",
     "level": "Inferno Step",
-    "place": "30",
-    "points": 37
+    "place": "31",
+    "points": 36
   },
   {
     "player": "caddydaddy123",
     "level": "Inferno Step",
-    "place": "30",
-    "points": 37
+    "place": "31",
+    "points": 36
   },
   {
     "player": "Shadow",
     "level": "Bound",
-    "place": "31",
-    "points": 36
+    "place": "32",
+    "points": 35
   },
   {
     "player": "denis",
     "level": "Bound",
-    "place": "31",
-    "points": 36
+    "place": "32",
+    "points": 35
   },
   {
     "player": "Lodomir",
     "level": "Bound",
-    "place": "31",
-    "points": 36
+    "place": "32",
+    "points": 35
   },
   {
     "player": "zradiant",
     "level": "Bound",
-    "place": "31",
-    "points": 36
+    "place": "32",
+    "points": 35
   },
   {
     "player": "Silver",
     "level": "Bound",
-    "place": "31",
-    "points": 36
+    "place": "32",
+    "points": 35
   },
   {
     "player": "ced",
     "level": "Bound",
-    "place": "31",
-    "points": 36
+    "place": "32",
+    "points": 35
   },
   {
     "player": "crasu",
     "level": "Bound",
-    "place": "31",
-    "points": 36
+    "place": "32",
+    "points": 35
   },
   {
     "player": "Twister21",
     "level": "Bound",
-    "place": "31",
-    "points": 36
+    "place": "32",
+    "points": 35
   },
   {
     "player": "PsyTroN47k",
     "level": "Bound",
-    "place": "31",
-    "points": 36
+    "place": "32",
+    "points": 35
   },
   {
     "player": "undead",
     "level": "Bound",
-    "place": "31",
-    "points": 36
+    "place": "32",
+    "points": 35
   },
   {
     "player": "femboyuk",
     "level": "Bound",
-    "place": "31",
-    "points": 36
+    "place": "32",
+    "points": 35
   },
   {
     "player": "caddydaddy123",
     "level": "Bound",
-    "place": "31",
-    "points": 36
+    "place": "32",
+    "points": 35
   },
   {
     "player": "denis",
     "level": "Another Step",
-    "place": "32",
-    "points": 35
+    "place": "33",
+    "points": 34
   },
   {
     "player": "Shadow",
     "level": "Another Step",
-    "place": "32",
-    "points": 35
+    "place": "33",
+    "points": 34
   },
   {
     "player": "Lodomir",
     "level": "Another Step",
-    "place": "32",
-    "points": 35
+    "place": "33",
+    "points": 34
   },
   {
     "player": "brie",
     "level": "Another Step",
-    "place": "32",
-    "points": 35
+    "place": "33",
+    "points": 34
   },
   {
     "player": "soley",
     "level": "Another Step",
-    "place": "32",
-    "points": 35
+    "place": "33",
+    "points": 34
   },
   {
     "player": "geodom",
     "level": "Another Step",
-    "place": "32",
-    "points": 35
+    "place": "33",
+    "points": 34
   },
   {
     "player": "Syrcx",
     "level": "Another Step",
-    "place": "32",
-    "points": 35
+    "place": "33",
+    "points": 34
   },
   {
     "player": "ced",
     "level": "Another Step",
-    "place": "32",
-    "points": 35
+    "place": "33",
+    "points": 34
   },
   {
     "player": "crasu",
     "level": "Another Step",
-    "place": "32",
-    "points": 35
+    "place": "33",
+    "points": 34
   },
   {
     "player": "Twister21",
     "level": "Another Step",
-    "place": "32",
-    "points": 35
+    "place": "33",
+    "points": 34
   },
   {
     "player": "undead",
     "level": "Another Step",
-    "place": "32",
-    "points": 35
+    "place": "33",
+    "points": 34
   },
   {
     "player": "femboyuk",
     "level": "Another Step",
-    "place": "32",
-    "points": 35
+    "place": "33",
+    "points": 34
   },
   {
     "player": "caddydaddy123",
     "level": "Another Step",
-    "place": "32",
-    "points": 35
+    "place": "33",
+    "points": 34
   },
   {
     "player": "sScape",
     "level": "Another Step",
-    "place": "32",
-    "points": 35
+    "place": "33",
+    "points": 34
   }
 ]
