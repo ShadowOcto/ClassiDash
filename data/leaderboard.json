@@ -1,118 +1,150 @@
 [
   {
     "player": "Lodomir",
-    "points": 2520
+    "points": 2520,
+    "badges": []
   },
   {
     "player": "soley",
-    "points": 1858
+    "points": 1858,
+    "badges": []
   },
   {
     "player": "Hykre",
-    "points": 1526
+    "points": 1526,
+    "badges": []
   },
   {
     "player": "Syrcx",
-    "points": 1354
+    "points": 1354,
+    "badges": []
   },
   {
     "player": "Shadow",
-    "points": 1120
+    "points": 1120,
+    "badges": [
+      "test1",
+      "test2"
+    ]
   },
   {
     "player": "denis",
-    "points": 905
+    "points": 905,
+    "badges": []
   },
   {
     "player": "Lucky",
-    "points": 865
+    "points": 865,
+    "badges": []
   },
   {
     "player": "geodom",
-    "points": 863
+    "points": 863,
+    "badges": []
   },
   {
     "player": "Twister21",
-    "points": 479
+    "points": 479,
+    "badges": []
   },
   {
     "player": "ced",
-    "points": 451
+    "points": 451,
+    "badges": []
   },
   {
     "player": "crasu",
-    "points": 441
+    "points": 441,
+    "badges": []
   },
   {
     "player": "caddydaddy123",
-    "points": 297
+    "points": 297,
+    "badges": []
   },
   {
     "player": "Hexeract",
-    "points": 281
+    "points": 281,
+    "badges": []
   },
   {
     "player": "Oblivionus",
-    "points": 259
+    "points": 259,
+    "badges": []
   },
   {
     "player": "sScape",
-    "points": 193
+    "points": 193,
+    "badges": []
   },
   {
     "player": "TCaleb",
-    "points": 183
+    "points": 183,
+    "badges": []
   },
   {
     "player": "Innardss",
-    "points": 150
+    "points": 150,
+    "badges": []
   },
   {
     "player": "femboyuk",
-    "points": 142
+    "points": 142,
+    "badges": []
   },
   {
     "player": "PsyTroN47k",
-    "points": 125
+    "points": 125,
+    "badges": []
   },
   {
     "player": "ice",
-    "points": 102
+    "points": 102,
+    "badges": []
   },
   {
     "player": "Wowa",
-    "points": 78
-  },
-  {
-    "player": "cubepilot",
-    "points": 69
-  },
-  {
-    "player": "undead",
-    "points": 69
-  },
-  {
-    "player": "MONKE",
-    "points": 48
-  },
-  {
-    "player": "neppo",
-    "points": 45
-  },
-  {
-    "player": "Krillz",
-    "points": 36
-  },
-  {
-    "player": "zradiant",
-    "points": 35
-  },
-  {
-    "player": "Silver",
-    "points": 35
+    "points": 78,
+    "badges": []
   },
   {
     "player": "brie",
-    "points": 34
+    "points": 71,
+    "badges": []
+  },
+  {
+    "player": "cubepilot",
+    "points": 69,
+    "badges": []
+  },
+  {
+    "player": "undead",
+    "points": 69,
+    "badges": []
+  },
+  {
+    "player": "MONKE",
+    "points": 48,
+    "badges": []
+  },
+  {
+    "player": "neppo",
+    "points": 45,
+    "badges": []
+  },
+  {
+    "player": "Krillz",
+    "points": 36,
+    "badges": []
+  },
+  {
+    "player": "zradiant",
+    "points": 35,
+    "badges": []
+  },
+  {
+    "player": "Silver",
+    "points": 35,
+    "badges": []
   }
 ]
