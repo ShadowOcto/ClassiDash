@@ -53,7 +53,11 @@
   },
   {
     "player": "Oblivionus",
-    "points": 197
+    "points": 259
+  },
+  {
+    "player": "sScape",
+    "points": 193
   },
   {
     "player": "TCaleb",
@@ -76,10 +80,6 @@
     "points": 102
   },
   {
-    "player": "sScape",
-    "points": 82
-  },
-  {
     "player": "Wowa",
     "points": 78
   },
@@ -90,6 +90,10 @@
   {
     "player": "undead",
     "points": 69
+  },
+  {
+    "player": "MONKE",
+    "points": 48
   },
   {
     "player": "neppo",
