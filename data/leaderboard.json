@@ -3,30 +3,40 @@
     "player": "Lodomir",
     "points": 2520,
     "badges": [
-      "Top1"
+      "Top1",
+      "1kPts",
+      "2kPts"
     ]
   },
   {
     "player": "soley",
     "points": 1858,
     "badges": [
-      "Top1"
+      "Top1",
+      "1kPts",
+      "2kPts"
     ]
   },
   {
     "player": "Hykre",
     "points": 1526,
-    "badges": []
+    "badges": [
+      "1kPts"
+    ]
   },
   {
     "player": "Syrcx",
     "points": 1354,
-    "badges": []
+    "badges": [
+      "1kPts"
+    ]
   },
   {
     "player": "Shadow",
     "points": 1120,
-    "badges": []
+    "badges": [
+      "1kPts"
+    ]
   },
   {
     "player": "denis",
