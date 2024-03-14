@@ -2,12 +2,16 @@
   {
     "player": "Lodomir",
     "points": 2520,
-    "badges": []
+    "badges": [
+      "Top1"
+    ]
   },
   {
     "player": "soley",
     "points": 1858,
-    "badges": []
+    "badges": [
+      "Top1"
+    ]
   },
   {
     "player": "Hykre",
@@ -22,10 +26,7 @@
   {
     "player": "Shadow",
     "points": 1120,
-    "badges": [
-      "test1",
-      "test2"
-    ]
+    "badges": []
   },
   {
     "player": "denis",
