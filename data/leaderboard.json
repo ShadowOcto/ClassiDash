@@ -36,6 +36,13 @@
     ]
   },
   {
+    "player": "geodom",
+    "points": 1220,
+    "badges": [
+      "Top5"
+    ]
+  },
+  {
     "player": "Shadow",
     "points": 1120,
     "badges": [
@@ -54,13 +61,6 @@
     "player": "Lucky",
     "points": 865,
     "badges": []
-  },
-  {
-    "player": "geodom",
-    "points": 863,
-    "badges": [
-      "Top5"
-    ]
   },
   {
     "player": "Twister21",
@@ -124,6 +124,11 @@
   },
   {
     "player": "Wowa",
+    "points": 78,
+    "badges": []
+  },
+  {
+    "player": "AshDotMp3",
     "points": 78,
     "badges": []
   },

@@ -144,6 +144,12 @@
     "points": 125
   },
   {
+    "player": "geodom",
+    "level": "Green Machine",
+    "place": "6",
+    "points": 125
+  },
+  {
     "player": "soley",
     "level": "Solaris",
     "place": "7",
@@ -199,6 +205,12 @@
   },
   {
     "player": "Lucky",
+    "level": "Bludareta",
+    "place": "8",
+    "points": 104
+  },
+  {
+    "player": "geodom",
     "level": "Bludareta",
     "place": "8",
     "points": 104
@@ -366,6 +378,12 @@
     "points": 78
   },
   {
+    "player": "AshDotMp3",
+    "level": "Meowareta",
+    "place": "12",
+    "points": 78
+  },
+  {
     "player": "denis",
     "level": "Resonating",
     "place": "13",
@@ -486,6 +504,12 @@
     "points": 66
   },
   {
+    "player": "geodom",
+    "level": "Better Than Jesse",
+    "place": "15",
+    "points": 66
+  },
+  {
     "player": "Hykre",
     "level": "Worse Than Jeongi",
     "place": "16",
@@ -493,6 +517,12 @@
   },
   {
     "player": "Oblivionus",
+    "level": "Worse Than Jeongi",
+    "place": "16",
+    "points": 62
+  },
+  {
+    "player": "geodom",
     "level": "Worse Than Jeongi",
     "place": "16",
     "points": 62
