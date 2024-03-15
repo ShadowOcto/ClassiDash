@@ -67,20 +67,19 @@
       "Syrcx"
     ]
   },
-  {
-    "name": "Green Machine",
+    {
+    "name": "Bludareta",
     "place": "6",
-    "id": "479",
-    "creators": "Shadow",
-    "verifier": "Shadow",
-    "video": "https://www.youtube.com/watch?v=ClnJng8_H1U",
+    "id": "209",
+    "creators": "soley",
+    "verifier": "denis",
+    "video": "https://www.youtube.com/watch?v=lM-_g3ZLG6U",
     "victors": [
-      "Shadow",
-      "Syrcx",
-      "Hykre",
+      "soley",
+      "denis",
       "Lodomir",
-      "Twister21",
-      "Hexeract",
+      "Syrcx",
+      "Lucky",
       "geodom"
     ]
   },
@@ -99,19 +98,20 @@
       "Syrcx"
     ]
   },
-  {
-    "name": "Bludareta",
+    {
+    "name": "Green Machine",
     "place": "8",
-    "id": "209",
-    "creators": "soley",
-    "verifier": "denis",
-    "video": "https://www.youtube.com/watch?v=lM-_g3ZLG6U",
+    "id": "479",
+    "creators": "Shadow",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=ClnJng8_H1U",
     "victors": [
-      "soley",
-      "denis",
-      "Lodomir",
+      "Shadow",
       "Syrcx",
-      "Lucky",
+      "Hykre",
+      "Lodomir",
+      "Twister21",
+      "Hexeract",
       "geodom"
     ]
   },
@@ -554,4 +554,4 @@
       "sScape"
     ]
   }
-]
+] 
