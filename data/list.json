@@ -67,7 +67,7 @@
       "Syrcx"
     ]
   },
-    {
+  {
     "name": "Bludareta",
     "place": "6",
     "id": "209",
@@ -95,10 +95,11 @@
       "Hykre",
       "Lodomir",
       "geodom",
-      "Syrcx"
+      "Syrcx",
+      "cubepilot"
     ]
   },
-    {
+  {
     "name": "Green Machine",
     "place": "8",
     "id": "479",
@@ -466,7 +467,8 @@
       "Syrcx",
       "ced",
       "Twister21",
-      "caddydaddy123"
+      "caddydaddy123",
+      "MONKE"
     ]
   },
   {
@@ -484,7 +486,8 @@
       "caddydaddy123",
       "Hykre",
       "sScape",
-      "brie"
+      "brie",
+      "Godtier"
     ]
   },
   {
@@ -504,7 +507,8 @@
       "crasu",
       "Twister21",
       "femboyuk",
-      "caddydaddy123"
+      "caddydaddy123",
+      "Godtier"
     ]
   },
   {
@@ -527,7 +531,9 @@
       "undead",
       "femboyuk",
       "caddydaddy123",
-      "sScape"
+      "sScape",
+      "Turek",
+      "Godtier"
     ]
   },
   {
@@ -551,7 +557,9 @@
       "undead",
       "femboyuk",
       "caddydaddy123",
-      "sScape"
+      "sScape",
+      "Turek",
+      "Godtier"
     ]
   }
-] 
+]

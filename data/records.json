@@ -174,6 +174,12 @@
     "points": 114
   },
   {
+    "player": "cubepilot",
+    "level": "Solaris",
+    "place": "7",
+    "points": 114
+  },
+  {
     "player": "Shadow",
     "level": "Green Machine",
     "place": "8",
@@ -1080,6 +1086,12 @@
     "points": 38
   },
   {
+    "player": "MONKE",
+    "level": "EvoCastle",
+    "place": "29",
+    "points": 38
+  },
+  {
     "player": "Shadow",
     "level": "Hellish Land",
     "place": "30",
@@ -1123,6 +1135,12 @@
   },
   {
     "player": "brie",
+    "level": "Hellish Land",
+    "place": "30",
+    "points": 37
+  },
+  {
+    "player": "Godtier",
     "level": "Hellish Land",
     "place": "30",
     "points": 37
@@ -1183,6 +1201,12 @@
   },
   {
     "player": "caddydaddy123",
+    "level": "Inferno Step",
+    "place": "31",
+    "points": 36
+  },
+  {
+    "player": "Godtier",
     "level": "Inferno Step",
     "place": "31",
     "points": 36
@@ -1261,6 +1285,18 @@
   },
   {
     "player": "sScape",
+    "level": "Bound",
+    "place": "32",
+    "points": 35
+  },
+  {
+    "player": "Turek",
+    "level": "Bound",
+    "place": "32",
+    "points": 35
+  },
+  {
+    "player": "Godtier",
     "level": "Bound",
     "place": "32",
     "points": 35
@@ -1345,6 +1381,18 @@
   },
   {
     "player": "sScape",
+    "level": "Another Step",
+    "place": "33",
+    "points": 34
+  },
+  {
+    "player": "Turek",
+    "level": "Another Step",
+    "place": "33",
+    "points": 34
+  },
+  {
+    "player": "Godtier",
     "level": "Another Step",
     "place": "33",
     "points": 34
