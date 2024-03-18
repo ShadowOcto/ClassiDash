@@ -108,6 +108,12 @@
     "points": 139
   },
   {
+    "player": "geodom",
+    "level": "Destruction",
+    "place": "5",
+    "points": 139
+  },
+  {
     "player": "soley",
     "level": "Bludareta",
     "place": "6",
@@ -139,6 +145,12 @@
   },
   {
     "player": "geodom",
+    "level": "Bludareta",
+    "place": "6",
+    "points": 125
+  },
+  {
+    "player": "crasu",
     "level": "Bludareta",
     "place": "6",
     "points": 125
@@ -325,6 +337,12 @@
   },
   {
     "player": "Oblivionus",
+    "level": "Hellish World",
+    "place": "11",
+    "points": 83
+  },
+  {
+    "player": "geodom",
     "level": "Hellish World",
     "place": "11",
     "points": 83
@@ -1297,6 +1315,12 @@
   },
   {
     "player": "Godtier",
+    "level": "Bound",
+    "place": "32",
+    "points": 35
+  },
+  {
+    "player": "nico",
     "level": "Bound",
     "place": "32",
     "points": 35

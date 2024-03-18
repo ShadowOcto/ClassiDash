@@ -28,19 +28,19 @@
     ]
   },
   {
+    "player": "geodom",
+    "points": 1442,
+    "badges": [
+      "Top5",
+      "1kPts"
+    ]
+  },
+  {
     "player": "Syrcx",
     "points": 1354,
     "badges": [
       "1kPts",
       "Top5"
-    ]
-  },
-  {
-    "player": "geodom",
-    "points": 1220,
-    "badges": [
-      "Top5",
-      "1kPts"
     ]
   },
   {
@@ -64,6 +64,11 @@
     "badges": []
   },
   {
+    "player": "crasu",
+    "points": 566,
+    "badges": []
+  },
+  {
     "player": "Twister21",
     "points": 458,
     "badges": []
@@ -71,11 +76,6 @@
   {
     "player": "ced",
     "points": 451,
-    "badges": []
-  },
-  {
-    "player": "crasu",
-    "points": 441,
     "badges": []
   },
   {
@@ -180,6 +180,11 @@
   },
   {
     "player": "Silver",
+    "points": 35,
+    "badges": []
+  },
+  {
+    "player": "nico",
     "points": 35,
     "badges": []
   }
