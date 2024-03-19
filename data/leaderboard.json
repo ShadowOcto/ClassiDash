@@ -1,7 +1,20 @@
 [
   {
     "player": "Lodomir",
-    "points": 2648,
+    "points": 2431,
+    "badges": [
+      "Top1",
+      "2kPts",
+      "1kPts",
+      "Top5",
+      "BeatTop1",
+      "BeatTop5",
+      "FirstVictor"
+    ]
+  },
+  {
+    "player": "soley",
+    "points": 1730,
     "badges": [
       "Top1",
       "2kPts",
@@ -14,21 +27,8 @@
   },
   {
     "player": "Hykre",
-    "points": 1880,
+    "points": 1707,
     "badges": [
-      "1kPts",
-      "Top5",
-      "BeatTop1",
-      "BeatTop5",
-      "FirstVictor"
-    ]
-  },
-  {
-    "player": "soley",
-    "points": 1879,
-    "badges": [
-      "Top1",
-      "2kPts",
       "1kPts",
       "Top5",
       "BeatTop1",
@@ -38,7 +38,7 @@
   },
   {
     "player": "geodom",
-    "points": 1442,
+    "points": 1344,
     "badges": [
       "Top5",
       "1kPts"
@@ -46,17 +46,7 @@
   },
   {
     "player": "Syrcx",
-    "points": 1354,
-    "badges": [
-      "1kPts",
-      "Top5",
-      "BeatTop5",
-      "FirstVictor"
-    ]
-  },
-  {
-    "player": "Shadow",
-    "points": 1099,
+    "points": 1269,
     "badges": [
       "1kPts",
       "Top5",
@@ -66,7 +56,7 @@
   },
   {
     "player": "denis",
-    "points": 926,
+    "points": 1121,
     "badges": [
       "Top5",
       "BeatTop5",
@@ -75,8 +65,18 @@
     ]
   },
   {
+    "player": "Shadow",
+    "points": 1047,
+    "badges": [
+      "1kPts",
+      "Top5",
+      "BeatTop5",
+      "FirstVictor"
+    ]
+  },
+  {
     "player": "Lucky",
-    "points": 886,
+    "points": 787,
     "badges": [
       "BeatTop1",
       "BeatTop5",
@@ -85,141 +85,141 @@
   },
   {
     "player": "crasu",
-    "points": 566,
+    "points": 536,
     "badges": []
   },
   {
     "player": "Twister21",
-    "points": 458,
+    "points": 437,
     "badges": []
   },
   {
     "player": "ced",
-    "points": 451,
+    "points": 436,
     "badges": []
   },
   {
     "player": "caddydaddy123",
-    "points": 297,
+    "points": 287,
+    "badges": []
+  },
+  {
+    "player": "Oblivionus",
+    "points": 247,
     "badges": []
   },
   {
     "player": "Hexeract",
-    "points": 260,
+    "points": 235,
     "badges": [
       "BeatTop5"
     ]
   },
   {
-    "player": "Oblivionus",
-    "points": 259,
-    "badges": []
-  },
-  {
     "player": "Godtier",
-    "points": 219,
+    "points": 213,
     "badges": []
   },
   {
     "player": "sScape",
-    "points": 193,
-    "badges": []
-  },
-  {
-    "player": "cubepilot",
-    "points": 183,
+    "points": 187,
     "badges": []
   },
   {
     "player": "TCaleb",
-    "points": 183,
+    "points": 172,
+    "badges": []
+  },
+  {
+    "player": "cubepilot",
+    "points": 170,
     "badges": []
   },
   {
     "player": "Innardss",
-    "points": 150,
+    "points": 144,
     "badges": []
   },
   {
     "player": "femboyuk",
-    "points": 142,
+    "points": 138,
     "badges": []
   },
   {
     "player": "PsyTroN47k",
-    "points": 125,
+    "points": 120,
     "badges": []
   },
   {
     "player": "ice",
-    "points": 102,
+    "points": 98,
     "badges": []
   },
   {
     "player": "Xplode",
-    "points": 96,
+    "points": 89,
     "badges": [
       "WinTourney"
     ]
   },
   {
     "player": "MONKE",
-    "points": 86,
+    "points": 83,
     "badges": []
   },
   {
     "player": "Wowa",
-    "points": 78,
+    "points": 74,
     "badges": []
   },
   {
     "player": "AshDotMp3",
-    "points": 78,
+    "points": 74,
     "badges": []
   },
   {
     "player": "brie",
-    "points": 71,
+    "points": 69,
     "badges": []
   },
   {
     "player": "undead",
-    "points": 69,
+    "points": 67,
     "badges": []
   },
   {
     "player": "Turek",
-    "points": 69,
+    "points": 67,
     "badges": []
   },
   {
     "player": "neppo",
-    "points": 45,
+    "points": 43,
     "badges": []
   },
   {
     "player": "Krillz",
-    "points": 36,
+    "points": 35,
     "badges": []
   },
   {
     "player": "zradiant",
-    "points": 35,
+    "points": 34,
     "badges": []
   },
   {
     "player": "Silver",
-    "points": 35,
+    "points": 34,
     "badges": []
   },
   {
     "player": "nico",
-    "points": 35,
+    "points": 34,
     "badges": []
   },
   {
     "player": "Igloo",
-    "points": 35,
+    "points": 34,
     "badges": []
   }
 ]
