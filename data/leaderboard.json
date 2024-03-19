@@ -7,7 +7,9 @@
       "2kPts",
       "1kPts",
       "Top5",
-      "BeatTop1"
+      "BeatTop1",
+      "BeatTop5",
+      "FirstVictor"
     ]
   },
   {
@@ -16,7 +18,9 @@
     "badges": [
       "1kPts",
       "Top5",
-      "BeatTop1"
+      "BeatTop1",
+      "BeatTop5",
+      "FirstVictor"
     ]
   },
   {
@@ -27,7 +31,9 @@
       "2kPts",
       "1kPts",
       "Top5",
-      "BeatTop1"
+      "BeatTop1",
+      "BeatTop5",
+      "FirstVictor"
     ]
   },
   {
@@ -43,7 +49,9 @@
     "points": 1354,
     "badges": [
       "1kPts",
-      "Top5"
+      "Top5",
+      "BeatTop5",
+      "FirstVictor"
     ]
   },
   {
@@ -51,21 +59,27 @@
     "points": 1099,
     "badges": [
       "1kPts",
-      "Top5"
+      "Top5",
+      "BeatTop5",
+      "FirstVictor"
     ]
   },
   {
     "player": "denis",
     "points": 926,
     "badges": [
-      "Top5"
+      "Top5",
+      "BeatTop5",
+      "FirstVictor"
     ]
   },
   {
     "player": "Lucky",
     "points": 886,
     "badges": [
-      "BeatTop1"
+      "BeatTop1",
+      "BeatTop5",
+      "FirstVictor"
     ]
   },
   {
@@ -91,7 +105,9 @@
   {
     "player": "Hexeract",
     "points": 260,
-    "badges": []
+    "badges": [
+      "BeatTop5"
+    ]
   },
   {
     "player": "Oblivionus",
@@ -137,6 +153,15 @@
     "player": "ice",
     "points": 102,
     "badges": []
+  },
+  {
+    "player": "Xplode",
+    "points": 96,
+    "badges": [
+      "BeatTop1",
+      "BeatTop5",
+      "FirstVictor"
+    ]
   },
   {
     "player": "MONKE",
