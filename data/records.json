@@ -12,6 +12,12 @@
     "points": 250
   },
   {
+    "player": "Hykre",
+    "level": "DIOPSY",
+    "place": "1",
+    "points": 250
+  },
+  {
     "player": "soley",
     "level": "Untamed",
     "place": "2",
@@ -151,6 +157,12 @@
   },
   {
     "player": "crasu",
+    "level": "Bludareta",
+    "place": "6",
+    "points": 125
+  },
+  {
+    "player": "Hykre",
     "level": "Bludareta",
     "place": "6",
     "points": 125
