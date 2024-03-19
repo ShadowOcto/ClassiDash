@@ -6,7 +6,8 @@
       "Top1",
       "2kPts",
       "1kPts",
-      "Top5"
+      "Top5",
+      "BeatTop1"
     ]
   },
   {
@@ -14,7 +15,8 @@
     "points": 1880,
     "badges": [
       "1kPts",
-      "Top5"
+      "Top5",
+      "BeatTop1"
     ]
   },
   {
@@ -24,7 +26,8 @@
       "Top1",
       "2kPts",
       "1kPts",
-      "Top5"
+      "Top5",
+      "BeatTop1"
     ]
   },
   {
@@ -61,7 +64,9 @@
   {
     "player": "Lucky",
     "points": 886,
-    "badges": []
+    "badges": [
+      "BeatTop1"
+    ]
   },
   {
     "player": "crasu",
