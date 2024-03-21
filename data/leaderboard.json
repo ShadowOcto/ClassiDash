@@ -13,11 +13,9 @@
     ]
   },
   {
-    "player": "soley",
-    "points": 1730,
+    "player": "Hykre",
+    "points": 1957,
     "badges": [
-      "Top1",
-      "2kPts",
       "1kPts",
       "Top5",
       "BeatTop1",
@@ -26,9 +24,11 @@
     ]
   },
   {
-    "player": "Hykre",
-    "points": 1707,
+    "player": "soley",
+    "points": 1730,
     "badges": [
+      "Top1",
+      "2kPts",
       "1kPts",
       "Top5",
       "BeatTop1",
@@ -151,6 +151,16 @@
     "badges": []
   },
   {
+    "player": "AshDotMp3",
+    "points": 117,
+    "badges": []
+  },
+  {
+    "player": "Dact",
+    "points": 102,
+    "badges": []
+  },
+  {
     "player": "ice",
     "points": 98,
     "badges": []
@@ -173,8 +183,8 @@
     "badges": []
   },
   {
-    "player": "AshDotMp3",
-    "points": 74,
+    "player": "Icey",
+    "points": 73,
     "badges": []
   },
   {
@@ -219,6 +229,11 @@
   },
   {
     "player": "Igloo",
+    "points": 34,
+    "badges": []
+  },
+  {
+    "player": "vurb",
     "points": 34,
     "badges": []
   }
