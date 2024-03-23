@@ -1,0 +1,10 @@
+{
+  "Top1": "Player reached rank 1 on the leaderboard.",
+  "Top5": "Player reached rank 5 or above on the leaderboard.",
+  "1kPts": "Player reached 1000 list points.",
+  "2kPts": "Player reached 2000 list points.",
+  "BeatTop1": "Player completed hardest demon on the list.",
+  "BeatTop5": "Player completed a top 5 demon on the list.",
+  "FirstVictor": "Player was the first to complete a demon on the list.",
+  "WinTourney": "Player won a ClassiDash Tournament."
+}
