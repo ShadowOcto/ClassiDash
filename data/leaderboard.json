@@ -1,17 +1,6 @@
 [
   {
     "player": "Lodomir",
-<<<<<<< HEAD
-    "points": 2384
-  },
-  {
-    "player": "soley",
-    "points": 1915
-  },
-  {
-    "player": "Syrcx",
-    "points": 1440
-=======
     "points": 2417,
     "badges": [
       "Top1",
@@ -22,7 +11,6 @@
       "BeatTop5",
       "FirstVictor"
     ]
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
   },
   {
     "player": "Hykre",
@@ -36,22 +24,6 @@
     ]
   },
   {
-<<<<<<< HEAD
-    "player": "Shadow",
-    "points": 981
-  },
-  {
-    "player": "denis",
-    "points": 936
-  },
-  {
-    "player": "geodom",
-    "points": 935
-  },
-  {
-    "player": "ced",
-    "points": 360
-=======
     "player": "soley",
     "points": 1721,
     "badges": [
@@ -110,7 +82,6 @@
       "BeatTop5",
       "FirstVictor"
     ]
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
   },
   {
     "player": "crasu",
@@ -165,18 +136,6 @@
     "badges": []
   },
   {
-<<<<<<< HEAD
-    "player": "zradiant",
-    "points": 42
-  },
-  {
-    "player": "Silver",
-    "points": 42
-  },
-  {
-    "player": "brie",
-    "points": 40
-=======
     "player": "TCaleb",
     "points": 170,
     "badges": []
@@ -277,6 +236,5 @@
     "player": "vurb",
     "points": 33,
     "badges": []
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
   }
 ]

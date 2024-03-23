@@ -25,11 +25,7 @@
   },
   {
     "player": "Hykre",
-<<<<<<< HEAD
-    "level": "Untamed",
-=======
     "level": "DIOPSY",
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
     "place": "2",
     "points": 208
   },
@@ -833,9 +829,6 @@
   },
   {
     "player": "Shadow",
-<<<<<<< HEAD
-    "level": "Bound",
-=======
     "level": "New Home",
     "place": "26",
     "points": 42
@@ -843,27 +836,16 @@
   {
     "player": "Hykre",
     "level": "New Home",
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
     "place": "26",
     "points": 42
   },
   {
     "player": "denis",
-<<<<<<< HEAD
-    "level": "Bound",
-=======
     "level": "New Home",
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
     "place": "26",
     "points": 42
   },
   {
-<<<<<<< HEAD
-    "player": "Lodomir",
-    "level": "Bound",
-    "place": "26",
-    "points": 42
-=======
     "player": "TCaleb",
     "level": "New Home",
     "place": "26",
@@ -1372,37 +1354,22 @@
     "level": "Bound",
     "place": "34",
     "points": 33
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
   },
   {
     "player": "zradiant",
     "level": "Bound",
-<<<<<<< HEAD
-    "place": "26",
-    "points": 42
-=======
     "place": "34",
     "points": 33
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
   },
   {
     "player": "Silver",
     "level": "Bound",
-<<<<<<< HEAD
-    "place": "26",
-    "points": 42
-=======
     "place": "34",
     "points": 33
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
   },
   {
     "player": "ced",
     "level": "Bound",
-<<<<<<< HEAD
-    "place": "26",
-    "points": 42
-=======
     "place": "34",
     "points": 33
   },
@@ -1483,103 +1450,58 @@
     "level": "Bound",
     "place": "34",
     "points": 33
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
   },
   {
     "player": "denis",
     "level": "Another Step",
-<<<<<<< HEAD
-    "place": "27",
-    "points": 40
-=======
     "place": "35",
     "points": 32
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
   },
   {
     "player": "Shadow",
     "level": "Another Step",
-<<<<<<< HEAD
-    "place": "27",
-    "points": 40
-=======
     "place": "35",
     "points": 32
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
   },
   {
     "player": "Lodomir",
     "level": "Another Step",
-<<<<<<< HEAD
-    "place": "27",
-    "points": 40
-=======
     "place": "35",
     "points": 32
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
   },
   {
     "player": "brie",
     "level": "Another Step",
-<<<<<<< HEAD
-    "place": "27",
-    "points": 40
-=======
     "place": "35",
     "points": 32
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
   },
   {
     "player": "soley",
     "level": "Another Step",
-<<<<<<< HEAD
-    "place": "27",
-    "points": 40
-=======
     "place": "35",
     "points": 32
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
   },
   {
     "player": "geodom",
     "level": "Another Step",
-<<<<<<< HEAD
-    "place": "27",
-    "points": 40
-=======
     "place": "35",
     "points": 32
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
   },
   {
     "player": "Syrcx",
     "level": "Another Step",
-<<<<<<< HEAD
-    "place": "27",
-    "points": 40
-=======
     "place": "35",
     "points": 32
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
   },
   {
     "player": "ced",
     "level": "Another Step",
-<<<<<<< HEAD
-    "place": "27",
-    "points": 40
-=======
     "place": "35",
     "points": 32
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
   },
   {
     "player": "crasu",
     "level": "Another Step",
-<<<<<<< HEAD
-    "place": "27",
-    "points": 40
-=======
     "place": "35",
     "points": 32
   },
@@ -1630,6 +1552,5 @@
     "level": "Another Step",
     "place": "35",
     "points": 32
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
   }
 ]

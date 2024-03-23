@@ -530,10 +530,6 @@
     ]
   },
   {
-<<<<<<< HEAD
-    "name": "Bound",
-    "place": "26",
-=======
     "name": "Inferno Step",
     "place": "33",
     "id": "437",
@@ -559,7 +555,6 @@
   {
     "name": "Bound",
     "place": "34",
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
     "id": "510",
     "creators": "Zoink",
     "verifier": "Shadow",
@@ -588,11 +583,7 @@
   },
   {
     "name": "Another Step",
-<<<<<<< HEAD
-    "place": "27",
-=======
     "place": "35",
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
     "id": "239",
     "creators": "Mzmr",
     "verifier": "denis",
@@ -617,10 +608,5 @@
       "Dact"
     ]
   }
-<<<<<<< HEAD
 ] 
  
- 
-=======
-]
->>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
