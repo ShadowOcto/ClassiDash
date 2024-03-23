@@ -564,110 +564,110 @@
     "points": 62
   },
   {
-    "player": "Hykre",
-    "level": "Better Than Jesse",
-    "place": "17",
-    "points": 60
-  },
-  {
-    "player": "Shadow",
-    "level": "Better Than Jesse",
-    "place": "17",
-    "points": 60
-  },
-  {
-    "player": "geodom",
-    "level": "Better Than Jesse",
-    "place": "17",
-    "points": 60
-  },
-  {
-    "player": "Lodomir",
-    "level": "Better Than Jesse",
-    "place": "17",
-    "points": 60
-  },
-  {
-    "player": "Hykre",
-    "level": "Worse Than Jeongi",
-    "place": "18",
-    "points": 57
-  },
-  {
-    "player": "Oblivionus",
-    "level": "Worse Than Jeongi",
-    "place": "18",
-    "points": 57
-  },
-  {
-    "player": "geodom",
-    "level": "Worse Than Jeongi",
-    "place": "18",
-    "points": 57
-  },
-  {
-    "player": "Lodomir",
-    "level": "Worse Than Jeongi",
-    "place": "18",
-    "points": 57
-  },
-  {
-    "player": "soley",
-    "level": "Destiny",
-    "place": "19",
-    "points": 54
-  },
-  {
-    "player": "Lodomir",
-    "level": "Destiny",
-    "place": "19",
-    "points": 54
-  },
-  {
-    "player": "Shadow",
-    "level": "Destiny",
-    "place": "19",
-    "points": 54
-  },
-  {
-    "player": "Syrcx",
-    "level": "Destiny",
-    "place": "19",
-    "points": 54
-  },
-  {
-    "player": "Lucky",
-    "level": "Destiny",
-    "place": "19",
-    "points": 54
-  },
-  {
     "player": "Lodomir",
     "level": "Eclipse",
-    "place": "20",
-    "points": 52
+    "place": "17",
+    "points": 60
   },
   {
     "player": "denis",
     "level": "Eclipse",
-    "place": "20",
-    "points": 52
+    "place": "17",
+    "points": 60
   },
   {
     "player": "soley",
     "level": "Eclipse",
+    "place": "17",
+    "points": 60
+  },
+  {
+    "player": "geodom",
+    "level": "Eclipse",
+    "place": "17",
+    "points": 60
+  },
+  {
+    "player": "Syrcx",
+    "level": "Eclipse",
+    "place": "17",
+    "points": 60
+  },
+  {
+    "player": "soley",
+    "level": "Destiny",
+    "place": "18",
+    "points": 57
+  },
+  {
+    "player": "Lodomir",
+    "level": "Destiny",
+    "place": "18",
+    "points": 57
+  },
+  {
+    "player": "Shadow",
+    "level": "Destiny",
+    "place": "18",
+    "points": 57
+  },
+  {
+    "player": "Syrcx",
+    "level": "Destiny",
+    "place": "18",
+    "points": 57
+  },
+  {
+    "player": "Lucky",
+    "level": "Destiny",
+    "place": "18",
+    "points": 57
+  },
+  {
+    "player": "Hykre",
+    "level": "Better Than Jesse",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "Shadow",
+    "level": "Better Than Jesse",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "geodom",
+    "level": "Better Than Jesse",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "Lodomir",
+    "level": "Better Than Jesse",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "Hykre",
+    "level": "Worse Than Jeongi",
+    "place": "20",
+    "points": 52
+  },
+  {
+    "player": "Oblivionus",
+    "level": "Worse Than Jeongi",
     "place": "20",
     "points": 52
   },
   {
     "player": "geodom",
-    "level": "Eclipse",
+    "level": "Worse Than Jeongi",
     "place": "20",
     "points": 52
   },
   {
-    "player": "Syrcx",
-    "level": "Eclipse",
+    "player": "Lodomir",
+    "level": "Worse Than Jeongi",
     "place": "20",
     "points": 52
   },

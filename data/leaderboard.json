@@ -14,7 +14,7 @@
   },
   {
     "player": "soley",
-    "points": 1847,
+    "points": 1858,
     "badges": [
       "Top1",
       "2kPts",
@@ -27,7 +27,7 @@
   },
   {
     "player": "Hykre",
-    "points": 1771,
+    "points": 1760,
     "badges": [
       "1kPts",
       "Top5",
@@ -38,7 +38,7 @@
   },
   {
     "player": "geodom",
-    "points": 1254,
+    "points": 1251,
     "badges": [
       "Top5",
       "1kPts"
@@ -46,17 +46,7 @@
   },
   {
     "player": "Syrcx",
-    "points": 1187,
-    "badges": [
-      "1kPts",
-      "Top5",
-      "BeatTop5",
-      "FirstVictor"
-    ]
-  },
-  {
-    "player": "Shadow",
-    "points": 1030,
+    "points": 1198,
     "badges": [
       "1kPts",
       "Top5",
@@ -66,7 +56,7 @@
   },
   {
     "player": "denis",
-    "points": 1021,
+    "points": 1029,
     "badges": [
       "Top5",
       "BeatTop5",
@@ -75,20 +65,30 @@
     ]
   },
   {
+    "player": "Shadow",
+    "points": 1027,
+    "badges": [
+      "1kPts",
+      "Top5",
+      "BeatTop5",
+      "FirstVictor"
+    ]
+  },
+  {
+    "player": "Lucky",
+    "points": 710,
+    "badges": [
+      "BeatTop1",
+      "BeatTop5",
+      "FirstVictor"
+    ]
+  },
+  {
     "player": "crasu",
     "points": 708,
     "badges": [
       "BeatTop1",
       "BeatTop5"
-    ]
-  },
-  {
-    "player": "Lucky",
-    "points": 707,
-    "badges": [
-      "BeatTop1",
-      "BeatTop5",
-      "FirstVictor"
     ]
   },
   {
@@ -113,7 +113,7 @@
   },
   {
     "player": "Oblivionus",
-    "points": 233,
+    "points": 228,
     "badges": []
   },
   {

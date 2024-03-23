@@ -253,9 +253,39 @@
       "Lucky"
     ]
   },
-  {
-    "name": "Better Than Jesse",
+    {
+    "name": "Eclipse",
     "place": "17",
+    "id": "6",
+    "creators": "Shadow",
+    "verifier": "Lodomir",
+    "video": "https://www.youtube.com/watch?v=ALWiohNsfYY",
+    "victors": [
+      "Lodomir",
+      "denis",
+      "soley",
+      "geodom",
+      "Syrcx"
+    ]
+  },
+  {
+    "name": "Destiny",
+    "place": "18",
+    "id": "5",
+    "creators": "Shadow",
+    "verifier": "soley",
+    "video": "https://www.youtube.com/watch?v=cb9Kj9-VrHw",
+    "victors": [
+      "soley",
+      "Lodomir",
+      "Shadow",
+      "Syrcx",
+      "Lucky"
+    ]
+  },
+    {
+    "name": "Better Than Jesse",
+    "place": "19",
     "id": "833",
     "creators": "Shadow",
     "verifier": "Hykre",
@@ -269,7 +299,7 @@
   },
   {
     "name": "Worse Than Jeongi",
-    "place": "18",
+    "place": "20",
     "id": "780",
     "creators": "HomeFish",
     "verifier": "Hykre",
@@ -279,36 +309,6 @@
       "Oblivionus",
       "geodom",
       "Lodomir"
-    ]
-  },
-  {
-    "name": "Destiny",
-    "place": "19",
-    "id": "5",
-    "creators": "Shadow",
-    "verifier": "soley",
-    "video": "https://www.youtube.com/watch?v=cb9Kj9-VrHw",
-    "victors": [
-      "soley",
-      "Lodomir",
-      "Shadow",
-      "Syrcx",
-      "Lucky"
-    ]
-  },
-  {
-    "name": "Eclipse",
-    "place": "20",
-    "id": "6",
-    "creators": "Shadow",
-    "verifier": "Lodomir",
-    "video": "https://www.youtube.com/watch?v=ALWiohNsfYY",
-    "victors": [
-      "Lodomir",
-      "denis",
-      "soley",
-      "geodom",
-      "Syrcx"
     ]
   },
   {
