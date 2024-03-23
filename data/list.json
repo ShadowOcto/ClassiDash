@@ -1,18 +1,32 @@
 [
   {
-    "name": "DIOPSY",
+    "name": "Achelous",
     "place": "1",
+    "id": "1000",
+    "creators": "Shadow & denis",
+    "verifier": "denis",
+    "video": "https://www.youtube.com/watch?v=ixyKjZUM594",
+    "victors": [
+      "denis",
+      "Hykre"
+    ]
+  },
+  {
+    "name": "DIOPSY",
+    "place": "2",
     "id": "390",
     "creators": "Shadow",
     "verifier": "Lodomir",
     "video": "https://www.youtube.com/watch?v=51ELMfZ5qj0",
     "victors": [
-      "Lodomir"
+      "Lodomir",
+      "Lucky",
+      "Hykre"
     ]
   },
   {
     "name": "Untamed",
-    "place": "2",
+    "place": "3",
     "id": "1",
     "creators": "soley",
     "verifier": "soley",
@@ -20,12 +34,13 @@
     "victors": [
       "soley",
       "Lodomir",
-      "Hykre"
+      "Hykre",
+      "Lucky"
     ]
   },
   {
     "name": "wither",
-    "place": "3",
+    "place": "4",
     "id": "100",
     "creators": "ice",
     "verifier": "soley",
@@ -37,7 +52,7 @@
   },
   {
     "name": "no chance",
-    "place": "4",
+    "place": "5",
     "id": "302",
     "creators": "denis",
     "verifier": "denis",
@@ -47,12 +62,13 @@
       "soley",
       "Lodomir",
       "Hykre",
-      "geodom"
+      "geodom",
+      "Hexeract"
     ]
   },
   {
     "name": "Destruction",
-    "place": "5",
+    "place": "6",
     "id": "23",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -61,26 +77,31 @@
       "Lodomir",
       "soley",
       "Hykre",
-      "Syrcx"
+      "Syrcx",
+      "geodom"
     ]
   },
   {
-    "name": "Green Machine",
-    "place": "6",
-    "id": "479",
-    "creators": "Shadow",
-    "verifier": "Shadow",
-    "video": "https://www.youtube.com/watch?v=ClnJng8_H1U",
+    "name": "Bludareta",
+    "place": "7",
+    "id": "209",
+    "creators": "soley",
+    "verifier": "denis",
+    "video": "https://www.youtube.com/watch?v=lM-_g3ZLG6U",
     "victors": [
-      "Shadow",
+      "soley",
+      "denis",
+      "Lodomir",
       "Syrcx",
-      "Hykre",
-      "Lodomir"
+      "Lucky",
+      "geodom",
+      "crasu",
+      "Hykre"
     ]
   },
   {
     "name": "Solaris",
-    "place": "7",
+    "place": "8",
     "id": "7",
     "creators": "Shadow",
     "verifier": "soley",
@@ -90,12 +111,30 @@
       "Hykre",
       "Lodomir",
       "geodom",
-      "Syrcx"
+      "Syrcx",
+      "cubepilot"
+    ]
+  },
+  {
+    "name": "Green Machine",
+    "place": "9",
+    "id": "479",
+    "creators": "Shadow",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=ClnJng8_H1U",
+    "victors": [
+      "Shadow",
+      "Syrcx",
+      "Hykre",
+      "Lodomir",
+      "Twister21",
+      "Hexeract",
+      "geodom"
     ]
   },
   {
     "name": "Dreams",
-    "place": "8",
+    "place": "10",
     "id": "341",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -107,26 +146,14 @@
       "soley",
       "geodom",
       "Syrcx",
-      "TCaleb"
-    ]
-  },
-  {
-    "name": "Bludareta",
-    "place": "9",
-    "id": "209",
-    "creators": "soley",
-    "verifier": "denis",
-    "video": "https://www.youtube.com/watch?v=lM-_g3ZLG6U",
-    "victors": [
-      "soley",
-      "denis",
-      "Lodomir",
-      "Syrcx"
+      "TCaleb",
+      "Lucky",
+      "Xplode"
     ]
   },
   {
     "name": "Kagayaku",
-    "place": "10",
+    "place": "11",
     "id": "16",
     "creators": "Firework",
     "verifier": "soley",
@@ -137,12 +164,27 @@
       "Lodomir",
       "Shadow",
       "Hykre",
-      "Syrcx"
+      "Syrcx",
+      "Twister21"
+    ]
+  },
+  {
+    "name": "Hellish World",
+    "place": "12",
+    "id": "737",
+    "creators": "clubstep",
+    "verifier": "soley",
+    "video": "https://www.youtube.com/watch?v=N2Xa-Ds0va4",
+    "victors": [
+      "Hykre",
+      "Lodomir",
+      "Oblivionus",
+      "geodom"
     ]
   },
   {
     "name": "Meowareta",
-    "place": "11",
+    "place": "13",
     "id": "272",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -154,12 +196,15 @@
       "Lodomir",
       "soley",
       "Syrcx",
-      "Wowa"
+      "Wowa",
+      "caddydaddy123",
+      "Lucky",
+      "AshDotMp3"
     ]
   },
   {
     "name": "Resonating",
-    "place": "12",
+    "place": "14",
     "id": "379",
     "creators": "denis",
     "verifier": "denis",
@@ -175,7 +220,7 @@
   },
   {
     "name": "Night",
-    "place": "13",
+    "place": "15",
     "id": "3",
     "creators": "Shadow",
     "verifier": "soley",
@@ -189,12 +234,43 @@
       "crasu",
       "Shadow",
       "geodom",
-      "Syrcx"
+      "Syrcx",
+      "Oblivionus",
+      "Innardss",
+      "Lucky"
+    ]
+  },
+  {
+    "name": "Better Than Jesse",
+    "place": "16",
+    "id": "833",
+    "creators": "Shadow",
+    "verifier": "Hykre",
+    "video": "https://www.youtube.com/watch?v=BWNMA_L7ZDQ",
+    "victors": [
+      "Hykre",
+      "Shadow",
+      "geodom",
+      "Lodomir"
+    ]
+  },
+  {
+    "name": "Worse Than Jeongi",
+    "place": "17",
+    "id": "780",
+    "creators": "HomeFish",
+    "verifier": "Hykre",
+    "video": "https://youtu.be/vnVAj7cGcEA",
+    "victors": [
+      "Hykre",
+      "Oblivionus",
+      "geodom",
+      "Lodomir"
     ]
   },
   {
     "name": "Destiny",
-    "place": "14",
+    "place": "18",
     "id": "5",
     "creators": "Shadow",
     "verifier": "soley",
@@ -203,12 +279,13 @@
       "soley",
       "Lodomir",
       "Shadow",
-      "Syrcx"
+      "Syrcx",
+      "Lucky"
     ]
   },
   {
     "name": "Eclipse",
-    "place": "15",
+    "place": "19",
     "id": "6",
     "creators": "Shadow",
     "verifier": "Lodomir",
@@ -223,7 +300,7 @@
   },
   {
     "name": "Fantasy",
-    "place": "16",
+    "place": "20",
     "id": "62",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -234,12 +311,13 @@
       "Lodomir",
       "soley",
       "geodom",
-      "Syrcx"
+      "Syrcx",
+      "ced"
     ]
   },
   {
     "name": "Genesis",
-    "place": "17",
+    "place": "21",
     "id": "15",
     "creators": "ice",
     "verifier": "ice",
@@ -253,7 +331,7 @@
   },
   {
     "name": "clubcastle",
-    "place": "18",
+    "place": "22",
     "id": "297",
     "creators": "ice",
     "verifier": "ice",
@@ -265,8 +343,36 @@
     ]
   },
   {
+    "name": "Run Now Reborn",
+    "place": "23",
+    "id": "1069",
+    "creators": "Shadow",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=bhm9qFtDpbw",
+    "victors": [
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Yellow",
+    "place": "24",
+    "id": "627",
+    "creators": "ced",
+    "verifier": "ced",
+    "video": "https://www.youtube.com/watch?v=Q00FaOA_7vk",
+    "victors": [
+      "ced",
+      "Shadow",
+      "Lodomir",
+      "crasu",
+      "PsyTroN47k",
+      "sScape",
+      "MONKE"
+    ]
+  },
+  {
     "name": "Wet In",
-    "place": "19",
+    "place": "25",
     "id": "20",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -276,12 +382,13 @@
       "Lodomir",
       "soley",
       "geodom",
-      "Syrcx"
+      "Syrcx",
+      "Icey"
     ]
   },
   {
     "name": "New Home",
-    "place": "20",
+    "place": "26",
     "id": "484",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -292,12 +399,17 @@
       "Hykre",
       "denis",
       "TCaleb",
-      "ced"
+      "ced",
+      "neppo",
+      "crasu",
+      "Oblivionus",
+      "AshDotMp3",
+      "Icey"
     ]
   },
   {
     "name": "Bliss",
-    "place": "21",
+    "place": "27",
     "id": "21",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -311,12 +423,14 @@
       "soley",
       "geodom",
       "Syrcx",
-      "ced"
+      "ced",
+      "Twister21",
+      "sScape"
     ]
   },
   {
     "name": "Faithful",
-    "place": "22",
+    "place": "28",
     "id": "13",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -331,12 +445,16 @@
       "Syrcx",
       "Hykre",
       "TCaleb",
-      "ced"
+      "ced",
+      "PsyTroN47k",
+      "Innardss",
+      "sScape",
+      "Icey"
     ]
   },
   {
     "name": "Cry About It",
-    "place": "23",
+    "place": "29",
     "id": "2",
     "creators": "Shadow",
     "verifier": "soley",
@@ -347,23 +465,32 @@
       "Lodomir",
       "Shadow",
       "geodom",
-      "Syrcx"
+      "Syrcx",
+      "Twister21"
     ]
   },
   {
     "name": "DccJaasFdHHdvvteeeKs",
-    "place": "24",
+    "place": "30",
     "id": "549",
     "creators": "ced",
     "verifier": "ced",
     "video": "https://www.youtube.com/watch?v=Lvuyb5LG0FU",
     "victors": [
-      "ced"
+      "ced",
+      "Lodomir",
+      "Shadow",
+      "Twister21",
+      "Innardss",
+      "caddydaddy123",
+      "sScape",
+      "Godtier",
+      "Icey"
     ]
   },
   {
     "name": "EvoCastle",
-    "place": "25",
+    "place": "31",
     "id": "266",
     "creators": "mzmr",
     "verifier": "denis",
@@ -375,12 +502,64 @@
       "soley",
       "geodom",
       "Syrcx",
-      "ced"
+      "ced",
+      "Twister21",
+      "caddydaddy123",
+      "MONKE",
+      "Godtier"
+    ]
+  },
+  {
+    "name": "Hellish Land",
+    "place": "32",
+    "id": "647",
+    "creators": "clubstep",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=c0Li9P4m-Dg",
+    "victors": [
+      "Shadow",
+      "Lodomir",
+      "ced",
+      "femboyuk",
+      "caddydaddy123",
+      "Hykre",
+      "sScape",
+      "brie",
+      "Godtier",
+      "Dact"
+    ]
+  },
+  {
+<<<<<<< HEAD
+    "name": "Bound",
+    "place": "26",
+=======
+    "name": "Inferno Step",
+    "place": "33",
+    "id": "437",
+    "creators": "MolloPro",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=HOWpUcQOdVM",
+    "victors": [
+      "Shadow",
+      "denis",
+      "Lodomir",
+      "soley",
+      "ced",
+      "Krillz",
+      "crasu",
+      "Twister21",
+      "femboyuk",
+      "caddydaddy123",
+      "Godtier",
+      "Icey",
+      "Dact"
     ]
   },
   {
     "name": "Bound",
-    "place": "26",
+    "place": "34",
+>>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
     "id": "510",
     "creators": "Zoink",
     "verifier": "Shadow",
@@ -391,12 +570,29 @@
       "Lodomir",
       "zradiant",
       "Silver",
-      "ced"
+      "ced",
+      "crasu",
+      "Twister21",
+      "PsyTroN47k",
+      "undead",
+      "femboyuk",
+      "caddydaddy123",
+      "sScape",
+      "Turek",
+      "Godtier",
+      "nico",
+      "Igloo",
+      "vurb",
+      "Dact"
     ]
   },
   {
     "name": "Another Step",
+<<<<<<< HEAD
     "place": "27",
+=======
+    "place": "35",
+>>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
     "id": "239",
     "creators": "Mzmr",
     "verifier": "denis",
@@ -410,9 +606,21 @@
       "geodom",
       "Syrcx",
       "ced",
-      "ced"
+      "crasu",
+      "Twister21",
+      "undead",
+      "femboyuk",
+      "caddydaddy123",
+      "sScape",
+      "Turek",
+      "Godtier",
+      "Dact"
     ]
   }
+<<<<<<< HEAD
 ] 
  
  
+=======
+]
+>>>>>>> 6dda2d07bb1d701a616500a9b2ea37171de34cc8
