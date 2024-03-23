@@ -85,8 +85,11 @@
   },
   {
     "player": "crasu",
-    "points": 528,
-    "badges": []
+    "points": 778,
+    "badges": [
+      "BeatTop1",
+      "BeatTop5"
+    ]
   },
   {
     "player": "Twister21",
