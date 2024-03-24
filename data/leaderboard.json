@@ -48,6 +48,10 @@
     "points": 270
   },
   {
+    "player": "TCaleb",
+    "points": 265
+  },
+  {
     "player": "sScape",
     "points": 253
   },
@@ -70,10 +74,6 @@
   {
     "player": "dachii",
     "points": 173
-  },
-  {
-    "player": "TCaleb",
-    "points": 161
   },
   {
     "player": "cubepilot",
@@ -104,10 +104,6 @@
     "points": 109
   },
   {
-    "player": "tcaleb",
-    "points": 104
-  },
-  {
     "player": "nico",
     "points": 96
   },
@@ -132,6 +128,10 @@
     "points": 65
   },
   {
+    "player": "Igloo",
+    "points": 65
+  },
+  {
     "player": "undead",
     "points": 63
   },
@@ -152,19 +152,11 @@
     "points": 33
   },
   {
-    "player": "igloo",
-    "points": 33
-  },
-  {
     "player": "zradiant",
     "points": 32
   },
   {
     "player": "Silver",
-    "points": 32
-  },
-  {
-    "player": "Igloo",
     "points": 32
   },
   {
