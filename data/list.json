@@ -10,23 +10,9 @@
       "soley"
     ]
   },
-  {
-    "name": "Untamed",
-    "place": "2",
-    "id": "1",
-    "creators": "soley",
-    "verifier": "soley",
-    "video": "https://www.youtube.com/watch?v=bg4MJuR-i-0",
-    "victors": [
-      "soley",
-      "Lodomir",
-      "Hykre",
-      "Lucky"
-    ]
-  },
-  {
+    {
     "name": "Achelous",
-    "place": "3",
+    "place": "2",
     "id": "1000",
     "creators": "Shadow & denis",
     "verifier": "denis",
@@ -36,6 +22,20 @@
       "Hykre",
       "crasu",
       "Lodomir"
+    ]
+  },
+  {
+    "name": "Untamed",
+    "place": "3",
+    "id": "1",
+    "creators": "soley",
+    "verifier": "soley",
+    "video": "https://www.youtube.com/watch?v=bg4MJuR-i-0",
+    "victors": [
+      "soley",
+      "Lodomir",
+      "Hykre",
+      "Lucky"
     ]
   },
   {

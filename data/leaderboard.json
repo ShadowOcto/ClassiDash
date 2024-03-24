@@ -14,7 +14,7 @@
   },
   {
     "player": "soley",
-    "points": 1910,
+    "points": 1881,
     "badges": [
       "Top1",
       "2kPts",
@@ -55,6 +55,16 @@
     ]
   },
   {
+    "player": "denis",
+    "points": 1029,
+    "badges": [
+      "Top5",
+      "BeatTop5",
+      "FirstVictor",
+      "BeatTop1"
+    ]
+  },
+  {
     "player": "Shadow",
     "points": 1027,
     "badges": [
@@ -65,18 +75,8 @@
     ]
   },
   {
-    "player": "denis",
-    "points": 1000,
-    "badges": [
-      "Top5",
-      "BeatTop5",
-      "FirstVictor",
-      "BeatTop1"
-    ]
-  },
-  {
     "player": "Lucky",
-    "points": 739,
+    "points": 710,
     "badges": [
       "BeatTop1",
       "BeatTop5",
@@ -85,7 +85,7 @@
   },
   {
     "player": "crasu",
-    "points": 679,
+    "points": 708,
     "badges": [
       "BeatTop1",
       "BeatTop5"

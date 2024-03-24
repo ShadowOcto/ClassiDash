@@ -6,50 +6,50 @@
     "points": 250
   },
   {
-    "player": "soley",
-    "level": "Untamed",
-    "place": "2",
-    "points": 208
-  },
-  {
-    "player": "Lodomir",
-    "level": "Untamed",
-    "place": "2",
-    "points": 208
-  },
-  {
-    "player": "Hykre",
-    "level": "Untamed",
-    "place": "2",
-    "points": 208
-  },
-  {
-    "player": "Lucky",
-    "level": "Untamed",
-    "place": "2",
-    "points": 208
-  },
-  {
     "player": "denis",
     "level": "Achelous",
-    "place": "3",
-    "points": 179
+    "place": "2",
+    "points": 208
   },
   {
     "player": "Hykre",
     "level": "Achelous",
-    "place": "3",
-    "points": 179
+    "place": "2",
+    "points": 208
   },
   {
     "player": "crasu",
     "level": "Achelous",
+    "place": "2",
+    "points": 208
+  },
+  {
+    "player": "Lodomir",
+    "level": "Achelous",
+    "place": "2",
+    "points": 208
+  },
+  {
+    "player": "soley",
+    "level": "Untamed",
     "place": "3",
     "points": 179
   },
   {
     "player": "Lodomir",
-    "level": "Achelous",
+    "level": "Untamed",
+    "place": "3",
+    "points": 179
+  },
+  {
+    "player": "Hykre",
+    "level": "Untamed",
+    "place": "3",
+    "points": 179
+  },
+  {
+    "player": "Lucky",
+    "level": "Untamed",
     "place": "3",
     "points": 179
   },
