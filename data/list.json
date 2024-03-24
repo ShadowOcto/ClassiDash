@@ -10,7 +10,7 @@
       "soley"
     ]
   },
-    {
+  {
     "name": "Untamed",
     "place": "2",
     "id": "1",
@@ -109,7 +109,8 @@
       "Lucky",
       "geodom",
       "crasu",
-      "Hykre"
+      "Hykre",
+      "tcaleb"
     ]
   },
   {
@@ -253,7 +254,7 @@
       "Lucky"
     ]
   },
-    {
+  {
     "name": "Eclipse",
     "place": "17",
     "id": "6",
@@ -283,7 +284,7 @@
       "Lucky"
     ]
   },
-    {
+  {
     "name": "Better Than Jesse",
     "place": "19",
     "id": "833",
@@ -380,7 +381,8 @@
       "crasu",
       "PsyTroN47k",
       "sScape",
-      "MONKE"
+      "MONKE",
+      "dachii"
     ]
   },
   {
@@ -462,7 +464,8 @@
       "PsyTroN47k",
       "Innardss",
       "sScape",
-      "Icey"
+      "Icey",
+      "Safired"
     ]
   },
   {
@@ -539,7 +542,9 @@
       "sScape",
       "brie",
       "Godtier",
-      "Dact"
+      "Dact",
+      "Meatballmoose",
+      "dachii"
     ]
   },
   {
@@ -563,7 +568,10 @@
       "Godtier",
       "Icey",
       "Dact",
-      "nico"
+      "nico",
+      "Meatballmoose",
+      "igloo",
+      "dachii"
     ]
   },
   {
@@ -592,7 +600,9 @@
       "nico",
       "Igloo",
       "vurb",
-      "Dact"
+      "Dact",
+      "Meatballmoose",
+      "dachii"
     ]
   },
   {
@@ -619,7 +629,11 @@
       "sScape",
       "Turek",
       "Godtier",
-      "Dact"
+      "Dact",
+      "Meatballmoose",
+      "nico",
+      "YoumanGY",
+      "dachii"
     ]
   }
 ]

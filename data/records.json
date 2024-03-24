@@ -198,6 +198,12 @@
     "points": 104
   },
   {
+    "player": "tcaleb",
+    "level": "Bludareta",
+    "place": "8",
+    "points": 104
+  },
+  {
     "player": "soley",
     "level": "Solaris",
     "place": "9",
@@ -804,6 +810,12 @@
     "points": 43
   },
   {
+    "player": "dachii",
+    "level": "Yellow",
+    "place": "25",
+    "points": 43
+  },
+  {
     "player": "Shadow",
     "level": "Wet In",
     "place": "26",
@@ -1056,6 +1068,12 @@
     "points": 38
   },
   {
+    "player": "Safired",
+    "level": "Faithful",
+    "place": "29",
+    "points": 38
+  },
+  {
     "player": "soley",
     "level": "Cry About It",
     "place": "30",
@@ -1278,6 +1296,18 @@
     "points": 34
   },
   {
+    "player": "Meatballmoose",
+    "level": "Hellish Land",
+    "place": "33",
+    "points": 34
+  },
+  {
+    "player": "dachii",
+    "level": "Hellish Land",
+    "place": "33",
+    "points": 34
+  },
+  {
     "player": "Shadow",
     "level": "Inferno Step",
     "place": "34",
@@ -1357,6 +1387,24 @@
   },
   {
     "player": "nico",
+    "level": "Inferno Step",
+    "place": "34",
+    "points": 33
+  },
+  {
+    "player": "Meatballmoose",
+    "level": "Inferno Step",
+    "place": "34",
+    "points": 33
+  },
+  {
+    "player": "igloo",
+    "level": "Inferno Step",
+    "place": "34",
+    "points": 33
+  },
+  {
+    "player": "dachii",
     "level": "Inferno Step",
     "place": "34",
     "points": 33
@@ -1476,16 +1524,16 @@
     "points": 32
   },
   {
-    "player": "neppo",
+    "player": "Meatballmoose",
     "level": "Bound",
-    "place": "28",
-    "points": 39
+    "place": "35",
+    "points": 32
   },
   {
-    "player": "soley",
+    "player": "dachii",
     "level": "Bound",
-    "place": "28",
-    "points": 39
+    "place": "35",
+    "points": 32
   },
   {
     "player": "denis",
@@ -1585,6 +1633,30 @@
   },
   {
     "player": "Dact",
+    "level": "Another Step",
+    "place": "36",
+    "points": 31
+  },
+  {
+    "player": "Meatballmoose",
+    "level": "Another Step",
+    "place": "36",
+    "points": 31
+  },
+  {
+    "player": "nico",
+    "level": "Another Step",
+    "place": "36",
+    "points": 31
+  },
+  {
+    "player": "YoumanGY",
+    "level": "Another Step",
+    "place": "36",
+    "points": 31
+  },
+  {
+    "player": "dachii",
     "level": "Another Step",
     "place": "36",
     "points": 31
