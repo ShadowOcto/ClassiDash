@@ -816,6 +816,12 @@
     "points": 43
   },
   {
+    "player": "Safired",
+    "level": "Yellow",
+    "place": "25",
+    "points": 43
+  },
+  {
     "player": "Shadow",
     "level": "Wet In",
     "place": "26",
@@ -918,6 +924,12 @@
     "points": 40
   },
   {
+    "player": "Safired",
+    "level": "New Home",
+    "place": "27",
+    "points": 40
+  },
+  {
     "player": "crasu",
     "level": "Bliss",
     "place": "28",
@@ -979,6 +991,12 @@
   },
   {
     "player": "sScape",
+    "level": "Bliss",
+    "place": "28",
+    "points": 39
+  },
+  {
+    "player": "Safired",
     "level": "Bliss",
     "place": "28",
     "points": 39
@@ -1116,6 +1134,12 @@
     "points": 37
   },
   {
+    "player": "Icey",
+    "level": "Cry About It",
+    "place": "30",
+    "points": 37
+  },
+  {
     "player": "ced",
     "level": "DccJaasFdHHdvvteeeKs",
     "place": "31",
@@ -1165,6 +1189,12 @@
   },
   {
     "player": "Icey",
+    "level": "DccJaasFdHHdvvteeeKs",
+    "place": "31",
+    "points": 36
+  },
+  {
+    "player": "dachii",
     "level": "DccJaasFdHHdvvteeeKs",
     "place": "31",
     "points": 36
@@ -1231,6 +1261,18 @@
   },
   {
     "player": "Godtier",
+    "level": "EvoCastle",
+    "place": "32",
+    "points": 35
+  },
+  {
+    "player": "dachii",
+    "level": "EvoCastle",
+    "place": "32",
+    "points": 35
+  },
+  {
+    "player": "Dact",
     "level": "EvoCastle",
     "place": "32",
     "points": 35
@@ -1531,6 +1573,12 @@
   },
   {
     "player": "dachii",
+    "level": "Bound",
+    "place": "35",
+    "points": 32
+  },
+  {
+    "player": "YoumanGY",
     "level": "Bound",
     "place": "35",
     "points": 32

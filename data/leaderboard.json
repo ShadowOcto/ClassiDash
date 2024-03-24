@@ -117,8 +117,18 @@
     "badges": []
   },
   {
+    "player": "dachii",
+    "points": 244,
+    "badges": []
+  },
+  {
     "player": "Oblivionus",
     "points": 228,
+    "badges": []
+  },
+  {
+    "player": "Icey",
+    "points": 226,
     "badges": []
   },
   {
@@ -134,13 +144,13 @@
     "badges": []
   },
   {
-    "player": "Icey",
-    "points": 189,
+    "player": "Dact",
+    "points": 165,
     "badges": []
   },
   {
-    "player": "dachii",
-    "points": 173,
+    "player": "Safired",
+    "points": 160,
     "badges": []
   },
   {
@@ -155,11 +165,6 @@
   },
   {
     "player": "femboyuk",
-    "points": 130,
-    "badges": []
-  },
-  {
-    "player": "Dact",
     "points": 130,
     "badges": []
   },
@@ -226,13 +231,13 @@
     "badges": []
   },
   {
-    "player": "neppo",
-    "points": 40,
+    "player": "YoumanGY",
+    "points": 63,
     "badges": []
   },
   {
-    "player": "Safired",
-    "points": 38,
+    "player": "neppo",
+    "points": 40,
     "badges": []
   },
   {
@@ -253,11 +258,6 @@
   {
     "player": "vurb",
     "points": 32,
-    "badges": []
-  },
-  {
-    "player": "YoumanGY",
-    "points": 31,
     "badges": []
   }
 ]
