@@ -52,20 +52,8 @@
     ]
   },
   {
-    "name": "wither",
-    "place": "5",
-    "id": "100",
-    "creators": "ice",
-    "verifier": "soley",
-    "video": "https://www.youtube.com/watch?v=x5V7g6fOrng",
-    "victors": [
-      "soley",
-      "Lodomir"
-    ]
-  },
-  {
     "name": "no chance",
-    "place": "6",
+    "place": "5",
     "id": "302",
     "creators": "denis",
     "verifier": "denis",
@@ -81,7 +69,7 @@
   },
   {
     "name": "Destruction",
-    "place": "7",
+    "place": "6",
     "id": "23",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -96,7 +84,7 @@
   },
   {
     "name": "Bludareta",
-    "place": "8",
+    "place": "7",
     "id": "209",
     "creators": "soley",
     "verifier": "denis",
@@ -115,7 +103,7 @@
   },
   {
     "name": "Solaris",
-    "place": "9",
+    "place": "8",
     "id": "7",
     "creators": "Shadow",
     "verifier": "soley",
@@ -131,7 +119,7 @@
   },
   {
     "name": "Green Machine",
-    "place": "10",
+    "place": "9",
     "id": "479",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -148,7 +136,7 @@
   },
   {
     "name": "Dreams",
-    "place": "11",
+    "place": "10",
     "id": "341",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -167,7 +155,7 @@
   },
   {
     "name": "Kagayaku",
-    "place": "12",
+    "place": "11",
     "id": "16",
     "creators": "Firework",
     "verifier": "soley",
@@ -184,7 +172,7 @@
   },
   {
     "name": "Hellish World",
-    "place": "13",
+    "place": "12",
     "id": "737",
     "creators": "clubstep",
     "verifier": "soley",
@@ -198,7 +186,7 @@
   },
   {
     "name": "Meowareta",
-    "place": "14",
+    "place": "13",
     "id": "272",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -218,7 +206,7 @@
   },
   {
     "name": "Resonating",
-    "place": "15",
+    "place": "14",
     "id": "379",
     "creators": "denis",
     "verifier": "denis",
@@ -234,7 +222,7 @@
   },
   {
     "name": "Night",
-    "place": "16",
+    "place": "15",
     "id": "3",
     "creators": "Shadow",
     "verifier": "soley",
@@ -256,7 +244,7 @@
   },
   {
     "name": "Eclipse",
-    "place": "17",
+    "place": "16",
     "id": "6",
     "creators": "Shadow",
     "verifier": "Lodomir",
@@ -271,7 +259,7 @@
   },
   {
     "name": "Destiny",
-    "place": "18",
+    "place": "17",
     "id": "5",
     "creators": "Shadow",
     "verifier": "soley",
@@ -286,7 +274,7 @@
   },
   {
     "name": "Better Than Jesse",
-    "place": "19",
+    "place": "18",
     "id": "833",
     "creators": "Shadow",
     "verifier": "Hykre",
@@ -295,12 +283,13 @@
       "Hykre",
       "Shadow",
       "geodom",
-      "Lodomir"
+      "Lodomir",
+      "nowar"
     ]
   },
   {
     "name": "Worse Than Jeongi",
-    "place": "20",
+    "place": "19",
     "id": "780",
     "creators": "HomeFish",
     "verifier": "Hykre",
@@ -314,7 +303,7 @@
   },
   {
     "name": "Fantasy",
-    "place": "21",
+    "place": "20",
     "id": "62",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -330,46 +319,20 @@
     ]
   },
   {
-    "name": "Genesis",
-    "place": "22",
-    "id": "15",
-    "creators": "ice",
-    "verifier": "ice",
-    "video": "https://www.youtube.com/watch?v=7PziEs6u5Is",
-    "victors": [
-      "ice",
-      "Lodomir",
-      "soley",
-      "Syrcx"
-    ]
-  },
-  {
-    "name": "clubcastle",
-    "place": "23",
-    "id": "297",
-    "creators": "ice",
-    "verifier": "ice",
-    "video": "https://www.youtube.com/watch?v=E2T78o37b9E",
-    "victors": [
-      "ice",
-      "soley",
-      "Lodomir"
-    ]
-  },
-  {
     "name": "Run Now Reborn",
-    "place": "24",
+    "place": "21",
     "id": "1069",
     "creators": "Shadow",
     "verifier": "Shadow",
     "video": "https://www.youtube.com/watch?v=bhm9qFtDpbw",
     "victors": [
-      "Shadow"
+      "Shadow",
+      "Safired"
     ]
   },
   {
     "name": "Yellow",
-    "place": "25",
+    "place": "22",
     "id": "627",
     "creators": "ced",
     "verifier": "ced",
@@ -388,7 +351,7 @@
   },
   {
     "name": "Wet In",
-    "place": "26",
+    "place": "23",
     "id": "20",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -404,7 +367,7 @@
   },
   {
     "name": "New Home",
-    "place": "27",
+    "place": "24",
     "id": "484",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -426,7 +389,7 @@
   },
   {
     "name": "Bliss",
-    "place": "28",
+    "place": "25",
     "id": "21",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -448,7 +411,7 @@
   },
   {
     "name": "Faithful",
-    "place": "29",
+    "place": "26",
     "id": "13",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -468,12 +431,14 @@
       "Innardss",
       "sScape",
       "Icey",
-      "Safired"
+      "Safired",
+      "OliversMilch",
+      "dachii"
     ]
   },
   {
     "name": "Cry About It",
-    "place": "30",
+    "place": "27",
     "id": "2",
     "creators": "Shadow",
     "verifier": "soley",
@@ -491,7 +456,7 @@
   },
   {
     "name": "DccJaasFdHHdvvteeeKs",
-    "place": "31",
+    "place": "28",
     "id": "549",
     "creators": "ced",
     "verifier": "ced",
@@ -511,7 +476,7 @@
   },
   {
     "name": "EvoCastle",
-    "place": "32",
+    "place": "29",
     "id": "266",
     "creators": "mzmr",
     "verifier": "denis",
@@ -534,7 +499,7 @@
   },
   {
     "name": "Hellish Land",
-    "place": "33",
+    "place": "30",
     "id": "647",
     "creators": "clubstep",
     "verifier": "Shadow",
@@ -556,7 +521,7 @@
   },
   {
     "name": "Inferno Step",
-    "place": "34",
+    "place": "31",
     "id": "437",
     "creators": "MolloPro",
     "verifier": "Shadow",
@@ -583,7 +548,7 @@
   },
   {
     "name": "Bound",
-    "place": "35",
+    "place": "32",
     "id": "510",
     "creators": "Zoink",
     "verifier": "Shadow",
@@ -610,12 +575,13 @@
       "Dact",
       "Meatballmoose",
       "dachii",
-      "YoumanGY"
+      "YoumanGY",
+      "Sarfired"
     ]
   },
   {
     "name": "Another Step",
-    "place": "36",
+    "place": "33",
     "id": "239",
     "creators": "Mzmr",
     "verifier": "denis",
@@ -644,7 +610,4 @@
       "dachii"
     ]
   }
-] 
- 
- 
- 
+]
