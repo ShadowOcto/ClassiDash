@@ -1,21 +1,22 @@
 [
   {
+    "player": "Hykre",
+    "points": 2398,
+    "badges": [
+      "1kPts",
+      "Top5",
+      "BeatTop1",
+      "BeatTop5",
+      "FirstVictor",
+      "Top1"
+    ]
+  },
+  {
     "player": "Lodomir",
     "points": 2348,
     "badges": [
       "Top1",
       "2kPts",
-      "1kPts",
-      "Top5",
-      "BeatTop1",
-      "BeatTop5",
-      "FirstVictor"
-    ]
-  },
-  {
-    "player": "Hykre",
-    "points": 1858,
-    "badges": [
       "1kPts",
       "Top5",
       "BeatTop1",
