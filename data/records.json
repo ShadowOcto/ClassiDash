@@ -204,6 +204,12 @@
     "points": 104
   },
   {
+    "player": "Shadow",
+    "level": "Bludareta",
+    "place": "8",
+    "points": 104
+  },
+  {
     "player": "soley",
     "level": "Solaris",
     "place": "9",
@@ -642,6 +648,12 @@
     "points": 57
   },
   {
+    "player": "nowar",
+    "level": "Destiny",
+    "place": "18",
+    "points": 57
+  },
+  {
     "player": "Hykre",
     "level": "Better Than Jesse",
     "place": "19",
@@ -859,6 +871,12 @@
   },
   {
     "player": "Hykre",
+    "level": "Wet In",
+    "place": "24",
+    "points": 45
+  },
+  {
+    "player": "Dact",
     "level": "Wet In",
     "place": "24",
     "points": 45

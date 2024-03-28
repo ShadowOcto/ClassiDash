@@ -58,7 +58,7 @@
   },
   {
     "player": "Shadow",
-    "points": 1058,
+    "points": 1162,
     "badges": [
       "1kPts",
       "Top5",
@@ -134,6 +134,11 @@
     "badges": []
   },
   {
+    "player": "Dact",
+    "points": 220,
+    "badges": []
+  },
+  {
     "player": "Safired",
     "points": 219,
     "badges": [
@@ -150,11 +155,6 @@
   {
     "player": "Godtier",
     "points": 213,
-    "badges": []
-  },
-  {
-    "player": "Dact",
-    "points": 175,
     "badges": []
   },
   {
@@ -185,6 +185,11 @@
   {
     "player": "AshDotMp3",
     "points": 112,
+    "badges": []
+  },
+  {
+    "player": "nowar",
+    "points": 111,
     "badges": []
   },
   {
@@ -232,11 +237,6 @@
   {
     "player": "YoumanGY",
     "points": 67,
-    "badges": []
-  },
-  {
-    "player": "nowar",
-    "points": 54,
     "badges": []
   },
   {
