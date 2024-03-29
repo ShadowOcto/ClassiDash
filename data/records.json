@@ -612,6 +612,12 @@
     "points": 60
   },
   {
+    "player": "nowar",
+    "level": "Eclipse",
+    "place": "17",
+    "points": 60
+  },
+  {
     "player": "soley",
     "level": "Destiny",
     "place": "18",
@@ -774,6 +780,12 @@
     "points": 48
   },
   {
+    "player": "Lodomir",
+    "level": "Run Now Reborn",
+    "place": "22",
+    "points": 48
+  },
+  {
     "player": "ced",
     "level": "Yellow",
     "place": "23",
@@ -882,6 +894,12 @@
     "points": 45
   },
   {
+    "player": "indeed",
+    "level": "Wet In",
+    "place": "24",
+    "points": 45
+  },
+  {
     "player": "Lodomir",
     "level": "New Home",
     "place": "25",
@@ -954,6 +972,18 @@
     "points": 43
   },
   {
+    "player": "Dact",
+    "level": "New Home",
+    "place": "25",
+    "points": 43
+  },
+  {
+    "player": "indeed",
+    "level": "New Home",
+    "place": "25",
+    "points": 43
+  },
+  {
     "player": "crasu",
     "level": "Bliss",
     "place": "26",
@@ -1021,6 +1051,12 @@
   },
   {
     "player": "Safired",
+    "level": "Bliss",
+    "place": "26",
+    "points": 42
+  },
+  {
+    "player": "indeed",
     "level": "Bliss",
     "place": "26",
     "points": 42
@@ -1128,6 +1164,24 @@
     "points": 40
   },
   {
+    "player": "OliversMilch",
+    "level": "Faithful",
+    "place": "27",
+    "points": 40
+  },
+  {
+    "player": "indeed",
+    "level": "Faithful",
+    "place": "27",
+    "points": 40
+  },
+  {
+    "player": "Cand3y",
+    "level": "Faithful",
+    "place": "27",
+    "points": 40
+  },
+  {
     "player": "soley",
     "level": "Cry About It",
     "place": "28",
@@ -1177,6 +1231,12 @@
   },
   {
     "player": "Hykre",
+    "level": "Cry About It",
+    "place": "28",
+    "points": 39
+  },
+  {
+    "player": "Sketchy",
     "level": "Cry About It",
     "place": "28",
     "points": 39
@@ -1243,6 +1303,12 @@
   },
   {
     "player": "Hykre",
+    "level": "DccJaasFdHHdvvteeeKs",
+    "place": "29",
+    "points": 38
+  },
+  {
+    "player": "indeed",
     "level": "DccJaasFdHHdvvteeeKs",
     "place": "29",
     "points": 38
@@ -1332,6 +1398,12 @@
     "points": 37
   },
   {
+    "player": "indeed",
+    "level": "EvoCastle",
+    "place": "30",
+    "points": 37
+  },
+  {
     "player": "Shadow",
     "level": "Hellish Land",
     "place": "31",
@@ -1399,6 +1471,18 @@
   },
   {
     "player": "dachii",
+    "level": "Hellish Land",
+    "place": "31",
+    "points": 36
+  },
+  {
+    "player": "ILoveWinter",
+    "level": "Hellish Land",
+    "place": "31",
+    "points": 36
+  },
+  {
+    "player": "indeed",
     "level": "Hellish Land",
     "place": "31",
     "points": 36
@@ -1507,6 +1591,12 @@
   },
   {
     "player": "Hykre",
+    "level": "Inferno Step",
+    "place": "32",
+    "points": 35
+  },
+  {
+    "player": "indeed",
     "level": "Inferno Step",
     "place": "32",
     "points": 35
@@ -1656,6 +1746,24 @@
     "points": 34
   },
   {
+    "player": "ILoveWinter",
+    "level": "Bound",
+    "place": "33",
+    "points": 34
+  },
+  {
+    "player": "indeed",
+    "level": "Bound",
+    "place": "33",
+    "points": 34
+  },
+  {
+    "player": "Febz",
+    "level": "Bound",
+    "place": "33",
+    "points": 34
+  },
+  {
     "player": "denis",
     "level": "Another Step",
     "place": "34",
@@ -1783,6 +1891,24 @@
   },
   {
     "player": "Hykre",
+    "level": "Another Step",
+    "place": "34",
+    "points": 33
+  },
+  {
+    "player": "GovisLost",
+    "level": "Another Step",
+    "place": "34",
+    "points": 33
+  },
+  {
+    "player": "ILoveWinter",
+    "level": "Another Step",
+    "place": "34",
+    "points": 33
+  },
+  {
+    "player": "indeed",
     "level": "Another Step",
     "place": "34",
     "points": 33

@@ -1,7 +1,7 @@
 [
   {
     "player": "Lodomir",
-    "points": 2383,
+    "points": 2431,
     "badges": [
       "Top1",
       "2kPts",
@@ -104,6 +104,31 @@
     "badges": []
   },
   {
+    "player": "indeed",
+    "points": 383,
+    "badges": []
+  },
+  {
+    "player": "indeed",
+    "points": 383,
+    "badges": [
+      "FirstVictor"
+    ]
+  },
+  {
+    "player": "indeed",
+    "points": 383,
+    "badges": [
+      "1kPts",
+      "Top5",
+      "BeatTop1",
+      "BeatTop5",
+      "FirstVictor",
+      "Top1",
+      "2kPts"
+    ]
+  },
+  {
     "player": "dachii",
     "points": 299,
     "badges": []
@@ -124,6 +149,11 @@
     "badges": []
   },
   {
+    "player": "Dact",
+    "points": 263,
+    "badges": []
+  },
+  {
     "player": "Icey",
     "points": 240,
     "badges": []
@@ -131,11 +161,6 @@
   {
     "player": "Oblivionus",
     "points": 231,
-    "badges": []
-  },
-  {
-    "player": "Dact",
-    "points": 220,
     "badges": []
   },
   {
@@ -155,6 +180,11 @@
   {
     "player": "Godtier",
     "points": 213,
+    "badges": []
+  },
+  {
+    "player": "nowar",
+    "points": 171,
     "badges": []
   },
   {
@@ -188,9 +218,22 @@
     "badges": []
   },
   {
-    "player": "nowar",
-    "points": 111,
+    "player": "ILoveWinter",
+    "points": 103,
     "badges": []
+  },
+  {
+    "player": "ILoveWinter",
+    "points": 103,
+    "badges": [
+      "1kPts",
+      "Top5",
+      "BeatTop1",
+      "BeatTop5",
+      "FirstVictor",
+      "Top1",
+      "2kPts"
+    ]
   },
   {
     "player": "nico",
@@ -207,6 +250,11 @@
   {
     "player": "MONKE",
     "points": 83,
+    "badges": []
+  },
+  {
+    "player": "OliversMilch",
+    "points": 80,
     "badges": []
   },
   {
@@ -245,9 +293,22 @@
     "badges": []
   },
   {
-    "player": "OliversMilch",
+    "player": "Cand3y",
     "points": 40,
     "badges": []
+  },
+  {
+    "player": "Sketchy",
+    "points": 39,
+    "badges": [
+      "1kPts",
+      "Top5",
+      "BeatTop1",
+      "BeatTop5",
+      "FirstVictor",
+      "Top1",
+      "2kPts"
+    ]
   },
   {
     "player": "Krillz",
@@ -273,5 +334,31 @@
     "player": "Sarfired",
     "points": 34,
     "badges": []
+  },
+  {
+    "player": "Febz",
+    "points": 34,
+    "badges": [
+      "1kPts",
+      "Top5",
+      "BeatTop1",
+      "BeatTop5",
+      "FirstVictor",
+      "Top1",
+      "2kPts"
+    ]
+  },
+  {
+    "player": "GovisLost",
+    "points": 33,
+    "badges": [
+      "1kPts",
+      "Top5",
+      "BeatTop1",
+      "BeatTop5",
+      "FirstVictor",
+      "Top1",
+      "2kPts"
+    ]
   }
 ]
