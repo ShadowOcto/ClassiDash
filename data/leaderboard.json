@@ -134,6 +134,13 @@
     "badges": []
   },
   {
+    "player": "Safired",
+    "points": 253,
+    "badges": [
+      "FirstVictor"
+    ]
+  },
+  {
     "player": "Icey",
     "points": 240,
     "badges": []
@@ -142,13 +149,6 @@
     "player": "Oblivionus",
     "points": 231,
     "badges": []
-  },
-  {
-    "player": "Safired",
-    "points": 219,
-    "badges": [
-      "FirstVictor"
-    ]
   },
   {
     "player": "Hexeract",
@@ -160,6 +160,11 @@
   {
     "player": "Godtier",
     "points": 213,
+    "badges": []
+  },
+  {
+    "player": "ILoveWinter",
+    "points": 181,
     "badges": []
   },
   {
@@ -195,11 +200,6 @@
   {
     "player": "AshDotMp3",
     "points": 112,
-    "badges": []
-  },
-  {
-    "player": "ILoveWinter",
-    "points": 103,
     "badges": []
   },
   {
@@ -286,11 +286,6 @@
   },
   {
     "player": "vurb",
-    "points": 34,
-    "badges": []
-  },
-  {
-    "player": "Sarfired",
     "points": 34,
     "badges": []
   },

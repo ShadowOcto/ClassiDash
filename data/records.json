@@ -984,6 +984,12 @@
     "points": 43
   },
   {
+    "player": "ILoveWinter",
+    "level": "New Home",
+    "place": "25",
+    "points": 43
+  },
+  {
     "player": "crasu",
     "level": "Bliss",
     "place": "26",
@@ -1602,6 +1608,12 @@
     "points": 35
   },
   {
+    "player": "ILoveWinter",
+    "level": "Inferno Step",
+    "place": "32",
+    "points": 35
+  },
+  {
     "player": "Shadow",
     "level": "Bound",
     "place": "33",
@@ -1734,7 +1746,7 @@
     "points": 34
   },
   {
-    "player": "Sarfired",
+    "player": "Safired",
     "level": "Bound",
     "place": "33",
     "points": 34
