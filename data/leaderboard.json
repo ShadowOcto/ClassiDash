@@ -118,15 +118,7 @@
   {
     "player": "indeed",
     "points": 383,
-    "badges": [
-      "1kPts",
-      "Top5",
-      "BeatTop1",
-      "BeatTop5",
-      "FirstVictor",
-      "Top1",
-      "2kPts"
-    ]
+    "badges": []
   },
   {
     "player": "dachii",
@@ -225,15 +217,7 @@
   {
     "player": "ILoveWinter",
     "points": 103,
-    "badges": [
-      "1kPts",
-      "Top5",
-      "BeatTop1",
-      "BeatTop5",
-      "FirstVictor",
-      "Top1",
-      "2kPts"
-    ]
+    "badges": []
   },
   {
     "player": "nico",
@@ -300,15 +284,7 @@
   {
     "player": "Sketchy",
     "points": 39,
-    "badges": [
-      "1kPts",
-      "Top5",
-      "BeatTop1",
-      "BeatTop5",
-      "FirstVictor",
-      "Top1",
-      "2kPts"
-    ]
+    "badges": []
   },
   {
     "player": "Krillz",
@@ -338,27 +314,11 @@
   {
     "player": "Febz",
     "points": 34,
-    "badges": [
-      "1kPts",
-      "Top5",
-      "BeatTop1",
-      "BeatTop5",
-      "FirstVictor",
-      "Top1",
-      "2kPts"
-    ]
+    "badges": []
   },
   {
     "player": "GovisLost",
     "points": 33,
-    "badges": [
-      "1kPts",
-      "Top5",
-      "BeatTop1",
-      "BeatTop5",
-      "FirstVictor",
-      "Top1",
-      "2kPts"
-    ]
+    "badges": []
   }
 ]
