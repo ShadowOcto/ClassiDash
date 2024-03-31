@@ -6,6 +6,12 @@
     "points": 250
   },
   {
+    "player": "Th13teen",
+    "level": "Forced",
+    "place": "1",
+    "points": 250
+  },
+  {
     "player": "denis",
     "level": "Achelous",
     "place": "2",
@@ -115,6 +121,12 @@
   },
   {
     "player": "Hexeract",
+    "level": "no chance",
+    "place": "6",
+    "points": 125
+  },
+  {
+    "player": "TCaleb",
     "level": "no chance",
     "place": "6",
     "points": 125
@@ -468,6 +480,12 @@
     "points": 69
   },
   {
+    "player": "ItzzElijah",
+    "level": "Meowareta",
+    "place": "14",
+    "points": 69
+  },
+  {
     "player": "denis",
     "level": "Resonating",
     "place": "15",
@@ -714,6 +732,18 @@
     "points": 52
   },
   {
+    "player": "w3ntr",
+    "level": "Worse Than Jeongi",
+    "place": "20",
+    "points": 52
+  },
+  {
+    "player": "Jayxofc",
+    "level": "Worse Than Jeongi",
+    "place": "20",
+    "points": 52
+  },
+  {
     "player": "Shadow",
     "level": "Fantasy",
     "place": "21",
@@ -841,6 +871,12 @@
   },
   {
     "player": "Hykre",
+    "level": "Yellow",
+    "place": "23",
+    "points": 46
+  },
+  {
+    "player": "Jayxofc",
     "level": "Yellow",
     "place": "23",
     "points": 46
@@ -990,6 +1026,18 @@
     "points": 43
   },
   {
+    "player": "Cand3y",
+    "level": "New Home",
+    "place": "25",
+    "points": 43
+  },
+  {
+    "player": "Jayxofc",
+    "level": "New Home",
+    "place": "25",
+    "points": 43
+  },
+  {
     "player": "crasu",
     "level": "Bliss",
     "place": "26",
@@ -1063,6 +1111,12 @@
   },
   {
     "player": "indeed",
+    "level": "Bliss",
+    "place": "26",
+    "points": 42
+  },
+  {
+    "player": "Jayxofc",
     "level": "Bliss",
     "place": "26",
     "points": 42
@@ -1188,6 +1242,12 @@
     "points": 40
   },
   {
+    "player": "Jayxofc",
+    "level": "Faithful",
+    "place": "27",
+    "points": 40
+  },
+  {
     "player": "soley",
     "level": "Cry About It",
     "place": "28",
@@ -1243,6 +1303,12 @@
   },
   {
     "player": "Sketchy",
+    "level": "Cry About It",
+    "place": "28",
+    "points": 39
+  },
+  {
+    "player": "Jayxofc",
     "level": "Cry About It",
     "place": "28",
     "points": 39
@@ -1315,6 +1381,12 @@
   },
   {
     "player": "indeed",
+    "level": "DccJaasFdHHdvvteeeKs",
+    "place": "29",
+    "points": 38
+  },
+  {
+    "player": "Jayxofc",
     "level": "DccJaasFdHHdvvteeeKs",
     "place": "29",
     "points": 38
@@ -1410,6 +1482,12 @@
     "points": 37
   },
   {
+    "player": "Jayxofc",
+    "level": "EvoCastle",
+    "place": "30",
+    "points": 37
+  },
+  {
     "player": "Shadow",
     "level": "Hellish Land",
     "place": "31",
@@ -1489,6 +1567,24 @@
   },
   {
     "player": "indeed",
+    "level": "Hellish Land",
+    "place": "31",
+    "points": 36
+  },
+  {
+    "player": "Turek",
+    "level": "Hellish Land",
+    "place": "31",
+    "points": 36
+  },
+  {
+    "player": "Igloo",
+    "level": "Hellish Land",
+    "place": "31",
+    "points": 36
+  },
+  {
+    "player": "Jayxofc",
     "level": "Hellish Land",
     "place": "31",
     "points": 36
@@ -1609,6 +1705,24 @@
   },
   {
     "player": "ILoveWinter",
+    "level": "Inferno Step",
+    "place": "32",
+    "points": 35
+  },
+  {
+    "player": "zonkers",
+    "level": "Inferno Step",
+    "place": "32",
+    "points": 35
+  },
+  {
+    "player": "Turek",
+    "level": "Inferno Step",
+    "place": "32",
+    "points": 35
+  },
+  {
+    "player": "Jayxofc",
     "level": "Inferno Step",
     "place": "32",
     "points": 35
@@ -1776,6 +1890,18 @@
     "points": 34
   },
   {
+    "player": "w3ntr",
+    "level": "Bound",
+    "place": "33",
+    "points": 34
+  },
+  {
+    "player": "Jayxofc",
+    "level": "Bound",
+    "place": "33",
+    "points": 34
+  },
+  {
     "player": "denis",
     "level": "Another Step",
     "place": "34",
@@ -1921,6 +2047,12 @@
   },
   {
     "player": "indeed",
+    "level": "Another Step",
+    "place": "34",
+    "points": 33
+  },
+  {
+    "player": "Jayxofc",
     "level": "Another Step",
     "place": "34",
     "points": 33
