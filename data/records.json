@@ -222,6 +222,12 @@
     "points": 104
   },
   {
+    "player": "Cand3y",
+    "level": "Bludareta",
+    "place": "8",
+    "points": 104
+  },
+  {
     "player": "soley",
     "level": "Solaris",
     "place": "9",
@@ -498,6 +504,12 @@
     "points": 66
   },
   {
+    "player": "walker",
+    "level": "Meowareta",
+    "place": "15",
+    "points": 66
+  },
+  {
     "player": "denis",
     "level": "Resonating",
     "place": "16",
@@ -601,6 +613,18 @@
   },
   {
     "player": "Lucky",
+    "level": "Night",
+    "place": "17",
+    "points": 60
+  },
+  {
+    "player": "ItzzElijah",
+    "level": "Night",
+    "place": "17",
+    "points": 60
+  },
+  {
+    "player": "Cand3y",
     "level": "Night",
     "place": "17",
     "points": 60
@@ -817,6 +841,12 @@
   },
   {
     "player": "Hykre",
+    "level": "Something Spacey",
+    "place": "23",
+    "points": 46
+  },
+  {
+    "player": "Febz",
     "level": "Something Spacey",
     "place": "23",
     "points": 46
@@ -1639,6 +1669,12 @@
   },
   {
     "player": "TCaleb",
+    "level": "Hellish Land",
+    "place": "33",
+    "points": 34
+  },
+  {
+    "player": "Febz",
     "level": "Hellish Land",
     "place": "33",
     "points": 34
