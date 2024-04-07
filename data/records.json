@@ -42,6 +42,12 @@
     "points": 179
   },
   {
+    "player": "Lodomir",
+    "level": "BURN",
+    "place": "3",
+    "points": 179
+  },
+  {
     "player": "soley",
     "level": "Untamed",
     "place": "4",
@@ -552,134 +558,140 @@
     "points": 60
   },
   {
-    "player": "soley",
-    "level": "Night",
+    "player": "Lodomir",
+    "level": "Eclipse",
     "place": "18",
     "points": 57
   },
   {
     "player": "denis",
-    "level": "Night",
-    "place": "18",
-    "points": 57
-  },
-  {
-    "player": "Hykre",
-    "level": "Night",
-    "place": "18",
-    "points": 57
-  },
-  {
-    "player": "Lodomir",
-    "level": "Night",
-    "place": "18",
-    "points": 57
-  },
-  {
-    "player": "cubepilot",
-    "level": "Night",
-    "place": "18",
-    "points": 57
-  },
-  {
-    "player": "crasu",
-    "level": "Night",
-    "place": "18",
-    "points": 57
-  },
-  {
-    "player": "Shadow",
-    "level": "Night",
-    "place": "18",
-    "points": 57
-  },
-  {
-    "player": "geodom",
-    "level": "Night",
-    "place": "18",
-    "points": 57
-  },
-  {
-    "player": "Syrcx",
-    "level": "Night",
-    "place": "18",
-    "points": 57
-  },
-  {
-    "player": "Oblivionus",
-    "level": "Night",
-    "place": "18",
-    "points": 57
-  },
-  {
-    "player": "Innardss",
-    "level": "Night",
-    "place": "18",
-    "points": 57
-  },
-  {
-    "player": "Lucky",
-    "level": "Night",
-    "place": "18",
-    "points": 57
-  },
-  {
-    "player": "ItzzElijah",
-    "level": "Night",
-    "place": "18",
-    "points": 57
-  },
-  {
-    "player": "Cand3y",
-    "level": "Night",
-    "place": "18",
-    "points": 57
-  },
-  {
-    "player": "Lodomir",
     "level": "Eclipse",
-    "place": "19",
-    "points": 54
-  },
-  {
-    "player": "denis",
-    "level": "Eclipse",
-    "place": "19",
-    "points": 54
+    "place": "18",
+    "points": 57
   },
   {
     "player": "soley",
     "level": "Eclipse",
-    "place": "19",
-    "points": 54
+    "place": "18",
+    "points": 57
   },
   {
     "player": "geodom",
     "level": "Eclipse",
-    "place": "19",
-    "points": 54
+    "place": "18",
+    "points": 57
   },
   {
     "player": "Syrcx",
     "level": "Eclipse",
-    "place": "19",
-    "points": 54
+    "place": "18",
+    "points": 57
   },
   {
     "player": "Hykre",
     "level": "Eclipse",
-    "place": "19",
-    "points": 54
+    "place": "18",
+    "points": 57
   },
   {
     "player": "nowar",
     "level": "Eclipse",
-    "place": "19",
-    "points": 54
+    "place": "18",
+    "points": 57
   },
   {
     "player": "Febz",
     "level": "Eclipse",
+    "place": "18",
+    "points": 57
+  },
+  {
+    "player": "soley",
+    "level": "Night",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "denis",
+    "level": "Night",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "Hykre",
+    "level": "Night",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "Lodomir",
+    "level": "Night",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "cubepilot",
+    "level": "Night",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "crasu",
+    "level": "Night",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "Shadow",
+    "level": "Night",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "geodom",
+    "level": "Night",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "Syrcx",
+    "level": "Night",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "Oblivionus",
+    "level": "Night",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "Innardss",
+    "level": "Night",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "Lucky",
+    "level": "Night",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "ItzzElijah",
+    "level": "Night",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "Cand3y",
+    "level": "Night",
+    "place": "19",
+    "points": 54
+  },
+  {
+    "player": "capsalamii",
+    "level": "Night",
     "place": "19",
     "points": 54
   },
@@ -727,73 +739,73 @@
   },
   {
     "player": "Hykre",
-    "level": "Better Than Jesse",
+    "level": "Worse Than Jeongi",
     "place": "21",
     "points": 50
   },
   {
-    "player": "Shadow",
-    "level": "Better Than Jesse",
+    "player": "Oblivionus",
+    "level": "Worse Than Jeongi",
     "place": "21",
     "points": 50
   },
   {
     "player": "geodom",
-    "level": "Better Than Jesse",
+    "level": "Worse Than Jeongi",
     "place": "21",
     "points": 50
   },
   {
     "player": "Lodomir",
-    "level": "Better Than Jesse",
+    "level": "Worse Than Jeongi",
     "place": "21",
     "points": 50
   },
   {
-    "player": "nowar",
-    "level": "Better Than Jesse",
+    "player": "w3ntr",
+    "level": "Worse Than Jeongi",
+    "place": "21",
+    "points": 50
+  },
+  {
+    "player": "Jayxofc",
+    "level": "Worse Than Jeongi",
+    "place": "21",
+    "points": 50
+  },
+  {
+    "player": "ILoveWinter",
+    "level": "Worse Than Jeongi",
     "place": "21",
     "points": 50
   },
   {
     "player": "Hykre",
-    "level": "Worse Than Jeongi",
+    "level": "Better Than Jesse",
     "place": "22",
     "points": 48
   },
   {
-    "player": "Oblivionus",
-    "level": "Worse Than Jeongi",
+    "player": "Shadow",
+    "level": "Better Than Jesse",
     "place": "22",
     "points": 48
   },
   {
     "player": "geodom",
-    "level": "Worse Than Jeongi",
+    "level": "Better Than Jesse",
     "place": "22",
     "points": 48
   },
   {
     "player": "Lodomir",
-    "level": "Worse Than Jeongi",
+    "level": "Better Than Jesse",
     "place": "22",
     "points": 48
   },
   {
-    "player": "w3ntr",
-    "level": "Worse Than Jeongi",
-    "place": "22",
-    "points": 48
-  },
-  {
-    "player": "Jayxofc",
-    "level": "Worse Than Jeongi",
-    "place": "22",
-    "points": 48
-  },
-  {
-    "player": "ILoveWinter",
-    "level": "Worse Than Jeongi",
+    "player": "nowar",
+    "level": "Better Than Jesse",
     "place": "22",
     "points": 48
   },
@@ -853,6 +865,18 @@
   },
   {
     "player": "Febz",
+    "level": "Something Spacey",
+    "place": "24",
+    "points": 45
+  },
+  {
+    "player": "TCaleb",
+    "level": "Something Spacey",
+    "place": "24",
+    "points": 45
+  },
+  {
+    "player": "capsalamii",
     "level": "Something Spacey",
     "place": "24",
     "points": 45
@@ -1128,6 +1152,12 @@
     "points": 39
   },
   {
+    "player": "astronomical",
+    "level": "New Home",
+    "place": "28",
+    "points": 39
+  },
+  {
     "player": "crasu",
     "level": "Bliss",
     "place": "29",
@@ -1578,6 +1608,12 @@
     "points": 34
   },
   {
+    "player": "spaceus",
+    "level": "EvoCastle",
+    "place": "33",
+    "points": 34
+  },
+  {
     "player": "Shadow",
     "level": "Hellish Land",
     "place": "34",
@@ -1687,6 +1723,12 @@
   },
   {
     "player": "Febz",
+    "level": "Hellish Land",
+    "place": "34",
+    "points": 33
+  },
+  {
+    "player": "neppo",
     "level": "Hellish Land",
     "place": "34",
     "points": 33
@@ -2185,6 +2227,12 @@
   },
   {
     "player": "CC15",
+    "level": "Another Step",
+    "place": "37",
+    "points": 30
+  },
+  {
+    "player": "spaceus",
     "level": "Another Step",
     "place": "37",
     "points": 30

@@ -1,7 +1,7 @@
 [
   {
     "player": "Lodomir",
-    "points": 2231,
+    "points": 2410,
     "badges": [
       "Top1",
       "2kPts",
@@ -58,7 +58,7 @@
   },
   {
     "player": "Shadow",
-    "points": 1068,
+    "points": 1063,
     "badges": [
       "1kPts",
       "Top5",
@@ -78,7 +78,7 @@
   },
   {
     "player": "crasu",
-    "points": 684,
+    "points": 681,
     "badges": [
       "BeatTop1",
       "BeatTop5"
@@ -86,7 +86,7 @@
   },
   {
     "player": "Lucky",
-    "points": 640,
+    "points": 637,
     "badges": [
       "BeatTop1",
       "BeatTop5",
@@ -95,12 +95,12 @@
   },
   {
     "player": "TCaleb",
-    "points": 563,
+    "points": 608,
     "badges": []
   },
   {
     "player": "Jayxofc",
-    "points": 435,
+    "points": 437,
     "badges": []
   },
   {
@@ -154,7 +154,7 @@
   },
   {
     "player": "Cand3y",
-    "points": 229,
+    "points": 226,
     "badges": []
   },
   {
@@ -164,12 +164,12 @@
   },
   {
     "player": "ILoveWinter",
-    "points": 213,
+    "points": 215,
     "badges": []
   },
   {
     "player": "Oblivionus",
-    "points": 210,
+    "points": 209,
     "badges": []
   },
   {
@@ -180,28 +180,28 @@
     ]
   },
   {
+    "player": "Febz",
+    "points": 196,
+    "badges": []
+  },
+  {
     "player": "Godtier",
     "points": 195,
     "badges": []
   },
   {
-    "player": "Febz",
-    "points": 193,
-    "badges": []
-  },
-  {
     "player": "nowar",
-    "points": 156,
+    "points": 157,
     "badges": []
   },
   {
     "player": "cubepilot",
-    "points": 146,
+    "points": 143,
     "badges": []
   },
   {
     "player": "Innardss",
-    "points": 129,
+    "points": 126,
     "badges": []
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "player": "ItzzElijah",
-    "points": 119,
+    "points": 116,
     "badges": []
   },
   {
@@ -232,6 +232,11 @@
   {
     "player": "AshDotMp3",
     "points": 101,
+    "badges": []
+  },
+  {
+    "player": "capsalamii",
+    "points": 99,
     "badges": []
   },
   {
@@ -246,7 +251,7 @@
   },
   {
     "player": "w3ntr",
-    "points": 79,
+    "points": 81,
     "badges": []
   },
   {
@@ -272,8 +277,18 @@
     "badges": []
   },
   {
+    "player": "neppo",
+    "points": 72,
+    "badges": []
+  },
+  {
     "player": "zonkers",
     "points": 71,
+    "badges": []
+  },
+  {
+    "player": "spaceus",
+    "points": 64,
     "badges": []
   },
   {
@@ -307,12 +322,12 @@
     "badges": []
   },
   {
-    "player": "neppo",
+    "player": "Donxxxt",
     "points": 39,
     "badges": []
   },
   {
-    "player": "Donxxxt",
+    "player": "astronomical",
     "points": 39,
     "badges": []
   },

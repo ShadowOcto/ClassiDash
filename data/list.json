@@ -33,7 +33,8 @@
     "verifier": "soley",
     "video": "https://www.youtube.com/watch?v=-p1NSTRDhdc",
     "victors": [
-      "soley"
+      "soley",
+      "Lodomir"
     ]
   },
   {
@@ -262,8 +263,26 @@
     ]
   },
   {
-    "name": "Night",
+    "name": "Eclipse",
     "place": "18",
+    "id": "6",
+    "creators": "Shadow",
+    "verifier": "Lodomir",
+    "video": "https://www.youtube.com/watch?v=ALWiohNsfYY",
+    "victors": [
+      "Lodomir",
+      "denis",
+      "soley",
+      "geodom",
+      "Syrcx",
+      "Hykre",
+      "nowar",
+      "Febz"
+    ]
+  },
+  {
+    "name": "Night",
+    "place": "19",
     "id": "3",
     "creators": "Shadow",
     "verifier": "soley",
@@ -282,25 +301,8 @@
       "Innardss",
       "Lucky",
       "ItzzElijah",
-      "Cand3y"
-    ]
-  },
-  {
-    "name": "Eclipse",
-    "place": "19",
-    "id": "6",
-    "creators": "Shadow",
-    "verifier": "Lodomir",
-    "video": "https://www.youtube.com/watch?v=ALWiohNsfYY",
-    "victors": [
-      "Lodomir",
-      "denis",
-      "soley",
-      "geodom",
-      "Syrcx",
-      "Hykre",
-      "nowar",
-      "Febz"
+      "Cand3y",
+      "capsalamii"
     ]
   },
   {
@@ -321,23 +323,8 @@
     ]
   },
   {
-    "name": "Better Than Jesse",
-    "place": "21",
-    "id": "833",
-    "creators": "Shadow",
-    "verifier": "Hykre",
-    "video": "https://www.youtube.com/watch?v=BWNMA_L7ZDQ",
-    "victors": [
-      "Hykre",
-      "Shadow",
-      "geodom",
-      "Lodomir",
-      "nowar"
-    ]
-  },
-  {
     "name": "Worse Than Jeongi",
-    "place": "22",
+    "place": "21",
     "id": "780",
     "creators": "HomeFish",
     "verifier": "Hykre",
@@ -350,6 +337,21 @@
       "w3ntr",
       "Jayxofc",
       "ILoveWinter"
+    ]
+  },
+  {
+    "name": "Better Than Jesse",
+    "place": "22",
+    "id": "833",
+    "creators": "Shadow",
+    "verifier": "Hykre",
+    "video": "https://www.youtube.com/watch?v=BWNMA_L7ZDQ",
+    "victors": [
+      "Hykre",
+      "Shadow",
+      "geodom",
+      "Lodomir",
+      "nowar"
     ]
   },
   {
@@ -379,7 +381,9 @@
     "video": "https://www.youtube.com/watch?v=dNrgeRgm2vQ",
     "victors": [
       "Hykre",
-      "Febz"
+      "Febz",
+      "TCaleb",
+      "capsalamii"
     ]
   },
   {
@@ -464,7 +468,8 @@
       "Jayxofc",
       "zonkers",
       "Donxxxt",
-      "Sketchy"
+      "Sketchy",
+      "astronomical"
     ]
   },
   {
@@ -589,7 +594,8 @@
       "Dact",
       "Hykre",
       "indeed",
-      "Jayxofc"
+      "Jayxofc",
+      "spaceus"
     ]
   },
   {
@@ -618,7 +624,8 @@
       "Igloo",
       "Jayxofc",
       "TCaleb",
-      "Febz"
+      "Febz",
+      "neppo"
     ]
   },
   {
@@ -731,7 +738,8 @@
       "Jayxofc",
       "Febz",
       "TCaleb",
-      "CC15"
+      "CC15",
+      "spaceus"
     ]
   }
 ]
