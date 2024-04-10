@@ -48,6 +48,18 @@
     "points": 179
   },
   {
+    "player": "Hykre",
+    "level": "BURN",
+    "place": "3",
+    "points": 179
+  },
+  {
+    "player": "Th13teen",
+    "level": "BURN",
+    "place": "3",
+    "points": 179
+  },
+  {
     "player": "soley",
     "level": "Untamed",
     "place": "4",
@@ -85,6 +97,12 @@
   },
   {
     "player": "Hykre",
+    "level": "DIOPSY",
+    "place": "5",
+    "points": 139
+  },
+  {
+    "player": "Th13teen",
     "level": "DIOPSY",
     "place": "5",
     "points": 139
@@ -882,6 +900,12 @@
     "points": 45
   },
   {
+    "player": "Icey",
+    "level": "Something Spacey",
+    "place": "24",
+    "points": 45
+  },
+  {
     "player": "Shadow",
     "level": "Run Now Reborn",
     "place": "25",
@@ -973,6 +997,12 @@
   },
   {
     "player": "TCaleb",
+    "level": "Yellow",
+    "place": "26",
+    "points": 42
+  },
+  {
+    "player": "Icey",
     "level": "Yellow",
     "place": "26",
     "points": 42
@@ -1878,6 +1908,12 @@
     "points": 32
   },
   {
+    "player": "Febz",
+    "level": "Inferno Step",
+    "place": "35",
+    "points": 32
+  },
+  {
     "player": "Shadow",
     "level": "Bound",
     "place": "36",
@@ -2058,6 +2094,12 @@
     "points": 31
   },
   {
+    "player": "delta",
+    "level": "Bound",
+    "place": "36",
+    "points": 31
+  },
+  {
     "player": "denis",
     "level": "Another Step",
     "place": "37",
@@ -2233,6 +2275,12 @@
   },
   {
     "player": "spaceus",
+    "level": "Another Step",
+    "place": "37",
+    "points": 30
+  },
+  {
+    "player": "WaLoe",
     "level": "Another Step",
     "place": "37",
     "points": 30
