@@ -12,6 +12,12 @@
     "points": 250
   },
   {
+    "player": "Hykre",
+    "level": "Forced",
+    "place": "1",
+    "points": 250
+  },
+  {
     "player": "denis",
     "level": "Achelous",
     "place": "2",
@@ -1188,6 +1194,12 @@
     "points": 39
   },
   {
+    "player": "Febz",
+    "level": "New Home",
+    "place": "28",
+    "points": 39
+  },
+  {
     "player": "crasu",
     "level": "Bliss",
     "place": "29",
@@ -1914,6 +1926,12 @@
     "points": 32
   },
   {
+    "player": "WaLoe",
+    "level": "Inferno Step",
+    "place": "35",
+    "points": 32
+  },
+  {
     "player": "Shadow",
     "level": "Bound",
     "place": "36",
@@ -2095,6 +2113,12 @@
   },
   {
     "player": "delta",
+    "level": "Bound",
+    "place": "36",
+    "points": 31
+  },
+  {
+    "player": "WaLoe",
     "level": "Bound",
     "place": "36",
     "points": 31

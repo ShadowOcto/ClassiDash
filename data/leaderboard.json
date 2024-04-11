@@ -1,5 +1,18 @@
 [
   {
+    "player": "Hykre",
+    "points": 2649,
+    "badges": [
+      "1kPts",
+      "Top5",
+      "BeatTop1",
+      "BeatTop5",
+      "FirstVictor",
+      "Top1",
+      "2kPts"
+    ]
+  },
+  {
     "player": "Lodomir",
     "points": 2410,
     "badges": [
@@ -10,19 +23,6 @@
       "BeatTop1",
       "BeatTop5",
       "FirstVictor"
-    ]
-  },
-  {
-    "player": "Hykre",
-    "points": 2399,
-    "badges": [
-      "1kPts",
-      "Top5",
-      "BeatTop1",
-      "BeatTop5",
-      "FirstVictor",
-      "Top1",
-      "2kPts"
     ]
   },
   {
@@ -136,6 +136,11 @@
     "badges": []
   },
   {
+    "player": "Febz",
+    "points": 267,
+    "badges": []
+  },
+  {
     "player": "caddydaddy123",
     "points": 257,
     "badges": []
@@ -156,11 +161,6 @@
     "badges": [
       "FirstVictor"
     ]
-  },
-  {
-    "player": "Febz",
-    "points": 228,
-    "badges": []
   },
   {
     "player": "Cand3y",
@@ -246,6 +246,11 @@
   },
   {
     "player": "nico",
+    "points": 93,
+    "badges": []
+  },
+  {
+    "player": "WaLoe",
     "points": 93,
     "badges": []
   },
@@ -358,11 +363,6 @@
   },
   {
     "player": "GovisLost",
-    "points": 30,
-    "badges": []
-  },
-  {
-    "player": "WaLoe",
     "points": 30,
     "badges": []
   }
