@@ -42,6 +42,12 @@
     "points": 208
   },
   {
+    "player": "Th13teen",
+    "level": "Achelous",
+    "place": "2",
+    "points": 208
+  },
+  {
     "player": "soley",
     "level": "BURN",
     "place": "3",
@@ -546,6 +552,18 @@
     "points": 62
   },
   {
+    "player": "w3ntr",
+    "level": "Meowareta",
+    "place": "16",
+    "points": 62
+  },
+  {
+    "player": "cubepilot",
+    "level": "Meowareta",
+    "place": "16",
+    "points": 62
+  },
+  {
     "player": "denis",
     "level": "Resonating",
     "place": "17",
@@ -720,6 +738,12 @@
     "points": 54
   },
   {
+    "player": "ILoveWinter",
+    "level": "Night",
+    "place": "19",
+    "points": 54
+  },
+  {
     "player": "soley",
     "level": "Destiny",
     "place": "20",
@@ -799,6 +823,12 @@
   },
   {
     "player": "ILoveWinter",
+    "level": "Worse Than Jeongi",
+    "place": "21",
+    "points": 50
+  },
+  {
+    "player": "bigfish23",
     "level": "Worse Than Jeongi",
     "place": "21",
     "points": 50
@@ -912,6 +942,12 @@
     "points": 45
   },
   {
+    "player": "dachii",
+    "level": "Something Spacey",
+    "place": "24",
+    "points": 45
+  },
+  {
     "player": "Shadow",
     "level": "Run Now Reborn",
     "place": "25",
@@ -1009,6 +1045,12 @@
   },
   {
     "player": "Icey",
+    "level": "Yellow",
+    "place": "26",
+    "points": 42
+  },
+  {
+    "player": "w3ntr",
     "level": "Yellow",
     "place": "26",
     "points": 42
@@ -1554,6 +1596,18 @@
     "points": 35
   },
   {
+    "player": "spaceus",
+    "level": "DccJaasFdHHdvvteeeKs",
+    "place": "32",
+    "points": 35
+  },
+  {
+    "player": "WaLoe",
+    "level": "DccJaasFdHHdvvteeeKs",
+    "place": "32",
+    "points": 35
+  },
+  {
     "player": "denis",
     "level": "EvoCastle",
     "place": "33",
@@ -1776,6 +1830,18 @@
     "points": 33
   },
   {
+    "player": "WaLoe",
+    "level": "Hellish Land",
+    "place": "34",
+    "points": 33
+  },
+  {
+    "player": "Sketchy",
+    "level": "Hellish Land",
+    "place": "34",
+    "points": 33
+  },
+  {
     "player": "Shadow",
     "level": "Inferno Step",
     "place": "35",
@@ -1927,6 +1993,12 @@
   },
   {
     "player": "WaLoe",
+    "level": "Inferno Step",
+    "place": "35",
+    "points": 32
+  },
+  {
+    "player": "Sketchy",
     "level": "Inferno Step",
     "place": "35",
     "points": 32
@@ -2124,6 +2196,24 @@
     "points": 31
   },
   {
+    "player": "Sketchy",
+    "level": "Bound",
+    "place": "36",
+    "points": 31
+  },
+  {
+    "player": "bigfish23",
+    "level": "Bound",
+    "place": "36",
+    "points": 31
+  },
+  {
+    "player": "CC15",
+    "level": "Bound",
+    "place": "36",
+    "points": 31
+  },
+  {
     "player": "denis",
     "level": "Another Step",
     "place": "37",
@@ -2305,6 +2395,18 @@
   },
   {
     "player": "WaLoe",
+    "level": "Another Step",
+    "place": "37",
+    "points": 30
+  },
+  {
+    "player": "Sketchy",
+    "level": "Another Step",
+    "place": "37",
+    "points": 30
+  },
+  {
+    "player": "CC15",
     "level": "Another Step",
     "place": "37",
     "points": 30
