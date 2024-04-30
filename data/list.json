@@ -2,7 +2,7 @@
   {
     "name": "Forced",
     "place": "1",
-    "id": "1038",
+    "id": "37",
     "creators": "lephantine",
     "verifier": "soley",
     "video": "https://www.youtube.com/watch?v=mPunAtqrAwQ",
@@ -15,7 +15,7 @@
   {
     "name": "Achelous",
     "place": "2",
-    "id": "1000",
+    "id": "5",
     "creators": "Shadow & denis",
     "verifier": "denis",
     "video": "https://www.youtube.com/watch?v=ixyKjZUM594",
@@ -30,7 +30,7 @@
   {
     "name": "BURN",
     "place": "3",
-    "id": "1477",
+    "id": "30",
     "creators": "soley",
     "verifier": "soley",
     "video": "https://www.youtube.com/watch?v=-p1NSTRDhdc",
@@ -58,7 +58,7 @@
   {
     "name": "DIOPSY",
     "place": "5",
-    "id": "390",
+    "id": "31",
     "creators": "Shadow",
     "verifier": "Lodomir",
     "video": "https://www.youtube.com/watch?v=51ELMfZ5qj0",
@@ -84,7 +84,7 @@
   {
     "name": "no chance",
     "place": "7",
-    "id": "302",
+    "id": "23",
     "creators": "denis",
     "verifier": "denis",
     "video": "https://youtu.be/f6q_uE3zV3M",
@@ -101,7 +101,7 @@
   {
     "name": "Destruction",
     "place": "8",
-    "id": "23",
+    "id": "4",
     "creators": "Lodomir",
     "verifier": "Lodomir",
     "video": "https://www.youtube.com/watch?v=INFd3bBjGVc",
@@ -116,7 +116,7 @@
   {
     "name": "Bludareta",
     "place": "9",
-    "id": "209",
+    "id": "15",
     "creators": "soley",
     "verifier": "denis",
     "video": "https://www.youtube.com/watch?v=lM-_g3ZLG6U",
@@ -136,7 +136,7 @@
   },
   {
     "name": "Solaris",
-    "place": "10",
+    "place": "9",
     "id": "7",
     "creators": "Shadow",
     "verifier": "soley",
@@ -152,7 +152,7 @@
   },
   {
     "name": "Green Machine",
-    "place": "11",
+    "place": "17",
     "id": "479",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -170,7 +170,7 @@
   {
     "name": "Dreams",
     "place": "12",
-    "id": "341",
+    "id": "16",
     "creators": "Lodomir",
     "verifier": "Lodomir",
     "video": "https://youtu.be/YGGCzceJJsE",
@@ -189,7 +189,7 @@
   {
     "name": "Kagayaku",
     "place": "13",
-    "id": "16",
+    "id": "13",
     "creators": "Firework",
     "verifier": "soley",
     "video": "https://www.youtube.com/watch?v=_TnuMuIPwes",
@@ -206,7 +206,7 @@
   {
     "name": "Wrongstep",
     "place": "14",
-    "id": "1303",
+    "id": "36",
     "creators": "Fri2k",
     "verifier": "Hykre",
     "video": "https://www.youtube.com/watch?v=dNrgeRgm2vQ",
@@ -217,7 +217,7 @@
   {
     "name": "Hellish World",
     "place": "15",
-    "id": "737",
+    "id": "35",
     "creators": "clubstep",
     "verifier": "soley",
     "video": "https://www.youtube.com/watch?v=N2Xa-Ds0va4",
@@ -231,7 +231,7 @@
   {
     "name": "Meowareta",
     "place": "16",
-    "id": "272",
+    "id": "18",
     "creators": "Shadow",
     "verifier": "Shadow",
     "video": "https://www.youtube.com/watch?v=UY_4QvhiIE8",
@@ -256,7 +256,7 @@
   {
     "name": "Resonating",
     "place": "17",
-    "id": "379",
+    "id": "19",
     "creators": "denis",
     "verifier": "denis",
     "video": "https://www.youtube.com/watch?v=KEuWiqv10Ek",
@@ -272,7 +272,7 @@
   {
     "name": "Eclipse",
     "place": "18",
-    "id": "6",
+    "id": "7",
     "creators": "Shadow",
     "verifier": "Lodomir",
     "video": "https://www.youtube.com/watch?v=ALWiohNsfYY",
@@ -316,7 +316,7 @@
   {
     "name": "Destiny",
     "place": "20",
-    "id": "5",
+    "id": "6",
     "creators": "Shadow",
     "verifier": "soley",
     "video": "https://www.youtube.com/watch?v=cb9Kj9-VrHw",
@@ -333,7 +333,7 @@
   {
     "name": "Worse Than Jeongi",
     "place": "21",
-    "id": "780",
+    "id": "33",
     "creators": "HomeFish",
     "verifier": "Hykre",
     "video": "https://youtu.be/vnVAj7cGcEA",
@@ -351,7 +351,7 @@
   {
     "name": "Better Than Jesse",
     "place": "22",
-    "id": "833",
+    "id": "34",
     "creators": "Shadow",
     "verifier": "Hykre",
     "video": "https://www.youtube.com/watch?v=BWNMA_L7ZDQ",
@@ -366,7 +366,7 @@
   {
     "name": "Fantasy",
     "place": "23",
-    "id": "62",
+    "id": "8",
     "creators": "Shadow",
     "verifier": "Shadow",
     "video": "https://www.youtube.com/watch?v=oUIHdV9DuWc",
@@ -384,7 +384,7 @@
   {
     "name": "Something Spacey",
     "place": "24",
-    "id": "1364",
+    "id": "32",
     "creators": "Viridi",
     "verifier": "Hykre",
     "video": "https://www.youtube.com/watch?v=dNrgeRgm2vQ",
@@ -400,7 +400,7 @@
   {
     "name": "Run Now Reborn",
     "place": "25",
-    "id": "1069",
+    "id": "20",
     "creators": "Shadow",
     "verifier": "Shadow",
     "video": "https://www.youtube.com/watch?v=bhm9qFtDpbw",
@@ -414,7 +414,7 @@
   {
     "name": "Yellow",
     "place": "26",
-    "id": "627",
+    "id": "29",
     "creators": "ced",
     "verifier": "ced",
     "video": "https://www.youtube.com/watch?v=Q00FaOA_7vk",
@@ -438,7 +438,7 @@
   {
     "name": "Wet In",
     "place": "27",
-    "id": "20",
+    "id": "14",
     "creators": "Shadow",
     "verifier": "Shadow",
     "video": "https://www.youtube.com/watch?v=Rqq2q3FJLrw",
@@ -457,7 +457,7 @@
   {
     "name": "New Home",
     "place": "28",
-    "id": "484",
+    "id": "28",
     "creators": "Lodomir",
     "verifier": "Lodomir",
     "video": "https://www.youtube.com/watch?v=lr3QhlIWLNo",
@@ -489,7 +489,7 @@
   {
     "name": "Bliss",
     "place": "29",
-    "id": "21",
+    "id": "11",
     "creators": "Shadow",
     "verifier": "Shadow",
     "video": "https://www.youtube.com/watch?v=H9rqPwspOXo",
@@ -512,7 +512,7 @@
   },
   {
     "name": "Faithful",
-    "place": "30",
+    "place": "11",
     "id": "13",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -563,9 +563,9 @@
     ]
   },
   {
-    "name": "DccJaasFdHHdvvteeeKs",
+    "name": "DccJaas",
     "place": "32",
-    "id": "549",
+    "id": "27",
     "creators": "ced",
     "verifier": "ced",
     "video": "https://www.youtube.com/watch?v=Lvuyb5LG0FU",
@@ -590,7 +590,7 @@
   {
     "name": "EvoCastle",
     "place": "33",
-    "id": "266",
+    "id": "26",
     "creators": "mzmr",
     "verifier": "denis",
     "video": "https://www.youtube.com/watch?v=VlB2QDfYhhw",
@@ -617,7 +617,7 @@
   {
     "name": "Hellish Land",
     "place": "34",
-    "id": "647",
+    "id": "25",
     "creators": "clubstep",
     "verifier": "Shadow",
     "video": "https://www.youtube.com/watch?v=c0Li9P4m-Dg",
@@ -649,7 +649,7 @@
   {
     "name": "Inferno Step",
     "place": "35",
-    "id": "437",
+    "id": "24",
     "creators": "MolloPro",
     "verifier": "Shadow",
     "video": "https://www.youtube.com/watch?v=HOWpUcQOdVM",
@@ -686,7 +686,7 @@
   {
     "name": "Bound",
     "place": "36",
-    "id": "510",
+    "id": "22",
     "creators": "Zoink",
     "verifier": "Shadow",
     "video": "https://www.youtube.com/watch?v=87Toi2h9WNs",
@@ -731,7 +731,7 @@
   {
     "name": "Another Step",
     "place": "37",
-    "id": "239",
+    "id": "21",
     "creators": "Mzmr",
     "verifier": "denis",
     "video": "https://youtu.be/FdJBYWDcCD8",
