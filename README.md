@@ -1,7 +1,7 @@
-# ClassiDash
+# ▣ ClassiDash
 ### 2.1 Geometry Dash Private Server
 
-Website: [classidash.fun](https://classidash.fun)
+🌐 Website: [classidash.fun](https://classidash.fun)
 
 ### Downloads:
 
