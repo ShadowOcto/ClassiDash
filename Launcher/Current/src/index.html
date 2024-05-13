@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ClassiDash Launcher V3</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="sidebar">
+        <div class="sidebar-top">
+            <h3>ClassiDash</h3>
+            <button id="launchTabButton" onclick="switchTab('launch')"><i class="fas fa-rocket"></i> Launch</button>
+            <button id="consoleButton" onclick="openModal()"><i class="fas fa-terminal"></i> Console</button>
+            <button id="dashboardButton" onclick="api.openURL('https://classidash.fun')"><i class="fas fa-desktop"></i> Dashboard</button>
+            <button id="discordButton" onclick="api.openURL('https://classidash.fun/discord')"><i class="fas fa-comment-alt"></i> Discord</button>
+        </div>                
+        <div class="sidebar-bottom">
+            <button id="aboutButton" onclick="switchTab('about')"><i class="fas fa-info-circle"></i> About</button>
+            <button id="exitButton" onclick="window.close(0)"><i class="fas fa-sign-out-alt"></i> Exit</button>
+        </div>
+    </div>
+    <div class="content">
+        <div id="aboutTab" class="tab-content">
+            <div class="ccontainer">
+                <p>Welcome to ClassiDash, make sure to join our <a href="https://classidash.fun/discord">discord server</a> for frequent community updates.</p>
+            </div>
+            <div id="newsContainer" class="news-container"></div>
+        </div>        
+        <div id="launchTab" class="tab-content">
+            <div class="ccontainer">
+                <p>Launch ClassiDash GDPS, launcher will automatically check classidash servers for client updates, uncheck "Check For Updates" to disable.</p>
+                <button id="launchButton"><i class="fas fa-rocket"></i> Launch</button>
+                <label for="updateCheckbox">
+                    <input type="checkbox" id="updateCheckbox" checked>
+                    Check for updates
+                </label>
+            </div>
+            <button id="folderButton" onclick="ipcRenderer.invoke('open-path', 'C:\\cdDevelopment\\')"><i class="fas fa-folder-open"></i>Open GDPS Folder</button>
+            <button id="appdataButton" onclick="ipcRenderer.invoke('run', 'start %localappdata%\\ClassiDashNEW\\')"><i class="fas fa-folder-open"></i>Open AppData Folder</button>
+            <button id="reinstallButton" onclick="reinstall()"><i class="fas fa-download"></i></i>Reinstall</button>
+        </div>        
+    </div>
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Output</h2>
+            <div id="consoleOutput"></div>
+            <div id="progressBarContainer">
+                <div id="progressBar"></div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

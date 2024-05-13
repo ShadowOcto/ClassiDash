@@ -11,7 +11,7 @@ def clear():
     history.clear()
     os.system('cls' if os.name == 'nt' else 'clear')
 
-def log(string, status):
+def log(string, status=''):
     if status.lower() == "s": status = Back.GREEN
     elif status.lower() == "f": status = Back.LIGHTRED_EX
     else: status = Back.LIGHTBLACK_EX
@@ -50,3 +50,5 @@ def spinner(cycles, status):
         printSpinner(f"∙∙● {status}")
         printSpinner(f"∙∙∙ {status}")
     for x in history: print(x)
+
+
