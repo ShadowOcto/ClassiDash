@@ -7,6 +7,8 @@ var version = 0;
 var updating = false;
 var downloadDirectory = 'C:\\cdDevelopment\\NEW\\';
 
+// If it doesn't have comments, ChatGPT didn't write it.
+
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
@@ -159,7 +161,6 @@ async function update() {
     if (updateFound) {
         try {
             updateConsoleOutput('Selected download directory: ' + downloadDirectory);
-            // ipcRenderer.invoke('download', downloadUrl, downloadDirectory)
             ipcRenderer.send("download", {
                 url: downloadUrl,
                 properties: {directory: downloadDirectory}
