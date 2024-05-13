@@ -1,0 +1,2 @@
+Needs a rewrite, unstable and poorly made.
+I know the auth is insecure, it doesn't actually matter because you need to be in the repo to update anything I just made it for fun.
