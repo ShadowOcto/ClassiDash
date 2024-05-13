@@ -1,8 +1,23 @@
 # ClassiDash
 ### 2.1 Geometry Dash Private Server
 
-Website: [classidash.fun](https://classidash.fun)\
-Server Source: [GMDprivateServer (repo)](https://github.com/MegaSa1nt/GMDprivateServer)
+Website: [classidash.fun](https://classidash.fun)
+
+### Downloads:
+
+Desktop
+
+[Windows (Installer)](https://github.com/ShadowOcto/ClassiDash/releases/download/Launcher/ClassiDashLauncherSetup.exe)\
+[Windows (Portable)](https://github.com/ShadowOcto/ClassiDash/releases/download/Launcher/ClassiDashLauncherPortable.exe)\
+[Linux/Mac (Wine/Proton)](https://www.dropbox.com/scl/fi/wdz5s4q3brq30nprdd4og/Linux.zip?rlkey=k65rgdcoa27n9o8f9ovm4iixq&dl=1)
+
+Mobile
+
+[Android (Sideload)](https://github.com/ShadowOcto/ClassiDash/releases/download/Mobile/ClassiDash.Mobile.apk)\
+[iOS (Sideload)](https://github.com/ShadowOcto/ClassiDash/releases/download/iOS/ClassiDash.Mobile.ipa)
+
+
+### Source:
 
 |  | Language |
 | - | - |
@@ -12,4 +27,6 @@ Demonlist Tools | Python
 
 ### Credits:
 Primary Developer: [@ShadowOcto](https://github.com/ShadowOcto)\
-Server Software: [@MegaSa1nt](https://github.com/MegaSa1n)
+Server Software: [@MegaSa1nt](https://github.com/MegaSa1nt)\
+Original Game: [RobTopGames](https://www.robtopgames.com/)\
+iOS Port: [@1cabii](https://github.com/1cabii)
