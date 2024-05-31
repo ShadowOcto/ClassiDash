@@ -6,6 +6,12 @@
     "points": 250
   },
   {
+    "player": "xaern",
+    "level": "T R A N C E",
+    "place": "1",
+    "points": 250
+  },
+  {
     "player": "soley",
     "level": "Forced",
     "place": "2",
@@ -19,6 +25,12 @@
   },
   {
     "player": "Hykre",
+    "level": "Forced",
+    "place": "2",
+    "points": 208
+  },
+  {
+    "player": "Elegant",
     "level": "Forced",
     "place": "2",
     "points": 208
@@ -151,6 +163,12 @@
   },
   {
     "player": "Th13teen",
+    "level": "wither",
+    "place": "7",
+    "points": 114
+  },
+  {
+    "player": "Iyzk",
     "level": "wither",
     "place": "7",
     "points": 114
@@ -313,6 +331,12 @@
   },
   {
     "player": "MatsubaYT",
+    "level": "Bludareta",
+    "place": "10",
+    "points": 89
+  },
+  {
+    "player": "Shad9r",
     "level": "Bludareta",
     "place": "10",
     "points": 89
@@ -750,6 +774,12 @@
     "points": 50
   },
   {
+    "player": "Opheebop",
+    "level": "Unnamed",
+    "place": "21",
+    "points": 50
+  },
+  {
     "player": "soley",
     "level": "Unnamed",
     "place": "21",
@@ -811,6 +841,12 @@
   },
   {
     "player": "Th13teen",
+    "level": "Eclipse",
+    "place": "22",
+    "points": 48
+  },
+  {
+    "player": "Shad9r",
     "level": "Eclipse",
     "place": "22",
     "points": 48
@@ -1026,6 +1062,18 @@
     "points": 43
   },
   {
+    "player": "ToastyTP",
+    "level": "Worse Than Jeongi",
+    "place": "25",
+    "points": 43
+  },
+  {
+    "player": "Safired",
+    "level": "Worse Than Jeongi",
+    "place": "25",
+    "points": 43
+  },
+  {
     "player": "Hykre",
     "level": "Better Than Jesse",
     "place": "26",
@@ -1063,6 +1111,12 @@
   },
   {
     "player": "boxy",
+    "level": "Better Than Jesse",
+    "place": "26",
+    "points": 42
+  },
+  {
+    "player": "CxGD",
     "level": "Better Than Jesse",
     "place": "26",
     "points": 42
@@ -1159,6 +1213,18 @@
   },
   {
     "player": "Th13teen",
+    "level": "Something Spacey",
+    "place": "28",
+    "points": 39
+  },
+  {
+    "player": "Dact",
+    "level": "Something Spacey",
+    "place": "28",
+    "points": 39
+  },
+  {
+    "player": "Plastic",
     "level": "Something Spacey",
     "place": "28",
     "points": 39
@@ -1351,6 +1417,12 @@
   },
   {
     "player": "nxgito",
+    "level": "Wet In",
+    "place": "31",
+    "points": 36
+  },
+  {
+    "player": "Frozix",
     "level": "Wet In",
     "place": "31",
     "points": 36
@@ -1614,6 +1686,12 @@
     "points": 34
   },
   {
+    "player": "Frozix",
+    "level": "Bliss",
+    "place": "33",
+    "points": 34
+  },
+  {
     "player": "Shadow",
     "level": "Faithful",
     "place": "34",
@@ -1753,6 +1831,12 @@
   },
   {
     "player": "MatsubaYT",
+    "level": "Faithful",
+    "place": "34",
+    "points": 33
+  },
+  {
+    "player": "Donxxxt",
     "level": "Faithful",
     "place": "34",
     "points": 33
@@ -1950,6 +2034,24 @@
     "points": 31
   },
   {
+    "player": "Donxxxt",
+    "level": "DccJaas",
+    "place": "36",
+    "points": 31
+  },
+  {
+    "player": "Sketchy",
+    "level": "DccJaas",
+    "place": "36",
+    "points": 31
+  },
+  {
+    "player": "MonkeYT",
+    "level": "DccJaas",
+    "place": "36",
+    "points": 31
+  },
+  {
     "player": "denis",
     "level": "EvoCastle",
     "place": "37",
@@ -2064,6 +2166,30 @@
     "points": 30
   },
   {
+    "player": "Sketchy",
+    "level": "EvoCastle",
+    "place": "37",
+    "points": 30
+  },
+  {
+    "player": "Hykre",
+    "level": "Dry In",
+    "place": "38",
+    "points": 30
+  },
+  {
+    "player": "ILoveWinter",
+    "level": "Dry In",
+    "place": "38",
+    "points": 30
+  },
+  {
+    "player": "Opheebop",
+    "level": "Dry In",
+    "place": "38",
+    "points": 30
+  },
+  {
     "player": "Hykre",
     "level": "Dry In",
     "place": "38",
@@ -2071,6 +2197,18 @@
   },
   {
     "player": "Hykre",
+    "level": "Fracture",
+    "place": "39",
+    "points": 29
+  },
+  {
+    "player": "Opheebop",
+    "level": "Fracture",
+    "place": "39",
+    "points": 29
+  },
+  {
+    "player": "Sketchy",
     "level": "Fracture",
     "place": "39",
     "points": 29
@@ -2215,6 +2353,18 @@
   },
   {
     "player": "MatsubaYT",
+    "level": "Hellish Land",
+    "place": "40",
+    "points": 28
+  },
+  {
+    "player": "Yoshikiller109",
+    "level": "Hellish Land",
+    "place": "40",
+    "points": 28
+  },
+  {
+    "player": "Cubby",
     "level": "Hellish Land",
     "place": "40",
     "points": 28
@@ -2400,7 +2550,61 @@
     "points": 28
   },
   {
+    "player": "Yoshikiller109",
+    "level": "Inferno Step",
+    "place": "41",
+    "points": 28
+  },
+  {
+    "player": "Cubby",
+    "level": "Inferno Step",
+    "place": "41",
+    "points": 28
+  },
+  {
+    "player": "Niyba",
+    "level": "Inferno Step",
+    "place": "41",
+    "points": 28
+  },
+  {
     "player": "Shadow",
+    "level": "Vipers",
+    "place": "42",
+    "points": 27
+  },
+  {
+    "player": "Yoshikiller109",
+    "level": "Vipers",
+    "place": "42",
+    "points": 27
+  },
+  {
+    "player": "Opheebop",
+    "level": "Vipers",
+    "place": "42",
+    "points": 27
+  },
+  {
+    "player": "TheZeroMan",
+    "level": "Vipers",
+    "place": "42",
+    "points": 27
+  },
+  {
+    "player": "Dact",
+    "level": "Vipers",
+    "place": "42",
+    "points": 27
+  },
+  {
+    "player": "Cubby",
+    "level": "Vipers",
+    "place": "42",
+    "points": 27
+  },
+  {
+    "player": "Charlief290",
     "level": "Vipers",
     "place": "42",
     "points": 27
@@ -2617,6 +2821,24 @@
   },
   {
     "player": "MatsubaYT",
+    "level": "Another Step",
+    "place": "43",
+    "points": 27
+  },
+  {
+    "player": "Yoshikiller109",
+    "level": "Another Step",
+    "place": "43",
+    "points": 27
+  },
+  {
+    "player": "Cubby",
+    "level": "Another Step",
+    "place": "43",
+    "points": 27
+  },
+  {
+    "player": "CxGD",
     "level": "Another Step",
     "place": "43",
     "points": 27
@@ -2857,6 +3079,36 @@
   },
   {
     "player": "GlitchUK",
+    "level": "Bound",
+    "place": "44",
+    "points": 26
+  },
+  {
+    "player": "Yoshikiller109",
+    "level": "Bound",
+    "place": "44",
+    "points": 26
+  },
+  {
+    "player": "Cubby",
+    "level": "Bound",
+    "place": "44",
+    "points": 26
+  },
+  {
+    "player": "CxGD",
+    "level": "Bound",
+    "place": "44",
+    "points": 26
+  },
+  {
+    "player": "peppersway",
+    "level": "Bound",
+    "place": "44",
+    "points": 26
+  },
+  {
+    "player": "DumbYote",
     "level": "Bound",
     "place": "44",
     "points": 26

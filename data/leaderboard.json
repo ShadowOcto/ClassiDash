@@ -1,7 +1,7 @@
 [
   {
-    "player": "Th13teen",
-    "points": 2455,
+    "player": "Hykre",
+    "points": 2480,
     "badges": [
       "Top1",
       "2kPts",
@@ -13,8 +13,8 @@
     ]
   },
   {
-    "player": "Hykre",
-    "points": 2450,
+    "player": "Th13teen",
+    "points": 2455,
     "badges": [
       "Top1",
       "2kPts",
@@ -147,9 +147,33 @@
     "badges": []
   },
   {
-    "player": "ILoveWinter",
-    "points": 233,
+    "player": "Dact",
+    "points": 276,
     "badges": []
+  },
+  {
+    "player": "Sketchy",
+    "points": 266,
+    "badges": []
+  },
+  {
+    "player": "ILoveWinter",
+    "points": 263,
+    "badges": []
+  },
+  {
+    "player": "xaern",
+    "points": 250,
+    "badges": [
+      "FirstVictor"
+    ]
+  },
+  {
+    "player": "Safired",
+    "points": 246,
+    "badges": [
+      "FirstVictor"
+    ]
   },
   {
     "player": "bigfish23",
@@ -167,26 +191,24 @@
     "badges": []
   },
   {
+    "player": "Opheebop",
+    "points": 217,
+    "badges": []
+  },
+  {
     "player": "sScape",
     "points": 216,
     "badges": []
   },
   {
-    "player": "Dact",
-    "points": 210,
+    "player": "Elegant",
+    "points": 208,
     "badges": []
   },
   {
     "player": "Cand3y",
     "points": 203,
     "badges": []
-  },
-  {
-    "player": "Safired",
-    "points": 203,
-    "badges": [
-      "FirstVictor"
-    ]
   },
   {
     "player": "cubepilot",
@@ -196,11 +218,6 @@
   {
     "player": "Oblivionus",
     "points": 186,
-    "badges": []
-  },
-  {
-    "player": "Sketchy",
-    "points": 176,
     "badges": []
   },
   {
@@ -231,16 +248,44 @@
     "badges": []
   },
   {
+    "player": "Shad9r",
+    "points": 137,
+    "badges": []
+  },
+  {
+    "player": "Shad9r",
+    "points": 137,
+    "badges": []
+  },
+  {
+    "player": "Yoshikiller109",
+    "points": 136,
+    "badges": []
+  },
+  {
+    "player": "Cubby",
+    "points": 136,
+    "badges": []
+  },
+  {
+    "player": "Yoshikiller109",
+    "points": 136,
+    "badges": []
+  },
+  {
     "player": "nowar",
     "points": 135,
     "badges": []
   },
   {
-    "player": "Opheebop",
+    "player": "Frozix",
     "points": 131,
-    "badges": [
-      "FirstVictor"
-    ]
+    "badges": []
+  },
+  {
+    "player": "Iyzk",
+    "points": 114,
+    "badges": []
   },
   {
     "player": "Innardss",
@@ -273,8 +318,23 @@
     "badges": []
   },
   {
+    "player": "Donxxxt",
+    "points": 99,
+    "badges": []
+  },
+  {
     "player": "PsyTroN47k",
     "points": 96,
+    "badges": []
+  },
+  {
+    "player": "CxGD",
+    "points": 95,
+    "badges": []
+  },
+  {
+    "player": "CxGD",
+    "points": 95,
     "badges": []
   },
   {
@@ -335,11 +395,6 @@
     "badges": []
   },
   {
-    "player": "Frozix",
-    "points": 61,
-    "badges": []
-  },
-  {
     "player": "Wowa",
     "points": 57,
     "badges": []
@@ -352,9 +407,7 @@
   {
     "player": "ixpizza",
     "points": 57,
-    "badges": [
-      "FirstVictor"
-    ]
+    "badges": []
   },
   {
     "player": "Layse",
@@ -397,15 +450,18 @@
     "badges": []
   },
   {
-    "player": "boxy",
-    "points": 42,
-    "badges": [
-      "FirstVictor"
-    ]
+    "player": "ToastyTP",
+    "points": 43,
+    "badges": []
   },
   {
-    "player": "Donxxxt",
-    "points": 35,
+    "player": "boxy",
+    "points": 42,
+    "badges": []
+  },
+  {
+    "player": "Plastic",
+    "points": 39,
     "badges": []
   },
   {
@@ -414,8 +470,28 @@
     "badges": []
   },
   {
+    "player": "MonkeYT",
+    "points": 31,
+    "badges": []
+  },
+  {
     "player": "Krillz",
     "points": 28,
+    "badges": []
+  },
+  {
+    "player": "Niyba",
+    "points": 28,
+    "badges": []
+  },
+  {
+    "player": "TheZeroMan",
+    "points": 27,
+    "badges": []
+  },
+  {
+    "player": "Charlief290",
+    "points": 27,
     "badges": []
   },
   {
@@ -440,6 +516,16 @@
   },
   {
     "player": "hurricane",
+    "points": 26,
+    "badges": []
+  },
+  {
+    "player": "peppersway",
+    "points": 26,
+    "badges": []
+  },
+  {
+    "player": "DumbYote",
     "points": 26,
     "badges": []
   }
