@@ -144,19 +144,6 @@
   {
     "player": "Drake",
     "points": 289,
-    "badges": [
-      "Top1",
-      "2kPts",
-      "1kPts",
-      "Top5",
-      "BeatTop1",
-      "BeatTop5",
-      "FirstVictor"
-    ]
-  },
-  {
-    "player": "Drake",
-    "points": 289,
     "badges": []
   },
   {
@@ -415,15 +402,7 @@
   {
     "player": "Finn",
     "points": 60,
-    "badges": [
-      "Top1",
-      "2kPts",
-      "1kPts",
-      "Top5",
-      "BeatTop1",
-      "BeatTop5",
-      "FirstVictor"
-    ]
+    "badges": []
   },
   {
     "player": "Wowa",
