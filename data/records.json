@@ -444,6 +444,12 @@
     "points": 78
   },
   {
+    "player": "CxGD",
+    "level": "Dreams",
+    "place": "12",
+    "points": 78
+  },
+  {
     "player": "soley",
     "level": "PolterX",
     "place": "13",
@@ -594,6 +600,12 @@
     "points": 60
   },
   {
+    "player": "Finn",
+    "level": "Green Machine",
+    "place": "17",
+    "points": 60
+  },
+  {
     "player": "Shadow",
     "level": "Meowareta",
     "place": "18",
@@ -720,6 +732,12 @@
     "points": 57
   },
   {
+    "player": "Igloo",
+    "level": "Meowareta",
+    "place": "18",
+    "points": 57
+  },
+  {
     "player": "cerufiffy",
     "level": "Patricia Taxxon",
     "place": "19",
@@ -763,6 +781,12 @@
   },
   {
     "player": "Th13teen",
+    "level": "Resonating",
+    "place": "20",
+    "points": 52
+  },
+  {
+    "player": "Drake",
     "level": "Resonating",
     "place": "20",
     "points": 52
@@ -847,6 +871,12 @@
   },
   {
     "player": "Shad9r",
+    "level": "Eclipse",
+    "place": "22",
+    "points": 48
+  },
+  {
+    "player": "CxGD",
     "level": "Eclipse",
     "place": "22",
     "points": 48
@@ -960,6 +990,18 @@
     "points": 46
   },
   {
+    "player": "Drake",
+    "level": "Night",
+    "place": "23",
+    "points": 46
+  },
+  {
+    "player": "Scizor",
+    "level": "Night",
+    "place": "23",
+    "points": 46
+  },
+  {
     "player": "soley",
     "level": "Destiny",
     "place": "24",
@@ -1003,6 +1045,12 @@
   },
   {
     "player": "Th13teen",
+    "level": "Destiny",
+    "place": "24",
+    "points": 45
+  },
+  {
+    "player": "CxGD",
     "level": "Destiny",
     "place": "24",
     "points": 45
@@ -1176,6 +1224,12 @@
     "points": 40
   },
   {
+    "player": "Drake",
+    "level": "Fantasy",
+    "place": "27",
+    "points": 40
+  },
+  {
     "player": "Hykre",
     "level": "Something Spacey",
     "place": "28",
@@ -1225,6 +1279,12 @@
   },
   {
     "player": "Plastic",
+    "level": "Something Spacey",
+    "place": "28",
+    "points": 39
+  },
+  {
+    "player": "MonkeYT",
     "level": "Something Spacey",
     "place": "28",
     "points": 39
@@ -1345,6 +1405,12 @@
   },
   {
     "player": "Th13teen",
+    "level": "Yellow",
+    "place": "30",
+    "points": 37
+  },
+  {
+    "player": "Drake",
     "level": "Yellow",
     "place": "30",
     "points": 37
@@ -1914,6 +1980,12 @@
     "points": 32
   },
   {
+    "player": "Drake",
+    "level": "Cry About It",
+    "place": "35",
+    "points": 32
+  },
+  {
     "player": "ced",
     "level": "DccJaas",
     "place": "36",
@@ -2370,6 +2442,24 @@
     "points": 28
   },
   {
+    "player": "peppersway",
+    "level": "Hellish Land",
+    "place": "40",
+    "points": 28
+  },
+  {
+    "player": "Drake",
+    "level": "Hellish Land",
+    "place": "40",
+    "points": 28
+  },
+  {
+    "player": "ashe",
+    "level": "Hellish Land",
+    "place": "40",
+    "points": 28
+  },
+  {
     "player": "Shadow",
     "level": "Inferno Step",
     "place": "41",
@@ -2568,6 +2658,18 @@
     "points": 28
   },
   {
+    "player": "peppersway",
+    "level": "Inferno Step",
+    "place": "41",
+    "points": 28
+  },
+  {
+    "player": "Drake",
+    "level": "Inferno Step",
+    "place": "41",
+    "points": 28
+  },
+  {
     "player": "Shadow",
     "level": "Vipers",
     "place": "42",
@@ -2611,6 +2713,12 @@
   },
   {
     "player": "peppersway",
+    "level": "Vipers",
+    "place": "42",
+    "points": 27
+  },
+  {
+    "player": "ashe",
     "level": "Vipers",
     "place": "42",
     "points": 27
@@ -3121,6 +3229,24 @@
   },
   {
     "player": "DumbYote",
+    "level": "Bound",
+    "place": "44",
+    "points": 26
+  },
+  {
+    "player": "Drake",
+    "level": "Bound",
+    "place": "44",
+    "points": 26
+  },
+  {
+    "player": "nuggetman420",
+    "level": "Bound",
+    "place": "44",
+    "points": 26
+  },
+  {
+    "player": "ashe",
     "level": "Bound",
     "place": "44",
     "points": 26

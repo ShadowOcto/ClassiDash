@@ -142,6 +142,24 @@
     "badges": []
   },
   {
+    "player": "Drake",
+    "points": 289,
+    "badges": [
+      "Top1",
+      "2kPts",
+      "1kPts",
+      "Top5",
+      "BeatTop1",
+      "BeatTop5",
+      "FirstVictor"
+    ]
+  },
+  {
+    "player": "Drake",
+    "points": 289,
+    "badges": []
+  },
+  {
     "player": "dachii",
     "points": 279,
     "badges": []
@@ -149,6 +167,11 @@
   {
     "player": "Dact",
     "points": 276,
+    "badges": []
+  },
+  {
+    "player": "CxGD",
+    "points": 266,
     "badges": []
   },
   {
@@ -248,6 +271,11 @@
     "badges": []
   },
   {
+    "player": "Igloo",
+    "points": 139,
+    "badges": []
+  },
+  {
     "player": "Shad9r",
     "points": 137,
     "badges": []
@@ -259,6 +287,11 @@
   },
   {
     "player": "Cubby",
+    "points": 136,
+    "badges": []
+  },
+  {
+    "player": "peppersway",
     "points": 136,
     "badges": []
   },
@@ -318,11 +351,6 @@
     "badges": []
   },
   {
-    "player": "CxGD",
-    "points": 95,
-    "badges": []
-  },
-  {
     "player": "AshDotMp3",
     "points": 92,
     "badges": []
@@ -338,18 +366,13 @@
     "badges": []
   },
   {
-    "player": "Igloo",
-    "points": 82,
+    "player": "ashe",
+    "points": 81,
     "badges": []
   },
   {
     "player": "nico",
     "points": 81,
-    "badges": []
-  },
-  {
-    "player": "peppersway",
-    "points": 80,
     "badges": []
   },
   {
@@ -362,6 +385,11 @@
   {
     "player": "nxgito",
     "points": 71,
+    "badges": []
+  },
+  {
+    "player": "MonkeYT",
+    "points": 70,
     "badges": []
   },
   {
@@ -383,6 +411,19 @@
     "player": "zonkers",
     "points": 63,
     "badges": []
+  },
+  {
+    "player": "Finn",
+    "points": 60,
+    "badges": [
+      "Top1",
+      "2kPts",
+      "1kPts",
+      "Top5",
+      "BeatTop1",
+      "BeatTop5",
+      "FirstVictor"
+    ]
   },
   {
     "player": "Wowa",
@@ -440,6 +481,11 @@
     "badges": []
   },
   {
+    "player": "Scizor",
+    "points": 46,
+    "badges": []
+  },
+  {
     "player": "ToastyTP",
     "points": 43,
     "badges": []
@@ -457,11 +503,6 @@
   {
     "player": "astronomical",
     "points": 35,
-    "badges": []
-  },
-  {
-    "player": "MonkeYT",
-    "points": 31,
     "badges": []
   },
   {
@@ -511,6 +552,11 @@
   },
   {
     "player": "DumbYote",
+    "points": 26,
+    "badges": []
+  },
+  {
+    "player": "nuggetman420",
     "points": 26,
     "badges": []
   }
