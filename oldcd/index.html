@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<title>ClassiDash</title>
+<meta content="ClassiDash GDPS" property="og:title" />
+<meta content="ClassiDash is a 2.1 GDPS by Shadow, soley & denis." property="og:description" />
+<meta content="https://classidash.fun" property="og:url" />
+<meta content="https://classidash.fun/assets/Banner.png" property="og:image" />
+<meta content="#FFFFFF" data-react-helmet="true" name="theme-color" />
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ClassiDash</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="container">
+                <img src="./assets/icon.png" alt="ClassiDash Icon" class="icon">
+                <div class="logo">ClassiDash</div>
+                <ul>
+                    <li><a href="#" class="tablink active" data-target="home">Home</a></li>
+                    <li><a href="#" class="tablink" data-target="credits">Credits</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <section id="home" class="tabcontent">
+        <!-- Home Content -->
+        <video autoplay muted loop id="video-bg">
+            <source src="./assets/bg.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        <div class="content">
+            <h1>Welcome to ClassiDash</h1>
+            <div class="subtitle">The definitive 2.1 experience</div>
+            <!-- New elements -->
+            <div class="button-container">
+                <div class="dropdown">
+                    <button class="dropbtn">Download</button>
+                    <div class="dropdown-content">
+                        <a href="https://github.com/ShadowOcto/ClassiDash/releases/download/Launcher/ClassiDashLauncherSetup.exe">Windows</a>
+                        <a href="https://github.com/ShadowOcto/ClassiDash/releases/download/Launcher/ClassiDashLauncherPortable.exe">Windows (Portable)</a>
+                        <a href="https://github.com/ShadowOcto/ClassiDash/releases/download/Mobile/ClassiDash.Mobile.apk">Android</a>
+                        <a href="https://github.com/ShadowOcto/ClassiDash/releases/download/iOS/ClassiDash.Mobile.ipa">iOS</a>
+                        <a href="https://www.dropbox.com/scl/fi/wdz5s4q3brq30nprdd4og/Linux.zip?rlkey=k65rgdcoa27n9o8f9ovm4iixq&dl=1">Linux</a>
+                    </div>
+                </div>
+                <a href="https://classidash.fun/dashboard" class="btn">Dashboard</a>
+            </div>
+            <div class="faq">
+                <h2>FAQ</h2>
+                <div class="question">How do I register my account?</div>
+                <div class="answer">Register your account on the <a href="https://classidash.fun/dashboard">Dashboard</a>.</div>
+
+                <div class="question">How do I install MegaHack?</div>
+                <div class="answer">Simply change the install location to the one seen <a target="#" href="https://classidash.fun/assets/MHV7.png">here</a>.</div>
+            </div>
+        </div>        
+    </section>
+    <section id="credits" class="tabcontent" style="display: none;">
+        <h1 class="header">Credits</h1>
+
+        <h1 class="ownerTitle">Owners</h1>
+        <div class="owners">
+            <div class="credit">
+                <img src="https://classidash.fun/icons/Shadow.png" alt="User Icon" class="user-icon">
+                <h3>Shadow</h3>
+                <p>Owner</br>Creator of GDPS</br>Made This Website</p>
+                <a target="#" href="https://shadowocto.github.io">Website</a>
+            </div>
+            <div class="credit">
+                <img src="https://classidash.fun/icons/soley.png" alt="User Icon" class="user-icon">
+                <h3>soley</h3>
+                <p>Owner</br>Community Manager</br>Designer Of Logo</p>
+                <a target="#" href="https://youtube.com/@SoleyGD">YouTube</a>
+            </div>
+            <div class="credit">
+                <img src="https://classidash.fun/icons/denis.png" alt="User Icon" class="user-icon">
+                <h3>denis</h3>
+                <p>Owner</br>Community Manager</br>Added Discord Emojis</p>
+                <a target="#" href="https://youtube.com/rexyyqt">YouTube</a>
+                <a target="#" href="https://open.spotify.com/artist/1svX5Zjzr5HyOFSarZmGUy?si=f0pkIVHrReySB6appA8AxA&nd=1&dlsi=d5e4d6ea8a524e45">Spotify</a>
+            </div>
+        </div>
+        <h1 class="developerTitle">Developers</h1>
+        <div class="developers">
+            <div class="credit">
+                <img src="https://classidash.fun/icons/CattoDev.png" alt="User Icon" class="user-icon">
+                <h3>Catto</h3>
+                <p>Developer</br>Assisted Client Development</p>
+                <a target="#" href="https://github.com/CattoDev">GitHub</a>
+                <a target="#" href="https://twitter.com/cattodevgd">Twitter</a>
+            </div>
+            <div class="credit">
+                <img src="https://classidash.fun/icons/brie.png" alt="User Icon" class="user-icon">
+                <h3>brie</h3>
+                <p>Developer</br>Assisted Server Development</p>
+                <a target="#" href="https://linktr.ee/brieus">Website</a>
+            </div>
+            <div class="credit">
+                <img src="https://classidash.fun/icons/cabi.png" alt="User Icon" class="user-icon">
+                <h3>cabi</h3>
+                <p>Developer</br>Created ClassiDash iOS</p>
+                <a target="#" href="https://youtube.com/@cabii00">YouTube</a>
+            </div>
+        </div>
+    </section>
+    <section id="launcher" class="tabcontent" style="display: none;">
+        <h1 class="header">Launcher</h1>
+        <p class="launcherSubtitle">Give our new launcher a try</p>
+        <iframe width="900" height="550" src="/launcher/" class="launcherFrame"></iframe>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>
